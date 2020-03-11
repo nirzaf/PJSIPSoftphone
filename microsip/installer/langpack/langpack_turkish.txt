@@ -1,0 +1,363 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Ara
+[End Call]
+Bitir
+[Contacts]
+Kişiler
+[Phone]
+Tuşlar
+[Account]
+Hesap
+[Settings]
+Ayarlar
+[Visit Website]
+Websitesini ziyaret et
+[Exit]
+Çıkış
+[Ringing Sound]
+Zil sesi
+[Browse...]
+Göz at...
+[Default]
+Varsayılan
+[Auto Answer]
+Otomatik yanıtla
+[Disable Local Account]
+Yerel hesabı etkisizleştir
+[OK]
+Tamam
+[Save]
+Kaydet
+[Cancel]
+İptal
+[SIP Server]
+SIP sunucu
+[SIP Proxy]
+SIP vekil sunucu
+[Username]
+Kullanıcı
+[Domain]
+Etki alanı
+[Password]
+Parola
+[Connecting...]
+Bağlanıyor...
+[Online]
+Çevrim içi
+[Local]
+Yerel
+[Message]
+İleti
+[Edit]
+Düzenle
+[Delete]
+Sil
+[Add]
+Ekle
+[Bad Gateway]
+Geçersiz ağ geçidi
+[Request Timeout]
+İstek zaman aşımı
+[Number]
+Numara
+[Name]
+Ad
+[Contact]
+Kişi
+[Incoming Call]
+Gelen arama
+[Answer]
+Yanıtla
+[Decline]
+Reddet
+[Calling]
+Arıyor
+[Connecting]
+Bağlanıyor
+[Connected]
+Bağlandı
+[Auto]
+Kendiliğinden
+[Transport]
+Nakil
+[Incorrect Password]
+Yanlış parola
+[Public Address]
+Genel adres
+[Media Encryption]
+Ortam şifrelemesi
+[Disabled]
+Etkin değil
+[Optional]
+İsteğe bağlı
+[Mandatory]
+Zorunlu
+[STUN Server]
+STUN Sunucu
+[Presence Subscription]
+Varlık aboneliği
+[Ringing]
+Çalıyor
+[Call Ended]
+Arama sonlandı
+[Declined]
+Reddedildi
+[No address found]
+Adres bulunamadı
+[Request Terminated]
+İsteğe son verildi
+[Away]
+Uzakta
+[Publish Presence]
+Varlığı yayımla
+[Session Progress]
+Oturum süreci
+[Camera]
+Kamera
+[Video Call]
+Görüntülü ara
+[Answer with Video]
+Görüntülü cevapla
+[View Log File]
+Kayıt dosyasını görüntüle
+[Microphone]
+Mikrofon
+[Speaker]
+Hoparlör
+[Video Codec]
+Görüntü çözücü
+[Check for Updates]
+Güncelleştirmeleri denetle
+[Daily]
+Günlük
+[Weekly]
+Haftalık
+[Monthly]
+Aylık
+[Quarterly]
+Üç ayda bir
+[Never]
+Asla
+[Update Available]
+Güncelleştirme mevcut
+[Do you want to update now?]
+Şimdi güncelleştirmek ister misiniz?
+[Force Codec for Incoming]
+Gelen arama için çözücüyü zorla
+[Available Codecs]
+Uygun
+[Enabled Codecs]
+Etkin
+[Invalid URI]
+Geçersiz URI
+[Offline]
+Çevrim dışı
+[Single Call Mode]
+Tekil arama modu
+[Local Video]
+Yerel görüntü
+[Call Transfer]
+Arama aktarma
+[final]
+Son
+[Call transfered successfully, disconnecting call]
+Arama başarıyla aktarıldı, arama kesiliyor
+[Hold]
+Beklet
+[Transfer]
+Aktar
+[Sound Events]
+Sesleri çal
+[Bitrate]
+Bit oranı
+[Login]
+Oturum aç
+[Enable Log File]
+Kayıt dosyasını etkinleştir
+[Logs]
+Aramalar
+[Duration]
+Süre
+[Info]
+Bilgi
+[display password]
+parolayı göster
+[From]
+Kimden
+[To]
+Kime
+[Ring Device]
+Zil aygıtı
+[Service Unavailable]
+Hizmet mevcut değil
+[Invalid Request URI]
+Geçersiz URI İsteği
+[Busy Here]
+Meşgul
+[Trying]
+Deniyor
+[Method Not Allowed]
+İzinsiz yöntem
+[Not Found]
+Bulunamadı
+[Always on Top]
+Her zaman üstte
+[Connect]
+Bağlan
+[Last Call]
+Son arama
+[Close All]
+Hepsini kapat
+[Copy]
+Kopyala
+[Select All]
+Hepsini seç
+[Display Name]
+Görünen ad
+[Remember Details]
+Ayrıntıları hatırla
+[PIN]
+[No]
+Hayır
+[All Calls]
+Tüm aramalar
+[SIP Header]
+SIP Başlığı
+[Different User]
+Farklı kullanıcı
+[Different Domain]
+Farklı etki alanı
+[Different User or Domain]
+Farklı kullanıcı veya etki alanı
+[Different Remote Domain]
+Farklı uzak etki alanı
+[Deny Incoming]
+Gelen aramaları reddet
+[Allow IP Rewrite]
+IP yeniden yazmaya İzin ver
+[Directory of Users]
+Kullanıcılar dizini
+[Call on Remote Hold]
+Arama uzak beklemede
+[Call on Local Hold]
+Arama yerel beklemede
+[Call on Hold]
+Arama beklemede
+[Call is Active]
+Arama etkin
+[Menu]
+Menü
+[Edit Account]
+Hesabı düzenle
+[Add Account...]
+Hesap ekle...
+[Remove Account]
+Hesabı kaldır
+[Make Active]
+Etkinleştir
+[Are you sure you want to remove?]
+Kaldırmak istediğinizden emin misiniz?
+[Call Pickup]
+Çağrı topla
+[Speaker Level]
+Hoparlör seviyesi
+[Microphone Level]
+Mikrofon seviyesi
+[Mute Speaker]
+Hoparlörü sustur
+[Mute Microphone]
+Mikrofonu sustur
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+Lütfen * ile işaretli alanları doldurun.
+[Ask your SIP provider how to configure the account correctly.]
+Hesap ayarlarını doğru yapmak için SIP servis sağlayıcınıza ulaşın
+[Random Popup Position]
+Konumu değişken cevaplama kutusu
+[Time]
+Zaman
+[Attended Transfer]
+Aktarma (Bildirimli)
+[Launch URL on incoming call]
+[Enable Local Account]
+Yerel hesabı etkinleştir
+[Send Crash Report]
+Çökme raporu gönder
+[Account Name]
+Hesap adı
+[Invite to Conference]
+Konferansa davet et
+[Merge]
+Birleştir
+[Separate]
+Ayır
+[Disconnect]
+Kapat
+[DTMF Method]
+DTMF methodu
+[Voicemail Number]
+Sesli mesaj sayısı
+[Disable Session Timers]
+Oturum süre ölçerini etkisizleştir
+[Microphone Amplification]
+Mikrofon yükseltme
+[Software Level Adjustment]
+Yazılım seviye ayarlama
+[Shortcuts]
+Kısayollar
+[Enable]
+Etkinleştir
+[Label]
+Etiket
+[Type]
+Türü
+[Bottom Position]
+Alt konum
+[You need to restart application for the changes to take effect.]
+Değişikliklerin etkili olması için uygulamayı yeniden başlatmanız gerekir.
+[Handle Media Buttons]
+Görüntü ve ses butonları
+[Bring to Front on Incoming Call]
+Gelen aramayı ön tarafa getir
+[SIP account]
+[SIP password]
+[Help]
+Yardım
+[Video Bitrate]
+Video Bit Hızı
+[Control Button]
+Kontrol Butonu
+[Do Not Disturb]
+Rahatsız Etme
+[Source Port]
+Kaynak Bağlantı Noktası
+[RTP Ports]
+RTP Portları
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+İçeri Aktar
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+Tekrar ara
+[Backspace]
+Geri tuşu
+[Clear]
+Temizle
+[Use Space key to enable selected codec]
+Seçili codec'i aktifleştirmek için Space tuşunu kullanın
+[Use Delele key to disable selected codec]
+Seçili codec'i etkisizleştirmek için Delete tuşunu kullanın
+[Make Inactive]
+[Conference]
+Konferans
+[]

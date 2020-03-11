@@ -1,0 +1,364 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Chamar
+[End Call]
+Terminar
+[Contacts]
+Contactos
+[Phone]
+Teclado
+[Account]
+Conta
+[Settings]
+Configurações
+[Visit Website]
+Visitar Website
+[Exit]
+Sair
+[Ringing Sound]
+Som de Chamada
+[Browse...]
+Procurar...
+[Default]
+Padrão
+[Auto Answer]
+Atendimento Automático
+[Disable Local Account]
+Desactivar Conta Local
+[OK]
+OK
+[Save]
+Guardar
+[Cancel]
+Cancelar
+[SIP Server]
+Servidor SIP
+[SIP Proxy]
+Proxy SIP
+[Username]
+Utilizador
+[Domain]
+Domínio
+[Password]
+Palavra-passe
+[Connecting...]
+A Ligar...
+[Online]
+Ligado
+[Local]
+Local
+[Message]
+Mensagem
+[Edit]
+Editar
+[Delete]
+Eliminar
+[Add]
+Adicionar
+[Bad Gateway]
+Gateway Inválido
+[Request Timeout]
+Pedido Expirado
+[Number]
+Número
+[Name]
+Nome
+[Contact]
+Contacto
+[Incoming Call]
+Chamada Recebida
+[Answer]
+Atender
+[Decline]
+Rejeitar
+[Calling]
+A Chamar
+[Connecting]
+A Ligar
+[Connected]
+Ligado
+[Auto]
+Automático
+[Transport]
+Transporte
+[Incorrect Password]
+Palavra-passe Incorrecta
+[Public Address]
+Endereço Público
+[Media Encryption]
+Encriptação
+[Disabled]
+Desactivado
+[Optional]
+Opcional
+[Mandatory]
+Obrigatório
+[STUN Server]
+Servidor STUN
+[Presence Subscription]
+Subscrição de Presença
+[Ringing]
+A Tocar
+[Call Ended]
+Chamada Terminada
+[Declined]
+Rejeitado
+[No address found]
+Endereço não encontrado
+[Request Terminated]
+Pedido Terminado
+[Away]
+Ausente
+[Publish Presence]
+Publicar Presença
+[Session Progress]
+Progresso da Sessão
+[Camera]
+Camera
+[Video Call]
+Chamada de Vídeo
+[Answer with Video]
+Atender com Vídeo
+[View Log File]
+Ver Ficheiro de Log
+[Microphone]
+Microfone
+[Speaker]
+Altifalante
+[Video Codec]
+Codecs de Vídeo
+[Check for Updates]
+Verificar Actualizações
+[Daily]
+Diariamente
+[Weekly]
+Semanalmente
+[Monthly]
+Mensalmente
+[Quarterly]
+Quinzenalmente
+[Never]
+Nunca
+[Update Available]
+Actualização Disponível
+[Do you want to update now?]
+Deseja actualizar agora?
+[Force Codec for Incoming]
+Forçar Codec para Entrada
+[Available Codecs]
+Codecs Disponíveis
+[Enabled Codecs]
+Codecs Activados
+[Invalid URI]
+URI Inválido
+[Offline]
+Desligado
+[Single Call Mode]
+Modo de Chamada Única
+[Local Video]
+Vídeo Local
+[Call Transfer]
+Transferir Chamada
+[final]
+final
+[Call transfered successfully, disconnecting call]
+Chamada transferida com sucesso, desconectando a chamada
+[Hold]
+Espera
+[Transfer]
+Tranferir
+[Sound Events]
+Som de Eventos
+[Bitrate]
+Bitrate
+[Login]
+Login
+[Enable Log File]
+Activar Ficheiro de Log
+[Logs]
+Chamadas
+[Duration]
+Duração
+[Info]
+Informação
+[display password]
+mostrar palavra-passe
+[From]
+De
+[To]
+Para
+[Ring Device]
+Dispositivo de Toque
+[Service Unavailable]
+Serviço não disponível
+[Invalid Request URI]
+URI de Pedido Inválido
+[Busy Here]
+Ocupado
+[Trying]
+Tentando
+[Method Not Allowed]
+Método Não Permitido
+[Not Found]
+Não Encontrado
+[Always on Top]
+Sempre Visível
+[Connect]
+Conectar
+[Last Call]
+Última Cham.
+[Close All]
+Fechar Tudo
+[Copy]
+Copiar
+[Select All]
+Seleccionar Tudo
+[Display Name]
+Nome Visível
+[Remember Details]
+Memorizar Detalhes
+[PIN]
+[No]
+Não
+[All Calls]
+Todas as Chamadas
+[SIP Header]
+Cabeçalho SIP
+[Different User]
+Utilizador Diferente
+[Different Domain]
+Domínio Diferente
+[Different User or Domain]
+Utilizador ou Domínio Diferente
+[Different Remote Domain]
+Domínio Remoto Diferente
+[Deny Incoming]
+Negar Entrada
+[Allow IP Rewrite]
+Permitir Reescrever IP
+[Directory of Users]
+Directório de Utilizadores
+[Call on Remote Hold]
+Chamada em Espera Remota
+[Call on Local Hold]
+Chamada em Espera Local
+[Call on Hold]
+Chamada em Espera
+[Call is Active]
+Chamada Activa
+[Menu]
+Menu
+[Edit Account]
+Editar Conta
+[Add Account...]
+Adicionar Conta...
+[Remove Account]
+Remover Conta
+[Make Active]
+Activar
+[Are you sure you want to remove?]
+Tem a certeza que pretende remover?
+[Call Pickup]
+Captura de Chamadas
+[Speaker Level]
+Volume dos Altifalantes
+[Microphone Level]
+Volume do Microfone
+[Mute Speaker]
+Silenciar Altifalantes
+[Mute Microphone]
+Silenciar Microfone
+[Balance]
+Saldo
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+Por favor preencha os campos marcados com *.
+[Ask your SIP provider how to configure the account correctly.]
+Verifique com o seu fornecedor SIP como configurar a conta correctamente.
+[Random Popup Position]
+Posição Aleatória
+[Time]
+Hora
+[Attended Transfer]
+Transferência Assistida
+[Launch URL on incoming call]
+[Enable Local Account]
+Activar Conta Local
+[Send Crash Report]
+Enviar Relatório de Erros
+[Account Name]
+Nome da Conta
+[Invite to Conference]
+Convidar para Conferência
+[Merge]
+Juntar
+[Separate]
+Separar
+[Disconnect]
+Desligar
+[DTMF Method]
+Modo DTMF
+[Voicemail Number]
+Número do Voicemail
+[Disable Session Timers]
+Desligar Temporizadores de Sessão
+[Microphone Amplification]
+Amplificação de Microfone
+[Software Level Adjustment]
+Ajuste de Volume por Software
+[Shortcuts]
+Atalhos
+[Enable]
+Activar
+[Label]
+Etiqueta
+[Type]
+Tipo
+[Bottom Position]
+Posição Inferior
+[You need to restart application for the changes to take effect.]
+É necessário reiniciar a aplicação para as alterações terem efeito.
+[Handle Media Buttons]
+Usar Teclas Multimédia
+[Bring to Front on Incoming Call]
+Focar Janela ao Receber Chamada
+[SIP account]
+[SIP password]
+[Help]
+Ajuda
+[Video Bitrate]
+Bitrate de Vídeo
+[Control Button]
+Botão de Controlo
+[Do Not Disturb]
+Não Incomodar
+[Source Port]
+Porta de Origem
+[RTP Ports]
+Portas RTP
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+Importar
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+Remarcar
+[Backspace]
+Apagar
+[Clear]
+Limpar
+[Use Space key to enable selected codec]
+Use a Tecla Espaço para ativar o codec selecionado
+[Use Delele key to disable selected codec]
+Use a Tecla Eliminar para desativar o codec selecionado
+[Make Inactive]
+[Conference]
+Conferência
+[]

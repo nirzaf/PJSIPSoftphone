@@ -1,0 +1,363 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+통화
+[End Call]
+통화 종료
+[Contacts]
+연락처
+[Phone]
+다이얼
+[Account]
+계정
+[Settings]
+설정
+[Visit Website]
+홈페이지 방문
+[Exit]
+종료
+[Ringing Sound]
+벨소리
+[Browse...]
+변경...
+[Default]
+기본값
+[Auto Answer]
+자동 응답
+[Disable Local Account]
+로컬 계정 사용안함
+[OK]
+확인
+[Save]
+저장
+[Cancel]
+취소
+[SIP Server]
+SIP 서버
+[SIP Proxy]
+SIP 프록시
+[Username]
+사용자
+[Domain]
+도메인
+[Password]
+비밀번호
+[Connecting...]
+연결중...
+[Online]
+온라인
+[Local]
+로컬
+[Message]
+메시지
+[Edit]
+수정
+[Delete]
+삭제
+[Add]
+추가
+[Bad Gateway]
+게이트웨이불량
+[Request Timeout]
+요청시간초과
+[Number]
+번호
+[Name]
+이름
+[Contact]
+연락처
+[Incoming Call]
+수신 전화
+[Answer]
+응답
+[Decline]
+거절
+[Calling]
+전화 거는 중
+[Connecting]
+연결중
+[Connected]
+통화중
+[Auto]
+자동
+[Transport]
+트랜스포트
+[Incorrect Password]
+잘못된 비밀번호
+[Public Address]
+공개 주소
+[Media Encryption]
+미디어 암호화
+[Disabled]
+사용안함
+[Optional]
+선택사항
+[Mandatory]
+필수사항
+[STUN Server]
+STUN 서버
+[Presence Subscription]
+계정가입상태확인
+[Ringing]
+연결음
+[Call Ended]
+통화 종료
+[Declined]
+거절하기
+[No address found]
+잘못된 연락처
+[Request Terminated]
+발신요청 취소
+[Away]
+자리 비움
+[Publish Presence]
+계정상태확인
+[Session Progress]
+세션 시작
+[Camera]
+카메라
+[Video Call]
+영상 통화
+[Answer with Video]
+영상통화로 응답
+[View Log File]
+로그 파일 보기
+[Microphone]
+마이크
+[Speaker]
+스피커
+[Video Codec]
+비디오 코덱
+[Check for Updates]
+업데이트 확인
+[Daily]
+일일
+[Weekly]
+주간
+[Monthly]
+월간
+[Quarterly]
+분기
+[Never]
+끄기
+[Update Available]
+업데이트 사용 가능
+[Do you want to update now?]
+를 업데이트 하시겠습니까?
+[Force Codec for Incoming]
+수신 코덱 강제
+[Available Codecs]
+사용가능
+[Enabled Codecs]
+활성화
+[Invalid URI]
+잘못된 URI
+[Offline]
+오프라인
+[Single Call Mode]
+단일 통화 모드
+[Local Video]
+로컬 영상
+[Call Transfer]
+전화 돌려주기
+[final]
+최종
+[Call transfered successfully, disconnecting call]
+성공적으로 연결된 전화, 연결 끊기
+[Hold]
+잠금
+[Transfer]
+연결
+[Sound Events]
+사운드 이벤트
+[Bitrate]
+비트 레이트
+[Login]
+로그인
+[Enable Log File]
+로그 생성 활성화
+[Logs]
+통화목록
+[Duration]
+기간
+[Info]
+정보
+[display password]
+비밀번호 보이기
+[From]
+누가
+[To]
+에게
+[Ring Device]
+벨 장치
+[Service Unavailable]
+서비스를 사용할 수 없음
+[Invalid Request URI]
+잘못된 요청 URI
+[Busy Here]
+통화중
+[Trying]
+시도
+[Method Not Allowed]
+허용되지 않는 메소드
+[Not Found]
+찾을 수 없음
+[Always on Top]
+항상 위
+[Connect]
+연결
+[Last Call]
+최근 통화
+[Close All]
+모두 닫기
+[Copy]
+복사
+[Select All]
+모두 선택
+[Display Name]
+표시 이름
+[Remember Details]
+상세 정보를 기억
+[PIN]
+[No]
+없음
+[All Calls]
+모든 통화
+[SIP Header]
+SIP 헤더
+[Different User]
+다른 사용자
+[Different Domain]
+다른 도메인
+[Different User or Domain]
+다른 사용자 또는 도메인
+[Different Remote Domain]
+다른 원격 도메인
+[Deny Incoming]
+수신 거부
+[Allow IP Rewrite]
+IP 재 작성 추척 허용
+[Directory of Users]
+사용자 디렉토리
+[Call on Remote Hold]
+통화 외부 대기
+[Call on Local Hold]
+통화 내부 대기
+[Call on Hold]
+통화 대기
+[Call is Active]
+통화 활성
+[Menu]
+메뉴
+[Edit Account]
+계정 편집
+[Add Account...]
+계정 추가
+[Remove Account]
+계정 삭제
+[Make Active]
+계정 활성화
+[Are you sure you want to remove?]
+삭제 하시겠습니까?
+[Call Pickup]
+통화
+[Speaker Level]
+스피커 볼륨
+[Microphone Level]
+마이크 볼륨
+[Mute Speaker]
+스피커 음소거
+[Mute Microphone]
+마이크 음소거
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+최소 * 표시가 있는 항목을 채워 주세요.
+[Ask your SIP provider how to configure the account correctly.]
+올바르게 계정을 구성하는 방법은 SIP 공급자에게 문의하십시오.
+[Random Popup Position]
+걸려 오는 전화 상자의 임의의 위치
+[Time]
+시각
+[Attended Transfer]
+(의도된)전송
+[Launch URL on incoming call]
+[Enable Local Account]
+로컬 계정 활성화
+[Send Crash Report]
+충돌 리포트 보내기
+[Account Name]
+계정 이름
+[Invite to Conference]
+다중통화 초대
+[Merge]
+병합
+[Separate]
+분리
+[Disconnect]
+접속끊기
+[DTMF Method]
+DTMF 방식
+[Voicemail Number]
+보이스메일 번호
+[Disable Session Timers]
+세션 타이머 비활성화
+[Microphone Amplification]
+마이크 증폭
+[Software Level Adjustment]
+소프트웨어 음량(레벨) 조정
+[Shortcuts]
+바로가기
+[Enable]
+사용
+[Label]
+레이블
+[Type]
+종류
+[Bottom Position]
+하단 위치
+[You need to restart application for the changes to take effect.]
+변경한 설정을 적용하려면 프로그램을 재시작해야 합니다.
+[Handle Media Buttons]
+미디어버튼 환기
+[Bring to Front on Incoming Call]
+수신전화를 맨 앞으로
+[SIP account]
+[SIP password]
+[Help]
+도움말
+[Video Bitrate]
+동영상 비트레이트
+[Control Button]
+제어버튼
+[Do Not Disturb]
+방해금지
+[Source Port]
+소스포트
+[RTP Ports]
+RTP 포트
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+임포트
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+다시걸기
+[Backspace]
+백스페이스
+[Clear]
+지우기
+[Use Space key to enable selected codec]
+스페이스 키를 사용하여 선택한 코덱 활성화
+[Use Delele key to disable selected codec]
+선택한 코덱을 사용하지 않으려면 Delele 키를 사용하십시오.
+[Make Inactive]
+[Conference]
+회의
+[]

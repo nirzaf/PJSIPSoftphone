@@ -1,0 +1,350 @@
+﻿Language Pack
+RTL: 1
+
+; utf8
+
+[Call]
+تماس
+[End Call]
+پایان تماس
+[Contacts]
+دفترچه تلفن
+[Phone]
+شماره گیری
+[Account]
+حساب کاربری
+[Settings]
+تنظیمات
+[Visit Website]
+بازدید از وب سایت
+[Exit]
+خروج
+[Ringing Sound]
+صدای زنگ
+[Browse...]
+مرور
+[Default]
+پیش فرض
+[Auto Answer]
+پاسخ اتوماتیک
+[Disable Local Account]
+غیر فعال کردن اکانت محلی
+[OK]
+اوکی
+[Save]
+ذخیره
+[Cancel]
+انصراف
+[SIP Server]
+سرور SIP
+[SIP Proxy]
+پروکسی SIP
+[Username]
+کاربر
+[Domain]
+دومین
+[Password]
+کلمه عبور
+[Connecting...]
+در حال اتصال ...
+[Online]
+آنلاین
+[Local]
+محلی
+[Message]
+پیغام
+[Edit]
+ویرایش
+[Delete]
+حذف
+[Add]
+اضافه کردن
+[Bad Gateway]
+گذرگاه اشتباه
+[Request Timeout]
+انقضای زمان درخواست
+[Number]
+تعداد
+[Name]
+نام
+[Contact]
+کانتکت
+[Incoming Call]
+تماس وارده
+[Answer]
+پاسخ
+[Decline]
+کاهش
+[Calling]
+در حال تماس
+[Connecting]
+در حال اتصال
+[Connected]
+متصل شده
+[Auto]
+اتوماتیک
+[Transport]
+ترابری
+[Incorrect Password]
+رمز عبور نامعتبر
+[Public Address]
+آدرس عمومی
+[Media Encryption]
+رمزگذاری مدیا
+[Disabled]
+غیر فعال شد
+[Optional]
+اختیاری
+[Mandatory]
+اجباری
+[STUN Server]
+سرور STUN
+[Presence Subscription]
+اشتراک وضعیت
+[Ringing]
+در حال زنگ خوردن
+[Call Ended]
+پایان تماس
+[Declined]
+کاهش یافته
+[No address found]
+آدرس یافت نشد
+[Request Terminated]
+درخواست پایان یافته
+[Away]
+دور
+[Publish Presence]
+انتشار وضعیت
+[Session Progress]
+پیشرفت نشست
+[Camera]
+دوربین
+[Video Call]
+تماس ویدئویی
+[Answer with Video]
+پاسخ توسط ویدئو
+[View Log File]
+نمایش فایل لاگ
+[Microphone]
+میکروفون
+[Speaker]
+بلندگو
+[Video Codec]
+کدک تصویر
+[Check for Updates]
+چک کردن برای بروز رسانی
+[Daily]
+روزانه
+[Weekly]
+هفتگی
+[Monthly]
+ماهیانه
+[Quarterly]
+فصلی
+[Never]
+هرگز
+[Update Available]
+نسخه به روز موجود است
+[Do you want to update now?]
+آیا میخواهید نرم افزار به روز شود؟
+[Force Codec for Incoming]
+اجبار کدک برای تماس ورودی
+[Available Codecs]
+در دسترس
+[Enabled Codecs]
+فعال شده
+[Invalid URI]
+آدرس نامعتبر
+[Offline]
+آفلاین
+[Single Call Mode]
+حالت تک تماس
+[Local Video]
+ویدئو محلی
+[Call Transfer]
+انتقال تماس
+[final]
+نهایی
+[Call transfered successfully, disconnecting call]
+انتقال تماس موفق، قطع تماس
+[Hold]
+نگه داشتن
+[Transfer]
+انتقال
+[Sound Events]
+رویدادهای صوتی
+[Bitrate]
+نرخ انتقال بیت
+[Login]
+لاگین
+[Enable Log File]
+اجازه لاگ کردن
+[Logs]
+تماسها
+[Duration]
+مدت
+[Info]
+اطلاعات
+[display password]
+نمایش رمز عبور
+[From]
+از
+[To]
+به
+[Ring Device]
+ابزار زنگ
+[Service Unavailable]
+سرویس در دسترس نیست
+[Invalid Request URI]
+آدرس درخواستی نامعتبر
+[Busy Here]
+مشغول
+[Trying]
+درحال تلاش
+[Method Not Allowed]
+این متد اجازه ندارد
+[Not Found]
+یافت نشد
+[Always on Top]
+همیشه در بالا
+[Connect]
+اتصال
+[Last Call]
+آخرین تماس
+[Close All]
+بستن همه
+[Copy]
+کپی
+[Select All]
+انتخاب همه
+[Display Name]
+نام شما
+[Remember Details]
+یادآوری جزئیات
+[PIN]
+[No]
+خیر
+[All Calls]
+تمام تماس ها
+[SIP Header]
+SIP هدر
+[Different User]
+کاربری دیگر
+[Different Domain]
+دامنه ای دیگر
+[Different User or Domain]
+کاربر یا دامنه متفاوت
+[Different Remote Domain]
+دامنه متفاوت
+[Deny Incoming]
+انسداد ورودی
+[Allow IP Rewrite]
+اجازه تغییر آی پی
+[Directory of Users]
+پوشه کاربران
+[Call on Remote Hold]
+تماس در حال انتظار خارجی
+[Call on Local Hold]
+تماس در حال انتظار داخلی
+[Call on Hold]
+تماس در حال انتظار
+[Call is Active]
+تماس فعال است
+[Menu]
+منو
+[Edit Account]
+ویرایش حساب
+[Add Account...]
+افزودن حساب کاربری
+[Remove Account]
+حذف حساب
+[Make Active]
+فعالسازی
+[Are you sure you want to remove?]
+آیا می خواهید حذف نمایید؟
+[Call Pickup]
+برداشتن تماس
+[Speaker Level]
+صدای اسپیکر
+[Microphone Level]
+صدای میکروفن
+[Mute Speaker]
+قطع صدا
+[Mute Microphone]
+قطع میکروفن
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+لطفا با پر کردن حداقل زمینه های مورد نیاز با * مشخص شده اند.
+[Ask your SIP provider how to configure the account correctly.]
+چگونگی  پیکربندی صحیح حساب کاربری را از ارائه کننده SIP خود بپرسید.
+[Random Popup Position]
+موقعیت تصادفی از جعبه تماس های دریافتی
+[Time]
+زمان
+[Attended Transfer]
+انتقال حضور
+[Launch URL on incoming call]
+[Enable Local Account]
+فعالسازی حساب محلی
+[Send Crash Report]
+ارسال گزارش خرابی
+[Account Name]
+نام حساب
+[Invite to Conference]
+دعوت به کنفرانس
+[Merge]
+ادغام
+[Separate]
+جدا
+[Disconnect]
+قطع اتصال
+[DTMF Method]
+روش DTMF
+[Voicemail Number]
+شماره صندوق صوتی
+[Disable Session Timers]
+[Microphone Amplification]
+تقویت میکروفن
+[Software Level Adjustment]
+تنظیم سطح برنامه
+[Shortcuts]
+میانبرها
+[Enable]
+فعال
+[Label]
+برچسب
+[Type]
+نوع
+[Bottom Position]
+[You need to restart application for the changes to take effect.]
+برای اعمال تغییرات لازم است نرم افزار را مجددا راه اندازی کنید.
+[Handle Media Buttons]
+[Bring to Front on Incoming Call]
+جلو آمدن برنامه هنگام تماس ورودی
+[SIP account]
+[SIP password]
+[Help]
+راهنما
+[Video Bitrate]
+[Control Button]
+دکمه کنترل
+[Do Not Disturb]
+مزاحم نشو
+[Source Port]
+[RTP Ports]
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+[Backspace]
+[Clear]
+[Use Space key to enable selected codec]
+[Use Delele key to disable selected codec]
+[Make Inactive]
+[Conference]
+[]

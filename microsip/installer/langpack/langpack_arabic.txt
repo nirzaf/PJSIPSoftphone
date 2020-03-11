@@ -1,0 +1,326 @@
+﻿Language Pack
+RTL: 1
+
+; utf8
+
+[Call]
+شكل الرقم
+[End Call]
+انهى المكالمة
+[Contacts]
+ارقام
+[Phone]
+الأرقام
+[Account]
+الحساب
+[Settings]
+التعديلات
+[Visit Website]
+زر الموقع
+[Exit]
+الخروج
+[Ringing Sound]
+صوت الرنين
+[Browse...]
+تصفح
+[Default]
+[Auto Answer]
+رد آلي
+[Disable Local Account]
+ثبط الحساب المحلى
+[OK]
+حسنا
+[Save]
+احفظ
+[Cancel]
+الغاء
+[SIP Server]
+خادم بروتوكول بدء الجلسة
+[SIP Proxy]
+بروكسي بروتوكول بدء الجلسة
+[Username]
+مستخدم
+[Domain]
+[Password]
+كلمة مرور
+[Connecting...]
+يتصل ...
+[Online]
+متصل
+[Local]
+محلى
+[Message]
+رسالة
+[Edit]
+عدل
+[Delete]
+حذف
+[Add]
+ضف
+[Bad Gateway]
+[Request Timeout]
+انتهت مهلة الطلب
+[Number]
+رقم
+[Name]
+اسم
+[Contact]
+رقم
+[Incoming Call]
+الواردة
+[Answer]
+أرد
+[Decline]
+رفض
+[Calling]
+الاتصال
+[Connecting]
+يتصل
+[Connected]
+متصل
+[Auto]
+آليا
+[Transport]
+وسيلة النقل
+[Incorrect Password]
+كلمة مرور خاطئة
+[Public Address]
+العنوان العمومي
+[Media Encryption]
+تشفير الميديا
+[Disabled]
+ثبط
+[Optional]
+اختيارى
+[Mandatory]
+اجبارى
+[STUN Server]
+خادم الستن
+[Presence Subscription]
+اشتراك الحضور
+[Ringing]
+الرنين
+[Call Ended]
+إنتهت المكالمة
+[Declined]
+رفضت
+[No address found]
+لم يوجد عنوان
+[Request Terminated]
+الغى الطلب
+[Away]
+غائب
+[Publish Presence]
+إعلان الحضور
+[Session Progress]
+تقدم الجلسة
+[Camera]
+كاميرا
+[Video Call]
+اتصال فيديو
+[Answer with Video]
+رد مُصوَّر
+[View Log File]
+اطلاع على القيد
+[Microphone]
+اللاقط
+[Speaker]
+سماعة
+[Video Codec]
+برنامج ترميز الفيديو
+[Check for Updates]
+تفتيش عن مواكبة
+[Daily]
+في اليوم
+[Weekly]
+اسبوعيا
+[Monthly]
+شهر
+[Quarterly]
+الفصلية
+[Never]
+ابدا
+[Update Available]
+ملفات مواكبة موجودة
+[Do you want to update now?]
+هل تريد تحديث؟
+[Force Codec for Incoming]
+[Available Codecs]
+متواجد
+[Enabled Codecs]
+فعّل
+[Invalid URI]
+[Offline]
+غير متصل
+[Single Call Mode]
+وضعية الإتصال الواحد
+[Local Video]
+فيديوا محلى
+[Call Transfer]
+تحويل المكالمة
+[final]
+انتهى
+[Call transfered successfully, disconnecting call]
+حُولت المكالمة بنجاح, تفصل المكالمة
+[Hold]
+انتظار
+[Transfer]
+حول
+[Sound Events]
+أحداث الصوت
+[Bitrate]
+السرعة المطلوبة للمكالمة
+[Login]
+الدخول
+[Enable Log File]
+فعّل ملف اللوق
+[Logs]
+المكالمات
+[Duration]
+فترة
+[Info]
+معلومات
+[display password]
+اعرض كلمة المرور
+[From]
+من
+[To]
+الى
+[Ring Device]
+الجهاز يرن
+[Service Unavailable]
+الخدمة غير متوفرة
+[Invalid Request URI]
+[Busy Here]
+الخط مشغول
+[Trying]
+يحاول
+[Method Not Allowed]
+الطريقة غير مسموحة
+[Not Found]
+لا يوجد
+[Always on Top]
+دائما فى الأعلى
+[Connect]
+اتصل
+[Last Call]
+المكالمة الاخيرة
+[Close All]
+اغلق الكل
+[Copy]
+نسخ
+[Select All]
+اختر الجميع
+[Display Name]
+[Remember Details]
+تذكر التفاصيل
+[PIN]
+[No]
+لا
+[All Calls]
+كل المكالمات
+[SIP Header]
+ترويسة بروتوكول بدء الجلسة
+[Different User]
+مستخدم مختلف
+[Different Domain]
+نطاق مختلف
+[Different User or Domain]
+مستخدم الدليل
+[Different Remote Domain]
+نطاق مختلف بعيد
+[Deny Incoming]
+ارفض الوارده
+[Allow IP Rewrite]
+إعادة كتابة الأيبي أدرس
+[Directory of Users]
+مستخدمى الدليل
+[Call on Remote Hold]
+المكالمة معلقة لدى المتصَل به
+[Call on Local Hold]
+المكالمة معلقة لدي
+[Call on Hold]
+المكالمة معلقة
+[Call is Active]
+المكالمة جارية
+[Menu]
+[Edit Account]
+[Add Account...]
+ضف حسابا جديداً
+[Remove Account]
+امسح الحساب
+[Make Active]
+[Are you sure you want to remove?]
+تريد حقا الحذف؟
+[Call Pickup]
+فتح المكالمة
+[Speaker Level]
+مستوى مكبر الصوت
+[Microphone Level]
+[Mute Speaker]
+كتم السماعات
+[Mute Microphone]
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+من فضلك قم بملئ المجالات المطلوبةو المرموز لها ب *
+[Ask your SIP provider how to configure the account correctly.]
+اطلب من مزود بروتوكول بدء جلسة كيفية ضبط الحساب بشكل صحيح
+[Random Popup Position]
+موقف عشوائي من مربع الإجابة
+[Time]
+مرة
+[Attended Transfer]
+[Launch URL on incoming call]
+[Enable Local Account]
+تمكين حساب محلي
+[Send Crash Report]
+إرسال تقرير عن خطأ
+[Account Name]
+إسم الحساب
+[Invite to Conference]
+دعوة للاجتماع
+[Merge]
+دمج
+[Separate]
+[Disconnect]
+فصل الاتصال
+[DTMF Method]
+[Voicemail Number]
+[Disable Session Timers]
+[Microphone Amplification]
+[Software Level Adjustment]
+[Shortcuts]
+[Enable]
+تفعيل
+[Label]
+[Type]
+نوع
+[Bottom Position]
+[You need to restart application for the changes to take effect.]
+يجب عليك إعادة تشغيل التطبيق لتطبيق التعديلات الجديدة
+[Handle Media Buttons]
+[Bring to Front on Incoming Call]
+[SIP account]
+[SIP password]
+[Help]
+[Video Bitrate]
+[Control Button]
+[Do Not Disturb]
+[Source Port]
+[RTP Ports]
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+[Backspace]
+[Clear]
+[Use Space key to enable selected codec]
+[Use Delele key to disable selected codec]
+[Make Inactive]
+[Conference]
+[]

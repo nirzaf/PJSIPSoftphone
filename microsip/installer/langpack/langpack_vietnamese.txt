@@ -1,0 +1,232 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Gọi
+[End Call]
+[Contacts]
+[Phone]
+[Account]
+Tài khoản
+[Settings]
+Cài đặt
+[Visit Website]
+[Exit]
+[Ringing Sound]
+[Browse...]
+Chọn ...
+[Default]
+Mặc định
+[Auto Answer]
+Tự động trả lời
+[Disable Local Account]
+[OK]
+[Save]
+Lưu
+[Cancel]
+[SIP Server]
+[SIP Proxy]
+[Username]
+[Domain]
+[Password]
+[Connecting...]
+Đang kết nối ...
+[Online]
+[Local]
+[Message]
+[Edit]
+[Delete]
+[Add]
+Thêm
+[Bad Gateway]
+[Request Timeout]
+[Number]
+[Name]
+[Contact]
+[Incoming Call]
+[Answer]
+Trả lời
+[Decline]
+Từ chối
+[Calling]
+[Connecting]
+Đang kết nối
+[Connected]
+Đã kết nối
+[Auto]
+Tự động
+[Transport]
+[Incorrect Password]
+[Public Address]
+[Media Encryption]
+[Disabled]
+[Optional]
+[Mandatory]
+[STUN Server]
+[Presence Subscription]
+[Ringing]
+Đang reo
+[Call Ended]
+Kết thúc cuộc gọi
+[Declined]
+[No address found]
+[Request Terminated]
+[Away]
+Đi ra ngoài
+[Publish Presence]
+[Session Progress]
+[Camera]
+[Video Call]
+Cuộc gọi video
+[Answer with Video]
+Trả lời cuộc gọi Video
+[View Log File]
+Xem file log
+[Microphone]
+[Speaker]
+[Video Codec]
+[Check for Updates]
+[Daily]
+Hàng ngày
+[Weekly]
+Hàng tuần
+[Monthly]
+[Quarterly]
+[Never]
+[Update Available]
+[Do you want to update now?]
+[Force Codec for Incoming]
+[Available Codecs]
+Đang sẵn sàng
+[Enabled Codecs]
+[Invalid URI]
+[Offline]
+[Single Call Mode]
+[Local Video]
+[Call Transfer]
+[final]
+[Call transfered successfully, disconnecting call]
+[Hold]
+[Transfer]
+[Sound Events]
+[Bitrate]
+[Login]
+[Enable Log File]
+[Logs]
+[Duration]
+[Info]
+[display password]
+Hiển thị mật khẩu
+[From]
+[To]
+[Ring Device]
+[Service Unavailable]
+[Invalid Request URI]
+[Busy Here]
+Đang bận
+[Trying]
+[Method Not Allowed]
+[Not Found]
+Không tìm thấy
+[Always on Top]
+Luôn nổi trên cùng
+[Connect]
+Kết nối
+[Last Call]
+[Close All]
+[Copy]
+Sao chép
+[Select All]
+Chọn tất cả
+[Display Name]
+[Remember Details]
+[PIN]
+[No]
+[All Calls]
+Tất cả cuộc gọi
+[SIP Header]
+[Different User]
+[Different Domain]
+[Different User or Domain]
+[Different Remote Domain]
+[Deny Incoming]
+[Allow IP Rewrite]
+Cho phép ghi đè địa chỉ IP
+[Directory of Users]
+[Call on Remote Hold]
+[Call on Local Hold]
+Đang giữ cuộc gọi nội bộ
+[Call on Hold]
+Đang giữ cuộc gọi
+[Call is Active]
+Cuộc gọi đang diễn ra
+[Menu]
+[Edit Account]
+[Add Account...]
+Thêm tài khoản
+[Remove Account]
+Xóa tài khoản
+[Make Active]
+[Are you sure you want to remove?]
+Bạn có chắc muốn xóa?
+[Call Pickup]
+[Speaker Level]
+[Microphone Level]
+[Mute Speaker]
+[Mute Microphone]
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+[Ask your SIP provider how to configure the account correctly.]
+Hỏi nhà cung cấp dịch vụ của bạn để cấu hình tài khoản một các chính xác
+[Random Popup Position]
+[Time]
+[Attended Transfer]
+Chuyển cuộc gọi
+[Launch URL on incoming call]
+[Enable Local Account]
+[Send Crash Report]
+[Account Name]
+Tên tài khoản
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
+[DTMF Method]
+[Voicemail Number]
+[Disable Session Timers]
+[Microphone Amplification]
+[Software Level Adjustment]
+[Shortcuts]
+[Enable]
+[Label]
+[Type]
+[Bottom Position]
+[You need to restart application for the changes to take effect.]
+[Handle Media Buttons]
+[Bring to Front on Incoming Call]
+[SIP account]
+[SIP password]
+[Help]
+[Video Bitrate]
+[Control Button]
+[Do Not Disturb]
+[Source Port]
+[RTP Ports]
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+[Backspace]
+[Clear]
+[Use Space key to enable selected codec]
+[Use Delele key to disable selected codec]
+[Make Inactive]
+[Conference]
+[]

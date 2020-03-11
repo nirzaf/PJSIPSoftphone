@@ -1,0 +1,353 @@
+﻿Language Pack
+RTL: 1
+
+; utf8
+
+[Call]
+חיוג
+[End Call]
+סיים שיחה
+[Contacts]
+אנשי קשר
+[Phone]
+לוח חיוג
+[Account]
+חשבון
+[Settings]
+הגדרות
+[Visit Website]
+עמוד בית
+[Exit]
+יציאה
+[Ringing Sound]
+קול צלצול
+[Browse...]
+עיון...
+[Default]
+ברירת מחדל
+[Auto Answer]
+מענה אוטומטי
+[Disable Local Account]
+נטרל חשבון מקומי
+[OK]
+אישור
+[Save]
+שמור
+[Cancel]
+ביטול
+[SIP Server]
+שרת SIP
+[SIP Proxy]
+פרוקסי SIP
+[Username]
+שם משתמש
+[Domain]
+מתחם
+[Password]
+סיסמה
+[Connecting...]
+מתחבר כעת...
+[Online]
+מקוון
+[Local]
+מקומי
+[Message]
+הודעה
+[Edit]
+ערוך
+[Delete]
+מחק
+[Add]
+הוסף
+[Bad Gateway]
+שער לא תקין
+[Request Timeout]
+תם זמן בקשה
+[Number]
+מספר
+[Name]
+שם
+[Contact]
+איש קשר
+[Incoming Call]
+שיחה נכנסת
+[Answer]
+קבל
+[Decline]
+דחה
+[Calling]
+מתקשר כעת
+[Connecting]
+מתחבר כעת
+[Connected]
+מחובר
+[Auto]
+אוטומטי
+[Transport]
+מוביל
+[Incorrect Password]
+מילת מעבר שגויה
+[Public Address]
+כתובת ציבורית
+[Media Encryption]
+הצפנת מדיה
+[Disabled]
+ביטול
+[Optional]
+רשות
+[Mandatory]
+חובה
+[STUN Server]
+שרת STUN
+[Presence Subscription]
+הצגת מצב נוכחות
+[Ringing]
+מצלצל
+[Call Ended]
+השיחה הסתיימה
+[Declined]
+נדחתה
+[No address found]
+לא נמצאה כתובת
+[Request Terminated]
+בקשה הסתיימה
+[Away]
+לא נמצא
+[Publish Presence]
+פרסום נוכחות
+[Session Progress]
+התקדמות הסשן
+[Camera]
+מצלמה
+[Video Call]
+שיחת וידאו
+[Answer with Video]
+מענה עם וידאו
+[View Log File]
+הצג תרשים פעולות
+[Microphone]
+מיקרופון
+[Speaker]
+רמקול
+[Video Codec]
+קודק וידאו
+[Check for Updates]
+בדוק עבור עדכונים
+[Daily]
+כל יום
+[Weekly]
+כל שבוע
+[Monthly]
+כל חודש
+[Quarterly]
+כל שלושה חודשים
+[Never]
+אף פעם
+[Update Available]
+קיים עדכון זמין
+[Do you want to update now?]
+האם ברצונך לעדכן כעת?
+[Force Codec for Incoming]
+כפה מקודד עבור נכנסוות
+[Available Codecs]
+זמינים
+[Enabled Codecs]
+מאופשרים
+[Invalid URI]
+כתובת שגויה
+[Offline]
+לא מחובר
+[Single Call Mode]
+מצב שיחה בודדת
+[Local Video]
+וידאו מקומי
+[Call Transfer]
+העברת שיחה
+[final]
+גמר
+[Call transfered successfully, disconnecting call]
+שיחה הועברה בהצלחה, מנתק שיחה כעת
+[Hold]
+החזק
+[Transfer]
+העבר
+[Sound Events]
+אירועי צליל
+[Bitrate]
+שיעור סיביות
+[Login]
+התחבר
+[Enable Log File]
+אפשור קובץ תרשים פעילות
+[Logs]
+שיחות
+[Duration]
+משך
+[Info]
+מידע
+[display password]
+הצג סיסמה
+[From]
+מאת
+[To]
+אל
+[Ring Device]
+התקן צליל
+[Service Unavailable]
+השירות לא זמין
+[Invalid Request URI]
+כתובת בקשה שגויה
+[Busy Here]
+אני עסוק/ה
+[Trying]
+מנסה כעת
+[Method Not Allowed]
+שיטה לא מותרת
+[Not Found]
+לא נמצא
+[Always on Top]
+תמיד עליון
+[Connect]
+התחבר
+[Last Call]
+שיחה אחרונה
+[Close All]
+סגור הכל
+[Copy]
+העתק
+[Select All]
+בחר הכל
+[Display Name]
+שם תצוגה
+[Remember Details]
+זכור פרטים
+[PIN]
+[No]
+לא
+[All Calls]
+כל השיחות
+[SIP Header]
+תקורת SIP
+[Different User]
+משתמש שונה
+[Different Domain]
+מתחם שונה
+[Different User or Domain]
+משתמש או מתחם שונה
+[Different Remote Domain]
+מתחם מרוחק שונה
+[Deny Incoming]
+אסור נכנסות
+[Allow IP Rewrite]
+התר שכתוב IP
+[Directory of Users]
+ספריית משתמשים
+[Call on Remote Hold]
+שיחה בהמתנה מרוחקת
+[Call on Local Hold]
+שיחה בהמתנה מקומית
+[Call on Hold]
+שיחה בהמתנה
+[Call is Active]
+שיחה הינה פעילה
+[Menu]
+תפריט
+[Edit Account]
+ערוך חשבון
+[Add Account...]
+הוסף חשבון...
+[Remove Account]
+הסר חשבון
+[Make Active]
+הפוך לפעיל
+[Are you sure you want to remove?]
+האם אתה בטוח כי ברצונך להסיר?
+[Call Pickup]
+מענה לשיחה
+[Speaker Level]
+רמת רמקול
+[Microphone Level]
+רמת מיקרופון
+[Mute Speaker]
+השתק רמקול
+[Mute Microphone]
+השתק מיקרופון
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+מלא לפחות את השדות המסומנים ב*
+[Ask your SIP provider how to configure the account correctly.]
+שאל את מנהל החשבון שלך כיצד להגדיר את השלוחה
+[Random Popup Position]
+עמדה אקראית של תיבת שיחה נכנסת
+[Time]
+זְמַן
+[Attended Transfer]
+העברת שיחה עם ליווי
+[Launch URL on incoming call]
+[Enable Local Account]
+אפשר חשבון מקומי
+[Send Crash Report]
+שלח דוח קריסה
+[Account Name]
+שם החשבון
+[Invite to Conference]
+זמן לכנס
+[Merge]
+מיזוג
+[Separate]
+פיצול
+[Disconnect]
+נתק
+[DTMF Method]
+תצורת DTMF
+[Voicemail Number]
+מספר תא קולי
+[Disable Session Timers]
+[Microphone Amplification]
+הגברת מיקרופון
+[Software Level Adjustment]
+[Shortcuts]
+מקשי קיצור
+[Enable]
+לְאַפשֵׁר
+[Label]
+[Type]
+סוג
+[Bottom Position]
+מיקום בתחתית
+[You need to restart application for the changes to take effect.]
+נדרשת הפעלה מחדש של התוכנה בכדי להחיל את השינויים
+[Handle Media Buttons]
+[Bring to Front on Incoming Call]
+העבר לקדמת המסך כשנכנסת שיחה
+[SIP account]
+[SIP password]
+[Help]
+עזרה
+[Video Bitrate]
+[Control Button]
+[Do Not Disturb]
+נא לא להפריע
+[Source Port]
+Port מקור
+[RTP Ports]
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+יבוא
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+חיוג חוזר
+[Backspace]
+מחק
+[Clear]
+ניקוי
+[Use Space key to enable selected codec]
+[Use Delele key to disable selected codec]
+[Make Inactive]
+[Conference]
+[]

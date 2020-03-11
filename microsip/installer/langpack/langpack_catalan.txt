@@ -1,0 +1,344 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Trucada
+[End Call]
+Finalitzar trucada
+[Contacts]
+Contactes
+[Phone]
+Marcació
+[Account]
+Compte
+[Settings]
+Opcions
+[Visit Website]
+Visita la web
+[Exit]
+Surt
+[Ringing Sound]
+So de trucada
+[Browse...]
+Examinar...
+[Default]
+Per defecte
+[Auto Answer]
+Resposta automàtica
+[Disable Local Account]
+Desactivar compte local
+[OK]
+D'acord
+[Save]
+Desa
+[Cancel]
+Cancel·la
+[SIP Server]
+Servidor SIP
+[SIP Proxy]
+Proxy SIP
+[Username]
+Usuari
+[Domain]
+Domini
+[Password]
+Clau
+[Connecting...]
+Connectant...
+[Online]
+Connectat
+[Local]
+Local
+[Message]
+Missatge
+[Edit]
+Edita
+[Delete]
+Esborra
+[Add]
+Afegeix
+[Bad Gateway]
+Porta d'enllaç incorrecta
+[Request Timeout]
+Temps d'espera esgotat
+[Number]
+Nombre
+[Name]
+Nom
+[Contact]
+Contacte
+[Incoming Call]
+Trucada entrant
+[Answer]
+Contestar
+[Decline]
+Rebutja
+[Calling]
+Trucant
+[Connecting]
+Connectant
+[Connected]
+Connectat
+[Auto]
+Automàtic
+[Transport]
+Transport
+[Incorrect Password]
+Clau errònia
+[Public Address]
+Adreça pública
+[Media Encryption]
+[Disabled]
+Desactivat
+[Optional]
+Opcional
+[Mandatory]
+[STUN Server]
+Servidor STUN
+[Presence Subscription]
+[Ringing]
+Trucant
+[Call Ended]
+Trucada finalitzada
+[Declined]
+Rebutjat
+[No address found]
+Adreça no trobada
+[Request Terminated]
+Sol·licitud terminada
+[Away]
+Absent
+[Publish Presence]
+Publicar presencia
+[Session Progress]
+Progrés de la sessió
+[Camera]
+Càmera
+[Video Call]
+Trucada de vídeo
+[Answer with Video]
+Contestar amb video
+[View Log File]
+Veure fitxer de log
+[Microphone]
+Micròfon
+[Speaker]
+Altaveu
+[Video Codec]
+Còdecs de vídeo
+[Check for Updates]
+Comprova actualitzacions
+[Daily]
+Diari
+[Weekly]
+Setmanal
+[Monthly]
+Mensual
+[Quarterly]
+[Never]
+Mai
+[Update Available]
+Actualització disponible
+[Do you want to update now?]
+Vols actualitzar?
+[Force Codec for Incoming]
+Forçar codec d'entrada
+[Available Codecs]
+Disponible
+[Enabled Codecs]
+Codecs habilitats
+[Invalid URI]
+URI invàlida
+[Offline]
+Desconnectat
+[Single Call Mode]
+Mode de trucada única
+[Local Video]
+Video local
+[Call Transfer]
+Transferir trucada
+[final]
+final
+[Call transfered successfully, disconnecting call]
+Trucada transferida amb èxit, desconnectant trucada
+[Hold]
+[Transfer]
+Transferència
+[Sound Events]
+Events sonors
+[Bitrate]
+Taxa de bits
+[Login]
+[Enable Log File]
+Habilitar fitxer de registre
+[Logs]
+Trucades
+[Duration]
+Duració
+[Info]
+[display password]
+Mostra la clau
+[From]
+De
+[To]
+Per a
+[Ring Device]
+Dispositiu de trucada
+[Service Unavailable]
+Servei no disponible
+[Invalid Request URI]
+[Busy Here]
+Ocupat
+[Trying]
+Comprovant
+[Method Not Allowed]
+[Not Found]
+No trobat
+[Always on Top]
+Sempre visible
+[Connect]
+Connectar
+[Last Call]
+Última trucada
+[Close All]
+Tancar-ho tot
+[Copy]
+Copia
+[Select All]
+Seleccionar tot
+[Display Name]
+El teu nom
+[Remember Details]
+Recordar detalls
+[PIN]
+[No]
+No
+[All Calls]
+Totes les trucades
+[SIP Header]
+Capçalera SIP
+[Different User]
+Usuari diferent
+[Different Domain]
+Domini diferent
+[Different User or Domain]
+Usuari o Domini diferent
+[Different Remote Domain]
+Domini remot diferent
+[Deny Incoming]
+Negar entrants
+[Allow IP Rewrite]
+Permetre reescriptura de IP
+[Directory of Users]
+Directori de Usuaris
+[Call on Remote Hold]
+Trucada en espera remota
+[Call on Local Hold]
+Trucada en espera local
+[Call on Hold]
+Trucada en espera
+[Call is Active]
+Trucada activa
+[Menu]
+Menu
+[Edit Account]
+Editar compte
+[Add Account...]
+Afegir compte...
+[Remove Account]
+Eliminar compte
+[Make Active]
+[Are you sure you want to remove?]
+Estàs segur que vols eliminar?
+[Call Pickup]
+Recollida de trucades
+[Speaker Level]
+Nivell altaveus
+[Microphone Level]
+Nivell de micròfon
+[Mute Speaker]
+Silenciar altaveus
+[Mute Microphone]
+Silenciar micròfon
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+Ompliu com a mínim els camps obligatoris marcats amb *.
+[Ask your SIP provider how to configure the account correctly.]
+Pregunteu al vostre proveïdor SIP com configurar correctament el compte.
+[Random Popup Position]
+[Time]
+Temps
+[Attended Transfer]
+Transferència assistida
+[Launch URL on incoming call]
+[Enable Local Account]
+Habilitar compte local
+[Send Crash Report]
+Enviar informe d'errors
+[Account Name]
+Nom de compte
+[Invite to Conference]
+Invitar a conferencia
+[Merge]
+[Separate]
+[Disconnect]
+Desconectar
+[DTMF Method]
+Mètode DTMF
+[Voicemail Number]
+Número de correu de veu
+[Disable Session Timers]
+Desactivar temporitzadors de sessió
+[Microphone Amplification]
+Amplificació de micròfon
+[Software Level Adjustment]
+Ajust per programari
+[Shortcuts]
+[Enable]
+Habilitar
+[Label]
+Etiqueta
+[Type]
+Tipus
+[Bottom Position]
+Posició inferior
+[You need to restart application for the changes to take effect.]
+Necessiteu reiniciar l'aplicació perquè els canvis tinguin efecte.
+[Handle Media Buttons]
+[Bring to Front on Incoming Call]
+Porteu endavant a la trucada entrant
+[SIP account]
+[SIP password]
+[Help]
+Ajuda
+[Video Bitrate]
+Taxa de bits de vídeo
+[Control Button]
+Botó de control
+[Do Not Disturb]
+No molestar
+[Source Port]
+Port d'origen
+[RTP Ports]
+Ports RTP
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+Importar
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+[Backspace]
+Retrocés
+[Clear]
+Netejar
+[Use Space key to enable selected codec]
+[Use Delele key to disable selected codec]
+[Make Inactive]
+[Conference]
+[]

@@ -1,0 +1,364 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+発信
+[End Call]
+切断
+[Contacts]
+コンタクト
+[Phone]
+キーパッド
+[Account]
+アカウント
+[Settings]
+設定
+[Visit Website]
+サイトへ
+[Exit]
+終了
+[Ringing Sound]
+呼出音
+[Browse...]
+参照...
+[Default]
+デフォルト
+[Auto Answer]
+自動応答
+[Disable Local Account]
+ローカル接続無効
+[OK]
+OK
+[Save]
+保存
+[Cancel]
+キャンセル
+[SIP Server]
+SIP サーバ
+[SIP Proxy]
+SIP プロキシ
+[Username]
+ユーザ名
+[Domain]
+ドメイン
+[Password]
+パスワード
+[Connecting...]
+接続中...
+[Online]
+オンライン
+[Local]
+ローカル
+[Message]
+メッセージ
+[Edit]
+編集
+[Delete]
+削除
+[Add]
+追加
+[Bad Gateway]
+不正なゲートウェイ
+[Request Timeout]
+リクエストタイムアウト
+[Number]
+番号
+[Name]
+名前
+[Contact]
+コンタクト
+[Incoming Call]
+着信
+[Answer]
+応答
+[Decline]
+着信拒否
+[Calling]
+呼び出し中
+[Connecting]
+接続中
+[Connected]
+接続済
+[Auto]
+自動
+[Transport]
+トランスポート
+[Incorrect Password]
+パスワードが違います
+[Public Address]
+公開アドレス
+[Media Encryption]
+音声／映像暗号化
+[Disabled]
+無効
+[Optional]
+接続先による
+[Mandatory]
+必須
+[STUN Server]
+STUN サーバ
+[Presence Subscription]
+在席確認登録
+[Ringing]
+呼出中
+[Call Ended]
+通話終了
+[Declined]
+着信拒否済み
+[No address found]
+アドレスが見つかりません
+[Request Terminated]
+リクエスト終了
+[Away]
+離席中
+[Publish Presence]
+在席状況通知
+[Session Progress]
+通話中
+[Camera]
+カメラ
+[Video Call]
+ビデオ通話
+[Answer with Video]
+ビデオ通話で応答
+[View Log File]
+ログファイル表示
+[Microphone]
+マイク
+[Speaker]
+スピーカー
+[Video Codec]
+ビデオコーデック
+[Check for Updates]
+更新の確認
+[Daily]
+毎日
+[Weekly]
+毎週
+[Monthly]
+毎月
+[Quarterly]
+3ヶ月毎
+[Never]
+しない
+[Update Available]
+更新があります
+[Do you want to update now?]
+今すぐ更新しますか?
+[Force Codec for Incoming]
+コーデックを強制使用する
+[Available Codecs]
+利用可能
+[Enabled Codecs]
+有効
+[Invalid URI]
+URIが不正です
+[Offline]
+オフライン
+[Single Call Mode]
+シングルモード
+[Local Video]
+私の映像
+[Call Transfer]
+通話転送
+[final]
+最終
+[Call transfered successfully, disconnecting call]
+転送しました。終了処理中です。
+[Hold]
+保留
+[Transfer]
+転送
+[Sound Events]
+トーン信号音再生
+[Bitrate]
+ビットレート
+[Login]
+ログイン
+[Enable Log File]
+ログを保存する
+[Logs]
+履歴
+[Duration]
+通話時間
+[Info]
+情報
+[display password]
+パスワードを表示する
+[From]
+From
+[To]
+～
+[Ring Device]
+呼出音再生
+[Service Unavailable]
+サービスは利用不可
+[Invalid Request URI]
+指定のURIは不正です
+[Busy Here]
+使用中
+[Trying]
+試行中
+[Method Not Allowed]
+許可されていないメソッド
+[Not Found]
+見つかりません
+[Always on Top]
+常に最前面
+[Connect]
+接続
+[Last Call]
+最後の通話
+[Close All]
+すべて閉じる
+[Copy]
+コピー
+[Select All]
+すべて選択
+[Display Name]
+あなたの名前
+[Remember Details]
+詳細を記憶
+[PIN]
+暗証番号
+[No]
+いいえ
+[All Calls]
+全ての通話
+[SIP Header]
+SIPヘッダー
+[Different User]
+異なるユーザー
+[Different Domain]
+異なるドメイン
+[Different User or Domain]
+異なるユーザーかドメイン
+[Different Remote Domain]
+異なるリモートドメイン
+[Deny Incoming]
+着信拒否
+[Allow IP Rewrite]
+IP上書きを許可
+[Directory of Users]
+ユーザーのディレクトリ
+[Call on Remote Hold]
+相手が保留
+[Call on Local Hold]
+こちらが保留
+[Call on Hold]
+保留
+[Call is Active]
+通話有効
+[Menu]
+メニュー
+[Edit Account]
+アカウント編集
+[Add Account...]
+アカウント追加
+[Remove Account]
+アカウント削除
+[Make Active]
+有効化
+[Are you sure you want to remove?]
+本当に削除しますか？
+[Call Pickup]
+コールピックアップ
+[Speaker Level]
+音量
+[Microphone Level]
+マイク音量
+[Mute Speaker]
+消音
+[Mute Microphone]
+マイク消音
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+必須(*)のマークのついている部分を記入してください。
+[Ask your SIP provider how to configure the account correctly.]
+正しくアカウントを設定する方法をSIPプロバイダーに確認して下さい。
+[Random Popup Position]
+ポップアップのランダムな位置
+[Time]
+時間
+[Attended Transfer]
+仲介転送
+[Launch URL on incoming call]
+[Enable Local Account]
+ローカルアカウントを有効にする
+[Send Crash Report]
+クラッシュレポートを送信する
+[Account Name]
+アカウント名
+[Invite to Conference]
+会議通話に招待する
+[Merge]
+統合
+[Separate]
+分割
+[Disconnect]
+切断
+[DTMF Method]
+トーン信号方式
+[Voicemail Number]
+ボイスメール番号
+[Disable Session Timers]
+セッション タイマーを無効にする
+[Microphone Amplification]
+マイクアンプ
+[Software Level Adjustment]
+ソフトウェア レベルの調整
+[Shortcuts]
+ショートカット
+[Enable]
+有効
+[Label]
+ラベル
+[Type]
+タイプ
+[Bottom Position]
+下部位置
+[You need to restart application for the changes to take effect.]
+変更内容を有効にするには、アプリケーションを再起動する必要があります。
+[Handle Media Buttons]
+メディア ボタンを扱う
+[Bring to Front on Incoming Call]
+着信時に最前面へ表示
+[SIP account]
+[SIP password]
+[Help]
+ヘルプ
+[Video Bitrate]
+ビデオ ビットレート
+[Control Button]
+ボタン制御
+[Do Not Disturb]
+応答不可
+[Source Port]
+ソース ポート
+[RTP Ports]
+RTP ポート
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+取り込む
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+再ダイアル
+[Backspace]
+バックスペース
+[Clear]
+クリア
+[Use Space key to enable selected codec]
+選択済みコーデックを有効にするため SPACE キーを使用
+[Use Delele key to disable selected codec]
+選択済みコーデックを無効にするため DELETE キーを使用
+[Make Inactive]
+[Conference]
+会議
+[]

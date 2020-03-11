@@ -1,0 +1,327 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Alvoki
+[End Call]
+Fini alvokon
+[Contacts]
+Adresaro
+[Phone]
+Telefono
+[Account]
+Konto
+[Settings]
+Agordoj
+[Visit Website]
+Viziti retejon
+[Exit]
+Eliri
+[Ringing Sound]
+Alvoksono
+[Browse...]
+Esplori...
+[Default]
+Defaŭlta
+[Auto Answer]
+Aŭtomata respondo
+[Disable Local Account]
+Malaktivigi lokan konton
+[OK]
+Bone
+[Save]
+Konservi
+[Cancel]
+Nuligi
+[SIP Server]
+[SIP Proxy]
+[Username]
+Uzulnomo
+[Domain]
+Domajno
+[Password]
+Pasvorto
+[Connecting...]
+Konektiĝanta...
+[Online]
+Enreta
+[Local]
+Loka
+[Message]
+Mesaĝi
+[Edit]
+Redakti
+[Delete]
+Forigi
+[Add]
+Aldoni
+[Bad Gateway]
+Malĝusta kluzo
+[Request Timeout]
+[Number]
+Numero
+[Name]
+Nomo
+[Contact]
+Kontakto
+[Incoming Call]
+Envena alvoko
+[Answer]
+Respondo
+[Decline]
+Malakcepti
+[Calling]
+Alvokanta
+[Connecting]
+Konektiĝanta
+[Connected]
+Konektita
+[Auto]
+Aŭtomata
+[Transport]
+Transporto
+[Incorrect Password]
+Malĝusta pasvorto
+[Public Address]
+Publika adreso
+[Media Encryption]
+Aŭdvida ĉifrado
+[Disabled]
+Malaktiva
+[Optional]
+Nedeviga
+[Mandatory]
+Deviga
+[STUN Server]
+[Presence Subscription]
+[Ringing]
+Sonoranta
+[Call Ended]
+Fino de la alvoko
+[Declined]
+Malakceptita
+[No address found]
+[Request Terminated]
+[Away]
+For
+[Publish Presence]
+[Session Progress]
+[Camera]
+Kamerao
+[Video Call]
+Video-alvoki
+[Answer with Video]
+Respondi kun video
+[View Log File]
+Vidi protokolan dosieron
+[Microphone]
+Mikrofono
+[Speaker]
+Laŭtparolilo
+[Video Codec]
+Video-kodeko
+[Check for Updates]
+Kontroli ĉu estas ĝisdatigo
+[Daily]
+Ĉiutage
+[Weekly]
+Ĉiusemajne
+[Monthly]
+Ĉiumonate
+[Quarterly]
+Ĉiun trian monaton
+[Never]
+Neniam
+[Update Available]
+Ĝisdatigo haveblas
+[Do you want to update now?]
+Ĉu vi volas ĝisdatigi nun?
+[Force Codec for Incoming]
+Devigi kodekon por envenaj alvokoj
+[Available Codecs]
+Haveblaj kodekoj
+[Enabled Codecs]
+Aktivaj sonkodekoj
+[Invalid URI]
+[Offline]
+Eksterreta
+[Single Call Mode]
+[Local Video]
+Loka video
+[Call Transfer]
+[final]
+fina
+[Call transfered successfully, disconnecting call]
+[Hold]
+Deteni
+[Transfer]
+[Sound Events]
+[Bitrate]
+Bitrapido
+[Login]
+Aŭtentiga nomo
+[Enable Log File]
+Aktivigi protokolan dosieron
+[Logs]
+Protokolo
+[Duration]
+Daŭro
+[Info]
+Detaloj
+[display password]
+montri pasvorton
+[From]
+[To]
+[Ring Device]
+Alvoksonorilo
+[Service Unavailable]
+[Invalid Request URI]
+[Busy Here]
+Okupita
+[Trying]
+Provante
+[Method Not Allowed]
+[Not Found]
+Ne trovita
+[Always on Top]
+Ĉiam supre
+[Connect]
+Konektiĝi
+[Last Call]
+Lasta alvoko
+[Close All]
+Fermi ĉion
+[Copy]
+Kopii
+[Select All]
+Elekti ĉion
+[Display Name]
+Vidiga nomo
+[Remember Details]
+Memoru detalojn
+[PIN]
+[No]
+Ne
+[All Calls]
+Ĉiuj vokoj
+[SIP Header]
+[Different User]
+Malsama uzanto
+[Different Domain]
+Malsama domajno
+[Different User or Domain]
+Malsama uzanto aŭ domajno
+[Different Remote Domain]
+Malsama fora domajno
+[Deny Incoming]
+Malakcepti envenajn alvokojn
+[Allow IP Rewrite]
+Permesi IP-anstataŭigon
+[Directory of Users]
+Adresaro
+[Call on Remote Hold]
+[Call on Local Hold]
+[Call on Hold]
+[Call is Active]
+[Menu]
+Menuo
+[Edit Account]
+Redakti konton
+[Add Account...]
+Aldoni konton...
+[Remove Account]
+Forigu konton
+[Make Active]
+Aktivigi
+[Are you sure you want to remove?]
+Ĉu vi certas, ke vi volas forigi?
+[Call Pickup]
+[Speaker Level]
+Laŭtparolila nivelo
+[Microphone Level]
+Mikrofona nivelo
+[Mute Speaker]
+Silentigi laŭtparolilon
+[Mute Microphone]
+Silentigi mikrofonon
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+Plenigu almenaŭ la devigajn kampojn markitajn per steleto (*).
+[Ask your SIP provider how to configure the account correctly.]
+Demandu vian SIP-provizanton, kiel ĝuste agordi la konton.
+[Random Popup Position]
+Hazarda ŝprucfenestra pozicio
+[Time]
+Horo
+[Attended Transfer]
+Atestita Translokigo
+[Launch URL on incoming call]
+[Enable Local Account]
+Aktivigi lokan konton
+[Send Crash Report]
+Sendi prikraŝajn datumojn
+[Account Name]
+Kontonomo
+[Invite to Conference]
+[Merge]
+Kunigu
+[Separate]
+[Disconnect]
+Malkonekti
+[DTMF Method]
+[Voicemail Number]
+Voĉmesaĝejo
+[Disable Session Timers]
+[Microphone Amplification]
+Mikrofona amplifo
+[Software Level Adjustment]
+[Shortcuts]
+Fulmoklavoj
+[Enable]
+Aktivigi
+[Label]
+Etikedo
+[Type]
+Tipo
+[Bottom Position]
+Malsupra pozicio
+[You need to restart application for the changes to take effect.]
+Necesas restartigi la aplikaĵon por efektivigi ŝanĝojn.
+[Handle Media Buttons]
+[Bring to Front on Incoming Call]
+Porti malfonen je envena alvoko
+[SIP account]
+[SIP password]
+[Help]
+Helpo
+[Video Bitrate]
+Video-bitrapido
+[Control Button]
+[Do Not Disturb]
+Ne ĝenu min
+[Source Port]
+[RTP Ports]
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+Importi
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+Realvoki
+[Backspace]
+Retropaŝa klavo
+[Clear]
+Vakigi
+[Use Space key to enable selected codec]
+Uzu la spacostangon por aktivigi la elektitan kodekon
+[Use Delele key to disable selected codec]
+Uzu la forigan klavon por malaktivigi la elektitan kodekon
+[Make Inactive]
+[Conference]
+[]

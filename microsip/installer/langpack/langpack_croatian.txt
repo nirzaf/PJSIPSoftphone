@@ -1,0 +1,349 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Poziv
+[End Call]
+Kraj poziva
+[Contacts]
+Kontakti
+[Phone]
+Tipkovnica
+[Account]
+Korisnički račun
+[Settings]
+Postavke
+[Visit Website]
+Posjeti web
+[Exit]
+Izlaz
+[Ringing Sound]
+Zvuk zvona
+[Browse...]
+Pretraži
+[Default]
+Default
+[Auto Answer]
+Automatski odgovor
+[Disable Local Account]
+Onemogući lokalni račun
+[OK]
+OK
+[Save]
+Spremi
+[Cancel]
+Odustani
+[SIP Server]
+SIP server
+[SIP Proxy]
+SIP proxy
+[Username]
+Korisnik
+[Domain]
+Domena
+[Password]
+Zaporka
+[Connecting...]
+Povezujem...
+[Online]
+ONline
+[Local]
+Lokalno
+[Message]
+Poruka
+[Edit]
+Uredi
+[Delete]
+Obriši
+[Add]
+Dodaj
+[Bad Gateway]
+Krivi "gateway"
+[Request Timeout]
+Zahtjev istekao
+[Number]
+Broj
+[Name]
+Ime
+[Contact]
+Kontakt
+[Incoming Call]
+Ulazni poziv
+[Answer]
+Odgovori
+[Decline]
+Odbij
+[Calling]
+Pozivanje
+[Connecting]
+Povezujem
+[Connected]
+Povezano
+[Auto]
+Auto
+[Transport]
+Promet
+[Incorrect Password]
+Netočna zaporka
+[Public Address]
+Javna adresa
+[Media Encryption]
+Medijska enkripcija
+[Disabled]
+Onemogućeno
+[Optional]
+Opcijski
+[Mandatory]
+Obvezujuće
+[STUN Server]
+STUN poslužitelj
+[Presence Subscription]
+Trenutna prijava
+[Ringing]
+Zvonjenje
+[Call Ended]
+Poziv završen
+[Declined]
+Odbijeno
+[No address found]
+Nema adrese
+[Request Terminated]
+Zahjevana obustava
+[Away]
+Odsutan
+[Publish Presence]
+Javna prisutnost
+[Session Progress]
+Session progres
+[Camera]
+Kamera
+[Video Call]
+Video poziv
+[Answer with Video]
+Odgovori video pozivom
+[View Log File]
+Pogledaj log zapise
+[Microphone]
+Mikrofon
+[Speaker]
+Zvučnik
+[Video Codec]
+Video codec
+[Check for Updates]
+Provjeri nadogradnje
+[Daily]
+Dnevno
+[Weekly]
+Tjedno
+[Monthly]
+Mjesečno
+[Quarterly]
+Kvartalno
+[Never]
+Nikad
+[Update Available]
+Nadogradnje su dostupne
+[Do you want to update now?]
+Želite li ažurirati?
+[Force Codec for Incoming]
+Forsiraj codec za dolazni
+[Available Codecs]
+Slobodno
+[Enabled Codecs]
+Omogućeno
+[Invalid URI]
+Krivi URL
+[Offline]
+Offline
+[Single Call Mode]
+Single call mode
+[Local Video]
+Localni video
+[Call Transfer]
+Preusmjeravanje poziva
+[final]
+final
+[Call transfered successfully, disconnecting call]
+Preusmjeravanje uspjelo, zatvori poziv
+[Hold]
+Zadrži
+[Transfer]
+Transfer
+[Sound Events]
+Zvučni efekti
+[Bitrate]
+Bitrate
+[Login]
+Logiranje
+[Enable Log File]
+Omogući log zapise
+[Logs]
+Pozivi
+[Duration]
+Trajanje
+[Info]
+Info
+[display password]
+Prikaži zaporku
+[From]
+Od
+[To]
+Za
+[Ring Device]
+Uređaj za alarm (ring)
+[Service Unavailable]
+Servis nedostupan
+[Invalid Request URI]
+Krivi zahtjev za URL
+[Busy Here]
+Zauzeto
+[Trying]
+Pokušavati
+[Method Not Allowed]
+Metoda nije podržana
+[Not Found]
+Nije pronađeno
+[Always on Top]
+Uvijek na vrhu
+[Connect]
+Poveži
+[Last Call]
+Zadnji poziv
+[Close All]
+Zatvori sve
+[Copy]
+Kopiraj
+[Select All]
+Odaberi sve
+[Display Name]
+Vaše ime
+[Remember Details]
+Zapamti detalje
+[PIN]
+[No]
+Ne
+[All Calls]
+Svi pozivi
+[SIP Header]
+SIP zaglavlje
+[Different User]
+Drugi korisnik
+[Different Domain]
+Druga domena
+[Different User or Domain]
+Drugi korisnik ili domena
+[Different Remote Domain]
+Druga "remote" domena
+[Deny Incoming]
+Odbij ulazne
+[Allow IP Rewrite]
+Omogući IP zamjenu
+[Directory of Users]
+Direktorij korisnika
+[Call on Remote Hold]
+Poziv na remote "hold-u"
+[Call on Local Hold]
+Poziv na lokalnom "hold-u"
+[Call on Hold]
+Poziv na čekanju
+[Call is Active]
+Aktivni poziv
+[Menu]
+Izbornik
+[Edit Account]
+Uredi korisnički račun
+[Add Account...]
+Dodaj Korisnički račun
+[Remove Account]
+Obriši korisnički račun
+[Make Active]
+Postavi akitvno
+[Are you sure you want to remove?]
+Jeste li sigurni da želite obrisati?
+[Call Pickup]
+Preuzimanje poziva
+[Speaker Level]
+Razina zvučnika
+[Microphone Level]
+Razina mikrofona
+[Mute Speaker]
+Stišan zvučnik
+[Mute Microphone]
+Stišan mikrofon
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+Molim popuni sva polja ounačena sa *
+[Ask your SIP provider how to configure the account correctly.]
+Raspitajte se kod vašeg SIP operatera kako konfigurirati korisnički račun
+[Random Popup Position]
+Random položaj dolaznog poziva kutije
+[Time]
+Vrijeme
+[Attended Transfer]
+Prisutan Transfer
+[Launch URL on incoming call]
+[Enable Local Account]
+Omogući lokalni račun
+[Send Crash Report]
+Slanje izvješća o rušenju
+[Account Name]
+Korisničko ime
+[Invite to Conference]
+Poziv na konferenciju
+[Merge]
+Spajanje
+[Separate]
+odvojeno
+[Disconnect]
+Isključeno
+[DTMF Method]
+DTMF metoda
+[Voicemail Number]
+Broj govorne pošte
+[Disable Session Timers]
+Onemogućivanje mjerača sesije
+[Microphone Amplification]
+Pojačanje mikrofona
+[Software Level Adjustment]
+Podešavanje razine softvera
+[Shortcuts]
+Prečaci
+[Enable]
+Omogućiti
+[Label]
+Označiti
+[Type]
+Tip
+[Bottom Position]
+Donji položaj
+[You need to restart application for the changes to take effect.]
+Morate ponovo pokrenuti aplikaciju kako bi promjene postale učinkovite.
+[Handle Media Buttons]
+[Bring to Front on Incoming Call]
+[SIP account]
+[SIP password]
+[Help]
+[Video Bitrate]
+[Control Button]
+[Do Not Disturb]
+[Source Port]
+[RTP Ports]
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+[Backspace]
+[Clear]
+[Use Space key to enable selected codec]
+[Use Delele key to disable selected codec]
+[Make Inactive]
+[Conference]
+Konferencija
+[]

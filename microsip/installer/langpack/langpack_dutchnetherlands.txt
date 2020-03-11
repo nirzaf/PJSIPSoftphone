@@ -1,0 +1,363 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Bellen
+[End Call]
+Ophangen
+[Contacts]
+Contacten
+[Phone]
+Toetsenblok
+[Account]
+Account
+[Settings]
+Instellingen
+[Visit Website]
+Bezoek website
+[Exit]
+Afsluiten
+[Ringing Sound]
+Belgeluid
+[Browse...]
+Bladeren...
+[Default]
+Standaard
+[Auto Answer]
+Automatisch beantwoorden
+[Disable Local Account]
+Lokaal account uitzetten
+[OK]
+OK
+[Save]
+Opslaan
+[Cancel]
+Annuleren
+[SIP Server]
+SIP-server
+[SIP Proxy]
+SIP-proxy
+[Username]
+Gebruikersnaam
+[Domain]
+Domein
+[Password]
+Wachtwoord
+[Connecting...]
+Verbinden...
+[Online]
+Bereikbaar
+[Local]
+Lokaal
+[Message]
+Bericht
+[Edit]
+Bewerken
+[Delete]
+Verwijderen
+[Add]
+Toevoegen
+[Bad Gateway]
+Foutieve toegangspoort
+[Request Timeout]
+Wachtverzoek
+[Number]
+Nummer
+[Name]
+Naam
+[Contact]
+Contact
+[Incoming Call]
+Inkomende oproep
+[Answer]
+Beantwoorden
+[Decline]
+Weigeren
+[Calling]
+Bellen
+[Connecting]
+Verbinden
+[Connected]
+Verbonden
+[Auto]
+Automatisch
+[Transport]
+Transport
+[Incorrect Password]
+Onjuist wachtwoord
+[Public Address]
+Publiek adres
+[Media Encryption]
+Mediaversleuteling
+[Disabled]
+Uitgeschakeld
+[Optional]
+Optioneel
+[Mandatory]
+Verplicht
+[STUN Server]
+STUN-server
+[Presence Subscription]
+Abonnement
+[Ringing]
+Gaat over
+[Call Ended]
+Gesprek beëindigd
+[Declined]
+Afgewezen
+[No address found]
+Geen adres gevonden
+[Request Terminated]
+Verzoek beëindigd
+[Away]
+Afwezig
+[Publish Presence]
+Publiceer aanwezigheid
+[Session Progress]
+Sessievoortgang
+[Camera]
+Videobron
+[Video Call]
+Videogesprek
+[Answer with Video]
+Beantwoorden met video
+[View Log File]
+Logbestand weergeven
+[Microphone]
+Microfoon
+[Speaker]
+Luidspreker
+[Video Codec]
+Videocodec
+[Check for Updates]
+Controleer op updates
+[Daily]
+Dagelijks
+[Weekly]
+Wekelijks
+[Monthly]
+Maandelijks
+[Quarterly]
+Per kwartaal
+[Never]
+Nooit
+[Update Available]
+Update beschikbaar
+[Do you want to update now?]
+Nu bijwerken?
+[Force Codec for Incoming]
+Dwing codec voor inkomend
+[Available Codecs]
+Beschikbare Codecs
+[Enabled Codecs]
+Ingeschakeld
+[Invalid URI]
+Ongeldige URI
+[Offline]
+Onbereikbaar
+[Single Call Mode]
+Enkele belmodus
+[Local Video]
+Lokale video
+[Call Transfer]
+Oproep doorschakelen
+[final]
+Einde
+[Call transfered successfully, disconnecting call]
+Oproep succesvol doorgschakeld, er wordt opgehangen
+[Hold]
+Wacht
+[Transfer]
+Doorschakelen
+[Sound Events]
+Geluidseffecten
+[Bitrate]
+Bitsnelheid
+[Login]
+Aanmelding
+[Enable Log File]
+Logbestand inschakelen
+[Logs]
+Gesprekken
+[Duration]
+Duur
+[Info]
+Informatie
+[display password]
+Wachtwoord tonen
+[From]
+Van
+[To]
+Naar
+[Ring Device]
+Beltoon-apparaat
+[Service Unavailable]
+Dienst onbeschikbaar
+[Invalid Request URI]
+Ongeldige URI-aanvraag
+[Busy Here]
+Bezet
+[Trying]
+Proberen
+[Method Not Allowed]
+Methode niet toegestaan
+[Not Found]
+Niet gevonden
+[Always on Top]
+Altijd bovenaan
+[Connect]
+Verbinden
+[Last Call]
+Laatste gesprek
+[Close All]
+Alles sluiten
+[Copy]
+Kopiëren
+[Select All]
+Alles selecteren
+[Display Name]
+Weergavenaam
+[Remember Details]
+Onthoud details
+[PIN]
+[No]
+Nee
+[All Calls]
+Alle gesprekken
+[SIP Header]
+SIP-header
+[Different User]
+Andere gebruiker
+[Different Domain]
+Ander domein
+[Different User or Domain]
+Andere gebruiker of domein
+[Different Remote Domain]
+Ander domein op afstand
+[Deny Incoming]
+Weiger inkomend
+[Allow IP Rewrite]
+IP herschrijven toestaan
+[Directory of Users]
+Gebruikerslijst
+[Call on Remote Hold]
+Wacht op gesprek
+[Call on Local Hold]
+Wacht op gesprek
+[Call on Hold]
+Wacht op gesprek
+[Call is Active]
+Gesprek is actief
+[Menu]
+Keuzelijst
+[Edit Account]
+Account wijzigen
+[Add Account...]
+Account toevoegen...
+[Remove Account]
+Account verwijderen
+[Make Active]
+Activeren
+[Are you sure you want to remove?]
+Zeker verwijderen?
+[Call Pickup]
+Gesprek beantwoorden
+[Speaker Level]
+Volume luidspreker
+[Microphone Level]
+Volume microfoon
+[Mute Speaker]
+Luidspreker dempen
+[Mute Microphone]
+Microfoon dempen
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+Vul minstens velden in gemarkeerd met *.
+[Ask your SIP provider how to configure the account correctly.]
+Vraag uw SIP-aanbieder hoe het account ingesteld moet worden.
+[Random Popup Position]
+Willekeurige plaats
+[Time]
+Tijd
+[Attended Transfer]
+Doorverbinden
+[Launch URL on incoming call]
+[Enable Local Account]
+Lokaal account inschakelen
+[Send Crash Report]
+Vastlopen melden
+[Account Name]
+Accountnaam
+[Invite to Conference]
+Uitnodigen tot groepsgesprek
+[Merge]
+Samenvoegen
+[Separate]
+Afzonderlijk
+[Disconnect]
+Verbinding verbreken
+[DTMF Method]
+DTMF methode
+[Voicemail Number]
+Voicemail nummer
+[Disable Session Timers]
+Sessie timers uitschakelen
+[Microphone Amplification]
+Microfoon versterking
+[Software Level Adjustment]
+Software niveau aanpassing
+[Shortcuts]
+Snelkoppelingen
+[Enable]
+Activeer
+[Label]
+Label
+[Type]
+Type
+[Bottom Position]
+Positie onderaan
+[You need to restart application for the changes to take effect.]
+U moet de applicatie herstarten om de wijzigingen te activeren
+[Handle Media Buttons]
+Beheer media knoppen
+[Bring to Front on Incoming Call]
+Inkomende oproep naar de voorgrond brengen.
+[SIP account]
+[SIP password]
+[Help]
+Help
+[Video Bitrate]
+Video Bitrate
+[Control Button]
+Control knop
+[Do Not Disturb]
+Niet storen
+[Source Port]
+Lokale poort
+[RTP Ports]
+RTP Poorten
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+Importeren
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+Herhalen
+[Backspace]
+Backspace
+[Clear]
+Verwijderen
+[Use Space key to enable selected codec]
+Gebruik de spatiebalk om de geselecteerde codec te activeren
+[Use Delele key to disable selected codec]
+Gebruik de delete-toets om de geselecteerde codec te deactiveren
+[Make Inactive]
+[Conference]
+Conferentie
+[]

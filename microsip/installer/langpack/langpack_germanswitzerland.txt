@@ -1,0 +1,360 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Anrufen
+[End Call]
+Beenden
+[Contacts]
+Kontakte
+[Phone]
+Tastatur
+[Account]
+Benutzerkonto
+[Settings]
+Einstellungen
+[Visit Website]
+Website besuchen
+[Exit]
+Programm schließen
+[Ringing Sound]
+Rufzeichen
+[Browse...]
+Durchsuchen...
+[Default]
+Standard
+[Auto Answer]
+Automatisch antworten
+[Disable Local Account]
+Lokales Benutzerkonto deaktivieren
+[OK]
+OK
+[Save]
+Speichern
+[Cancel]
+Abbrechen
+[SIP Server]
+SIP Server
+[SIP Proxy]
+SIP Proxy
+[Username]
+Benutzer
+[Domain]
+Domäne
+[Password]
+Kennwort
+[Connecting...]
+Verbindung wird hergestellt...
+[Online]
+Online
+[Local]
+Lokal
+[Message]
+Nachricht
+[Edit]
+Bearbeiten
+[Delete]
+Löschen
+[Add]
+Hinzufügen
+[Bad Gateway]
+Fehlerhafter Gateway
+[Request Timeout]
+Zeitüberschreitung der Anfrage
+[Number]
+Nummer
+[Name]
+Name
+[Contact]
+Kontakt
+[Incoming Call]
+Eingehender Anruf
+[Answer]
+Antworten
+[Decline]
+Ablehnen
+[Calling]
+Anruf wird/ist verbunden
+[Connecting]
+Verbindung wird hergestellt
+[Connected]
+Verbunden
+[Auto]
+Automatisch
+[Transport]
+Netzwerkprotokoll
+[Incorrect Password]
+Fehlerhaftes Kennwort
+[Public Address]
+Öffentliche Adresse
+[Media Encryption]
+Medienverschlüsselung
+[Disabled]
+Deaktiviert
+[Optional]
+Optional
+[Mandatory]
+Verpflichtend
+[STUN Server]
+STUN Server
+[Presence Subscription]
+Status anzeigen
+[Ringing]
+Klingelnd
+[Call Ended]
+Anruf beendet
+[Declined]
+Abgelehnt
+[No address found]
+Keine Adresse gefunden
+[Request Terminated]
+Anfrage abgebrochen
+[Away]
+Abwesend
+[Publish Presence]
+Verfügbarkeit anzeigen
+[Session Progress]
+Rufaufbau
+[Camera]
+Kamera
+[Video Call]
+Videoanruf
+[Answer with Video]
+Mit Video antworten
+[View Log File]
+Protokolldatei ansehen
+[Microphone]
+Mikrofon
+[Speaker]
+Lautsprecher
+[Video Codec]
+Video Codec
+[Check for Updates]
+Auf Aktualisierungen prüfen
+[Daily]
+Täglich
+[Weekly]
+Wöchentlich
+[Monthly]
+Monatlich
+[Quarterly]
+Quartalsweise
+[Never]
+Niemals
+[Update Available]
+Programmaktualisierung verfügbar
+[Do you want to update now?]
+Möchten Sie aktualisieren?
+[Force Codec for Incoming]
+Eingehenden Codec erzwingen
+[Available Codecs]
+Verfügbare Codecs
+[Enabled Codecs]
+Aktiviert
+[Invalid URI]
+Ungültige URl
+[Offline]
+Offline
+[Single Call Mode]
+"Nur Anruf"-Modus
+[Local Video]
+Lokales Video
+[Call Transfer]
+Anrufweiterleitung
+[final]
+letzte
+[Call transfered successfully, disconnecting call]
+Weiterleitung erfolgreich, beende Verbindung
+[Hold]
+Halten
+[Transfer]
+Übertragung
+[Sound Events]
+Sound events
+[Bitrate]
+Bitrae
+[Login]
+Anmelden
+[Enable Log File]
+Protokolldatei aktivieren
+[Logs]
+Anrufe
+[Duration]
+Dauer
+[Info]
+Information
+[display password]
+Passwort in Klartext anzeigen
+[From]
+Von
+[To]
+An
+[Ring Device]
+Klingelton Ausgabe
+[Service Unavailable]
+Dienst nicht verfügbar
+[Invalid Request URI]
+Ungültige URI
+[Busy Here]
+Besetzt
+[Trying]
+Versuch
+[Method Not Allowed]
+Methode ist nicht erlaubt
+[Not Found]
+Nicht gefunden
+[Always on Top]
+Immer im Vordergrund anzeigen
+[Connect]
+Verbinden
+[Last Call]
+Letzter Anruf
+[Close All]
+Alles schliessen
+[Copy]
+Kopieren
+[Select All]
+Alles auswählen
+[Display Name]
+Dein Name
+[Remember Details]
+Einstellungen merken
+[PIN]
+[No]
+Nein
+[All Calls]
+Alle Anrufe
+[SIP Header]
+SIP Header
+[Different User]
+Anderer Benutzer
+[Different Domain]
+Andere Domain
+[Different User or Domain]
+Anderer Benutzer oder Domain
+[Different Remote Domain]
+Andere Fremddomäne
+[Deny Incoming]
+Eingehenden Anruf ablenen
+[Allow IP Rewrite]
+Erlaube IP-Rückmeldung
+[Directory of Users]
+Benutzerverzeichnis
+[Call on Remote Hold]
+Anruf wird bei Provider gehalten
+[Call on Local Hold]
+Anruf wird lokal gehalten
+[Call on Hold]
+Anruf gehalten
+[Call is Active]
+Anruf aktiv
+[Menu]
+Menü
+[Edit Account]
+Account bearbeiten
+[Add Account...]
+Konto hinzufügen...
+[Remove Account]
+Account entfernen
+[Make Active]
+Aktivieren
+[Are you sure you want to remove?]
+Wirklich entfernen?
+[Call Pickup]
+Anruf abnehemen
+[Speaker Level]
+Lautstärke
+[Microphone Level]
+Mikrofonlautstärke
+[Mute Speaker]
+Lautsprecher stumm schalten
+[Mute Microphone]
+Mikrofon stumm schalten
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+Bitte füllen sie mindestens die mit einem * gekennzeichneten, benötigten Felder aus.
+[Ask your SIP provider how to configure the account correctly.]
+Fragen Sie Ihren SIP Provider, wie Ihr Account korrekt konfiguriert werden muss.
+[Random Popup Position]
+Zufällige Position der Antwortbox
+[Time]
+Zeit
+[Attended Transfer]
+Telefongespräch vermitteln
+[Launch URL on incoming call]
+[Enable Local Account]
+Lokalen Account aktivieren
+[Send Crash Report]
+Absturzbericht senden
+[Account Name]
+Accountname
+[Invite to Conference]
+Zu Konferenz einladen
+[Merge]
+Zusammenführen
+[Separate]
+Trennen
+[Disconnect]
+Verbindung trennen
+[DTMF Method]
+DTMF Methode
+[Voicemail Number]
+Voicemail-Nummer
+[Disable Session Timers]
+Session Timer ausschalten
+[Microphone Amplification]
+Mikrofonverstärkung
+[Software Level Adjustment]
+Software Einstellung
+[Shortcuts]
+Kurzwahlen
+[Enable]
+Einschalten
+[Label]
+Beschriftung
+[Type]
+Typ
+[Bottom Position]
+Untere Position
+[You need to restart application for the changes to take effect.]
+Sie müssen die Anwendung neustarten, damit die Änderungen übernommen werden.
+[Handle Media Buttons]
+Nutze Multimedia-Tasten
+[Bring to Front on Incoming Call]
+Eingehenden Anruf nach vorne bringen
+[SIP account]
+[SIP password]
+[Help]
+Hilfe
+[Video Bitrate]
+Video Bitrate
+[Control Button]
+Bedientaste
+[Do Not Disturb]
+Nicht Stören
+[Source Port]
+Quelle
+[RTP Ports]
+RTP port
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+Importieren
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+Wahlwiederholung
+[Backspace]
+Zurücksetzen
+[Clear]
+Löschen
+[Use Space key to enable selected codec]
+[Use Delele key to disable selected codec]
+[Make Inactive]
+[Conference]
+[]

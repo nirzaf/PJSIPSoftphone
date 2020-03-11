@@ -1,0 +1,299 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Thirrja
+[End Call]
+Mbaro thirrjen
+[Contacts]
+Kontaktet
+[Phone]
+Numratori
+[Account]
+Llogaria
+[Settings]
+Konfigurimet
+[Visit Website]
+Vizito webfaqen
+[Exit]
+Dil
+[Ringing Sound]
+Zëri cingërrues
+[Browse...]
+Shfleto...
+[Default]
+Parazgjedhur
+[Auto Answer]
+Përgjigju automatikisht
+[Disable Local Account]
+Paaftëso llogarinë lokale
+[OK]
+OK
+[Save]
+Ruaj
+[Cancel]
+Anulo
+[SIP Server]
+SIP serveri
+[SIP Proxy]
+SIP proxy
+[Username]
+Përdoruesi
+[Domain]
+Domeni
+[Password]
+Fjalëkalimi
+[Connecting...]
+Duke u lidhur...
+[Online]
+Në linjë
+[Local]
+Lokal
+[Message]
+Porosia
+[Edit]
+Redakto
+[Delete]
+Fshij
+[Add]
+Shto
+[Bad Gateway]
+Gateway i gabuar
+[Request Timeout]
+Tejkalim i kohës së kërkesës
+[Number]
+Numri
+[Name]
+Emri
+[Contact]
+Kontakto
+[Incoming Call]
+Thirrja hyrëse
+[Answer]
+Përgjigju
+[Decline]
+Refuzo
+[Calling]
+Duke thirrur
+[Connecting]
+Duke u lidhur
+[Connected]
+I lidhur
+[Auto]
+Auto
+[Transport]
+Transporti
+[Incorrect Password]
+Fjalëkalim i gabuar
+[Public Address]
+Adresa publike
+[Media Encryption]
+Shifrim i medias
+[Disabled]
+Paaftësuar
+[Optional]
+Jo i detyrueshëm
+[Mandatory]
+Detyrueshme
+[STUN Server]
+STUN serveri
+[Presence Subscription]
+Abonim i pranisë
+[Ringing]
+Duke cingërruar
+[Call Ended]
+Thirrja mbaroi
+[Declined]
+Refuzuar
+[No address found]
+Adresa nuk u gjet
+[Request Terminated]
+Kërkesa perfundoi
+[Away]
+Larg
+[Publish Presence]
+Publiko praninë
+[Session Progress]
+Përparimi i sesionit
+[Camera]
+Kamera
+[Video Call]
+Video thirrja
+[Answer with Video]
+Përgjigju me video
+[View Log File]
+Shiko log fajllin
+[Microphone]
+Mikrofoni
+[Speaker]
+Alltoparlanti
+[Video Codec]
+Video codec-u
+[Check for Updates]
+Kontrollo përditësimet
+[Daily]
+Ditor
+[Weekly]
+Javor
+[Monthly]
+Mujor
+[Quarterly]
+Tremujor
+[Never]
+Asnjëherë
+[Update Available]
+Përditësim i mundshëm
+[Do you want to update now?]
+A doni t'a përditësoni?
+[Force Codec for Incoming]
+[Available Codecs]
+Në dispozicion
+[Enabled Codecs]
+I lëshuar
+[Invalid URI]
+URI jokorrekt
+[Offline]
+Jashtë linjës
+[Single Call Mode]
+Modusi për thirrje të vetme
+[Local Video]
+Video lokale
+[Call Transfer]
+Transferim i thirrjes
+[final]
+finale
+[Call transfered successfully, disconnecting call]
+Thirrja u transferua me sukses, duke shkëputur thirrjen
+[Hold]
+Mbaj
+[Transfer]
+Transfero
+[Sound Events]
+Tingujt
+[Bitrate]
+Bitrate
+[Login]
+Hyr
+[Enable Log File]
+Lësho log fajllin
+[Logs]
+Thirrjet
+[Duration]
+Kohëzgjatja
+[Info]
+Info
+[display password]
+shfaq fjalëkalimin
+[From]
+Nga
+[To]
+Drejt
+[Ring Device]
+Cingërro pajisjen
+[Service Unavailable]
+Shërbimi
+[Invalid Request URI]
+URI kërkesë jokorrekte
+[Busy Here]
+I nxënë
+[Trying]
+Duke provuar
+[Method Not Allowed]
+Metodë e palejueshme
+[Not Found]
+Nuk u gjet
+[Always on Top]
+Gjithnjë në maje
+[Connect]
+Lidhu
+[Last Call]
+Thirrja e fundit
+[Close All]
+Mbyll të gjithat
+[Copy]
+Kopjo
+[Select All]
+Zgjedh të gjitha
+[Display Name]
+Emri yt
+[Remember Details]
+Kujto detajet
+[PIN]
+[No]
+[All Calls]
+[SIP Header]
+[Different User]
+[Different Domain]
+[Different User or Domain]
+[Different Remote Domain]
+[Deny Incoming]
+[Allow IP Rewrite]
+[Directory of Users]
+[Call on Remote Hold]
+[Call on Local Hold]
+[Call on Hold]
+[Call is Active]
+[Menu]
+[Edit Account]
+[Add Account...]
+[Remove Account]
+[Make Active]
+[Are you sure you want to remove?]
+[Call Pickup]
+[Speaker Level]
+[Microphone Level]
+[Mute Speaker]
+[Mute Microphone]
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+[Ask your SIP provider how to configure the account correctly.]
+[Random Popup Position]
+[Time]
+[Attended Transfer]
+[Launch URL on incoming call]
+[Enable Local Account]
+[Send Crash Report]
+[Account Name]
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
+[DTMF Method]
+[Voicemail Number]
+[Disable Session Timers]
+[Microphone Amplification]
+[Software Level Adjustment]
+[Shortcuts]
+[Enable]
+[Label]
+[Type]
+[Bottom Position]
+[You need to restart application for the changes to take effect.]
+[Handle Media Buttons]
+[Bring to Front on Incoming Call]
+[SIP account]
+[SIP password]
+[Help]
+[Video Bitrate]
+[Control Button]
+[Do Not Disturb]
+[Source Port]
+[RTP Ports]
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+[Backspace]
+[Clear]
+[Use Space key to enable selected codec]
+[Use Delele key to disable selected codec]
+[Make Inactive]
+[Conference]
+[]

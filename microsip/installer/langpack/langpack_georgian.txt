@@ -1,0 +1,329 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+ზარი
+[End Call]
+ზარის გათიშვა
+[Contacts]
+კონტაქტები
+[Phone]
+ციფერბლატი
+[Account]
+ანგარიში
+[Settings]
+პარამეტრები
+[Visit Website]
+ნახეთ პროგრამის საიტი
+[Exit]
+გამოსვლა
+[Ringing Sound]
+ზარის ხმა
+[Browse...]
+დათვალიერება...
+[Default]
+დუმილის წესით
+[Auto Answer]
+ავტო მოპასუხე
+[Disable Local Account]
+ადგ. ანგარიშის გათიშვა
+[OK]
+კარგი
+[Save]
+შენახვა
+[Cancel]
+გაუქმება
+[SIP Server]
+SIP სერვერი
+[SIP Proxy]
+SIP პროქსი
+[Username]
+მომხმარებელი
+[Domain]
+დომენი
+[Password]
+პაროლი
+[Connecting...]
+ვუკავშირდებით...
+[Online]
+ონლიანი
+[Local]
+ადგილობრივი
+[Message]
+შეტყობინება
+[Edit]
+რედაქტირება
+[Delete]
+წაშლა
+[Add]
+დამატება
+[Bad Gateway]
+არასწორი გეითვეი
+[Request Timeout]
+მოთხოვნის დროის ამოწურვა
+[Number]
+ნომერი
+[Name]
+სახელი
+[Contact]
+კონტაქტი
+[Incoming Call]
+შემომავალი ზარი
+[Answer]
+ვუპასუხოთ
+[Decline]
+დავაიგნოროთ
+[Calling]
+ირეკება
+[Connecting]
+ვუკავშირდებით
+[Connected]
+დაკავშირებულია
+[Auto]
+ავტო
+[Transport]
+ტრანსპორტი
+[Incorrect Password]
+არასწორი პაროლი
+[Public Address]
+საჯარო მისამართი
+[Media Encryption]
+მედიის დაშიფვრა
+[Disabled]
+გამორთული
+[Optional]
+ფაკულტატიური
+[Mandatory]
+აუცილებელი
+[STUN Server]
+STUN სერვერი
+[Presence Subscription]
+პრეზანსის გამოწერა
+[Ringing]
+რეკავს
+[Call Ended]
+ზარი დასრულდა
+[Declined]
+უარყოფილია
+[No address found]
+მისამართი არ მოიძებნა
+[Request Terminated]
+მოთხოვნა დასრულდა
+[Away]
+გასულია
+[Publish Presence]
+გაასაჯაროვე პრეზანსი
+[Session Progress]
+სესიის პროგრესი
+[Camera]
+ვებკამი
+[Video Call]
+ვიდეო ზარი
+[Answer with Video]
+უპასუხე ვიდეოთი
+[View Log File]
+ოქმის ფაილის ნახვა
+[Microphone]
+მიკროფონი
+[Speaker]
+ხმამაღლამოლაპარაკე
+[Video Codec]
+ვიდეო კოდეკი
+[Check for Updates]
+განახლებ. შემოწმება
+[Daily]
+ყოველდღიურად
+[Weekly]
+ყოველკვირეულად
+[Monthly]
+ყოველთვიურად
+[Quarterly]
+ყოველკვარტლურად
+[Never]
+არასოდეს
+[Update Available]
+განახლება ხელმისაწვდომია
+[Do you want to update now?]
+გნებავთ პროგრამის განახლება?
+[Force Codec for Incoming]
+შემომ. კოდეკის ფორსირება
+[Available Codecs]
+ხელმისაწვდომია
+[Enabled Codecs]
+ჩართულია
+[Invalid URI]
+არასწორი URI
+[Offline]
+ოფლაინი
+[Single Call Mode]
+მარტო ერთი ზარის რეჟიმი
+[Local Video]
+ადგილობრივი ვიდეო
+[Call Transfer]
+ზარის გადატანა
+[final]
+საბოლოო
+[Call transfered successfully, disconnecting call]
+ზარის გადატანა წარმატებით მოხდა, ვთიშავთ ზარს
+[Hold]
+დაპაუზება
+[Transfer]
+ტრანსფერი
+[Sound Events]
+ხმის ივენთები
+[Bitrate]
+ბიტ.სიჩქარე
+[Login]
+მომხმ.სახელი
+[Enable Log File]
+ოქმის ფაილის ჩართვა
+[Logs]
+ზარები
+[Duration]
+ხანგრძლივობა
+[Info]
+ინფო
+[display password]
+პაროლის ჩვენება
+[From]
+ვისგან
+[To]
+ვის
+[Ring Device]
+დაირეკოს მოწყობილობაზე
+[Service Unavailable]
+სერვისი მიუწვდომელია
+[Invalid Request URI]
+არასწორი URI მოთხოვნა
+[Busy Here]
+დაკავებაა
+[Trying]
+მცდელობა
+[Method Not Allowed]
+მეთოდი არ არის დაშვებული
+[Not Found]
+არ მოიძებნა
+[Always on Top]
+სულ ზევიდან
+[Connect]
+დაკავშირება
+[Last Call]
+ბოლო ზარი
+[Close All]
+ყვ. დახურვა
+[Copy]
+კოპირება
+[Select All]
+ყველას არჩევა
+[Display Name]
+ეკრანზე სახელი
+[Remember Details]
+დეტალების დამახსოვრება
+[PIN]
+[No]
+არა
+[All Calls]
+ველა ზარი
+[SIP Header]
+SIP სათაური
+[Different User]
+სხვა მომხმარებელი
+[Different Domain]
+სხვა დომენი
+[Different User or Domain]
+სხვა მომხმარებელი ან დომენი
+[Different Remote Domain]
+სხვა შორი დომენი
+[Deny Incoming]
+შემომავლის დაიგნორირება
+[Allow IP Rewrite]
+IP-ს გადაწერის დაშვება
+[Directory of Users]
+მომხმარებლების დირექტორია
+[Call on Remote Hold]
+ზარი შორეულ პაუზაზეა
+[Call on Local Hold]
+ზარი ადგილობრივ პაუზაზეა
+[Call on Hold]
+ზარი დაპაუზებულია
+[Call is Active]
+ზარი აქტიურია
+[Menu]
+მენიუ
+[Edit Account]
+ანგარიშის რედაქტირება
+[Add Account...]
+ანგარიშის დამატება
+[Remove Account]
+ანგარიშის წაშლა
+[Make Active]
+გააქტიურება
+[Are you sure you want to remove?]
+მართლა გსურთ წაშლა?
+[Call Pickup]
+ზარის აღება
+[Speaker Level]
+ხმამაღლამოლაპარაკის დონე
+[Microphone Level]
+მიკროფონის დონე
+[Mute Speaker]
+ხმამაღლამოლაპარაკის გაჩუმება
+[Mute Microphone]
+მიკროფონის გაჩუმება
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+გთხოვთ შეავსოთ სულ ცოტა * აღნიშნული ველები მაინც
+[Ask your SIP provider how to configure the account correctly.]
+ჰკითხეთ თქვენს SIP პროვაიდერს თუ როგორ უნდა დააკონფიგუროთ სწორად ანგარიში.
+[Random Popup Position]
+საპასუხო ყუთის შემთხვევითი პოზიცია
+[Time]
+დრო
+[Attended Transfer]
+[Launch URL on incoming call]
+[Enable Local Account]
+[Send Crash Report]
+[Account Name]
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
+[DTMF Method]
+[Voicemail Number]
+[Disable Session Timers]
+[Microphone Amplification]
+[Software Level Adjustment]
+[Shortcuts]
+[Enable]
+[Label]
+[Type]
+[Bottom Position]
+[You need to restart application for the changes to take effect.]
+[Handle Media Buttons]
+[Bring to Front on Incoming Call]
+[SIP account]
+[SIP password]
+[Help]
+[Video Bitrate]
+[Control Button]
+[Do Not Disturb]
+[Source Port]
+[RTP Ports]
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+[Backspace]
+[Clear]
+[Use Space key to enable selected codec]
+[Use Delele key to disable selected codec]
+[Make Inactive]
+[Conference]
+[]

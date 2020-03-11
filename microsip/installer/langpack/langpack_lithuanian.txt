@@ -1,0 +1,285 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Skambutis
+[End Call]
+Baigti skambutį
+[Contacts]
+Kontaktai
+[Phone]
+Skaičių klaviatūra
+[Account]
+Paskyra
+[Settings]
+Nustatymai
+[Visit Website]
+Aplankyti tinklalapį
+[Exit]
+Išeiti
+[Ringing Sound]
+Skambučio garsas
+[Browse...]
+Ieškoti...
+[Default]
+Pagrindinis
+[Auto Answer]
+Automatinis atsakymas
+[Disable Local Account]
+[OK]
+Gerai
+[Save]
+Išsaugoti
+[Cancel]
+Atsisakyti
+[SIP Server]
+SIP serveris
+[SIP Proxy]
+SIP Proxy
+[Username]
+Vartotojas
+[Domain]
+Domenas
+[Password]
+Slaptažodis
+[Connecting...]
+Jungiasi...
+[Online]
+Esu
+[Local]
+[Message]
+Žinutė
+[Edit]
+Redaguoti
+[Delete]
+Ištrinti
+[Add]
+Pridėti
+[Bad Gateway]
+[Request Timeout]
+[Number]
+Numeris
+[Name]
+Vardas
+[Contact]
+Kontaktas
+[Incoming Call]
+Įeinantis skambutis
+[Answer]
+Atsakyti
+[Decline]
+Atmesti
+[Calling]
+Skambina
+[Connecting]
+Jungiamasi
+[Connected]
+Prisijungta
+[Auto]
+Auto
+[Transport]
+[Incorrect Password]
+Neteisingas slaptažodis
+[Public Address]
+[Media Encryption]
+[Disabled]
+[Optional]
+[Mandatory]
+[STUN Server]
+[Presence Subscription]
+[Ringing]
+Skamba
+[Call Ended]
+Skambutis baigtas
+[Declined]
+Atmestas
+[No address found]
+Nerastas adresas
+[Request Terminated]
+[Away]
+Nesu
+[Publish Presence]
+[Session Progress]
+[Camera]
+Kamera
+[Video Call]
+Video skambutis
+[Answer with Video]
+Atsakyti su vaizdu
+[View Log File]
+Peržiūrėti įvykių žurnalą
+[Microphone]
+Mikrofonas
+[Speaker]
+Garsiakalbis
+[Video Codec]
+[Check for Updates]
+Ieškoti atnaujinimų
+[Daily]
+Kasdien
+[Weekly]
+Kas savaitę
+[Monthly]
+Kas mėnesį
+[Quarterly]
+Kas ketvirtį
+[Never]
+Niekada
+[Update Available]
+Galimas atnaujinimas
+[Do you want to update now?]
+Ar norite atnaujinti?
+[Force Codec for Incoming]
+[Available Codecs]
+Galimas
+[Enabled Codecs]
+Įgalintas
+[Invalid URI]
+[Offline]
+Neprisijungęs
+[Single Call Mode]
+[Local Video]
+[Call Transfer]
+[final]
+[Call transfered successfully, disconnecting call]
+[Hold]
+Sulaikyti
+[Transfer]
+[Sound Events]
+[Bitrate]
+[Login]
+Registruotis
+[Enable Log File]
+[Logs]
+Skambučiai
+[Duration]
+Trukmė
+[Info]
+Info
+[display password]
+rodyti slaptažodį
+[From]
+Nuo
+[To]
+Kam
+[Ring Device]
+Skambučio įrenginis
+[Service Unavailable]
+Paslauga neprieinama
+[Invalid Request URI]
+[Busy Here]
+[Trying]
+Bandoma
+[Method Not Allowed]
+[Not Found]
+Nerasta
+[Always on Top]
+Visada viršuje
+[Connect]
+Prisijungti
+[Last Call]
+Paskutinis skambutis
+[Close All]
+Uždaryti visus
+[Copy]
+Kopijuoti
+[Select All]
+Pasirinkti visus
+[Display Name]
+Jūsų vardas
+[Remember Details]
+[PIN]
+[No]
+Ne
+[All Calls]
+Visi skambučiai
+[SIP Header]
+[Different User]
+[Different Domain]
+[Different User or Domain]
+[Different Remote Domain]
+[Deny Incoming]
+Uždrausti įeinančius
+[Allow IP Rewrite]
+Leisti IP rewrite
+[Directory of Users]
+[Call on Remote Hold]
+[Call on Local Hold]
+Skambutis pristabdytas
+[Call on Hold]
+Skambutis sulaikomas
+[Call is Active]
+Skambutis aktyvus
+[Menu]
+[Edit Account]
+[Add Account...]
+Pridėti paskyrą
+[Remove Account]
+[Make Active]
+[Are you sure you want to remove?]
+Ar tikrai norite pašalinti?
+[Call Pickup]
+[Speaker Level]
+[Microphone Level]
+[Mute Speaker]
+[Mute Microphone]
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+[Ask your SIP provider how to configure the account correctly.]
+Kaip teisingai sukonfiigūruoti paskyrą klauskite savo SIP tiekėjo.
+[Random Popup Position]
+[Time]
+Laikas
+[Attended Transfer]
+Atliktas peradresavimas
+[Launch URL on incoming call]
+[Enable Local Account]
+[Send Crash Report]
+[Account Name]
+Paskyros vardas
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
+[DTMF Method]
+[Voicemail Number]
+Balso pašto numeris
+[Disable Session Timers]
+[Microphone Amplification]
+[Software Level Adjustment]
+[Shortcuts]
+[Enable]
+[Label]
+[Type]
+Tipas
+[Bottom Position]
+[You need to restart application for the changes to take effect.]
+Kad pasikeitimai įsigaliotų reikia perkrauti aplikaciją
+[Handle Media Buttons]
+[Bring to Front on Incoming Call]
+[SIP account]
+[SIP password]
+[Help]
+[Video Bitrate]
+[Control Button]
+[Do Not Disturb]
+[Source Port]
+[RTP Ports]
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+[Backspace]
+[Clear]
+[Use Space key to enable selected codec]
+[Use Delele key to disable selected codec]
+[Make Inactive]
+[Conference]
+[]

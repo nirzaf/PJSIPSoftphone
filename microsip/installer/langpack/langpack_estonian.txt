@@ -1,0 +1,363 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Helista
+[End Call]
+Lõpeta
+[Contacts]
+Kontaktid
+[Phone]
+Numbrilaud
+[Account]
+Konto
+[Settings]
+Seaded
+[Visit Website]
+Külasta veebi
+[Exit]
+Välju
+[Ringing Sound]
+Helina fail
+[Browse...]
+Sirvi...
+[Default]
+Taasta algne
+[Auto Answer]
+Automaatne vastamine
+[Disable Local Account]
+Keela kohalik konto
+[OK]
+Sobib
+[Save]
+Salvesta
+[Cancel]
+Loobu
+[SIP Server]
+SIP server
+[SIP Proxy]
+SIP proksi
+[Username]
+Kasutajanimi
+[Domain]
+Domeen
+[Password]
+Parool
+[Connecting...]
+Ühendan...
+[Online]
+Saadaval
+[Local]
+Kohalik
+[Message]
+Sõnum
+[Edit]
+Redigeeri
+[Delete]
+Kustuta
+[Add]
+Lisa
+[Bad Gateway]
+Gateway viga
+[Request Timeout]
+Päringu aeg läbi
+[Number]
+Number
+[Name]
+Nimi
+[Contact]
+Kontakt
+[Incoming Call]
+Sisenev kõne
+[Answer]
+Vasta
+[Decline]
+Keeldu
+[Calling]
+Helistan
+[Connecting]
+Ühendan
+[Connected]
+Ühendatud
+[Auto]
+Automaatne
+[Transport]
+Protokolli tüüp
+[Incorrect Password]
+Vale salasõna
+[Public Address]
+Avalik aadress
+[Media Encryption]
+Side turvalisus
+[Disabled]
+Puudub
+[Optional]
+Valikuline
+[Mandatory]
+Kohustuslik
+[STUN Server]
+STUN server
+[Presence Subscription]
+Kohalolu registreering
+[Ringing]
+Helisemine
+[Call Ended]
+Kõne lõpp
+[Declined]
+Keeldutud
+[No address found]
+Aadressi pole leitud
+[Request Terminated]
+Päring lõpetatud
+[Away]
+Eemal
+[Publish Presence]
+Teavita kohalolust
+[Session Progress]
+Seansi edenemine
+[Camera]
+Kaamera
+[Video Call]
+Videokõne
+[Answer with Video]
+Vasta videoga
+[View Log File]
+Vaata logifaili
+[Microphone]
+Mikrofon
+[Speaker]
+Kõlar
+[Video Codec]
+Videokoodek
+[Check for Updates]
+Kontrolli uuendusi
+[Daily]
+Iga päev
+[Weekly]
+Nädalati
+[Monthly]
+Igakuiselt
+[Quarterly]
+Kvartaalselt
+[Never]
+Iialgi
+[Update Available]
+Uuendus on saadaval
+[Do you want to update now?]
+Kas soovid praegu uuendada?
+[Force Codec for Incoming]
+Sissetulevale jõusta koodek
+[Available Codecs]
+Saadaval koodekid
+[Enabled Codecs]
+Võimaldatud
+[Invalid URI]
+Kehtetu URI
+[Offline]
+Võrgust väljas
+[Single Call Mode]
+Ainsa kõne moodus
+[Local Video]
+Kohalik video
+[Call Transfer]
+Kõne suunamine
+[final]
+lõplik
+[Call transfered successfully, disconnecting call]
+Kõne on edukalt suunatud, ühendan lahti
+[Hold]
+Ootel
+[Transfer]
+Suunamine
+[Sound Events]
+Heli seigad
+[Bitrate]
+Bitikiirus
+[Login]
+Logi sisse
+[Enable Log File]
+Võimaldada logimine
+[Logs]
+Kõned
+[Duration]
+Kestvus
+[Info]
+Info
+[display password]
+näita parooli
+[From]
+Kust
+[To]
+Kuhu
+[Ring Device]
+Helisemise seade
+[Service Unavailable]
+Teenus pole saadaval
+[Invalid Request URI]
+Kehtetu päringu URI
+[Busy Here]
+Olen hõivatud
+[Trying]
+Proovimas
+[Method Not Allowed]
+Meetod pole lubatud
+[Not Found]
+Pole leitud
+[Always on Top]
+Alati pealmine
+[Connect]
+Ühenda
+[Last Call]
+Viimane kõne
+[Close All]
+Sulge kõik
+[Copy]
+Kopeeri
+[Select All]
+Vali kõik
+[Display Name]
+Su nimi
+[Remember Details]
+Mäleta detaile
+[PIN]
+[No]
+Ei
+[All Calls]
+Kõik kõned
+[SIP Header]
+SIP päis
+[Different User]
+Erinev kasutaja
+[Different Domain]
+Erinev domeen
+[Different User or Domain]
+Erinev kasutaja või domeen
+[Different Remote Domain]
+Erinev kaugdomeen
+[Deny Incoming]
+Keeldu vastuvõtust
+[Allow IP Rewrite]
+Luba IP ülekirjutada
+[Directory of Users]
+Kasutajate nimistu
+[Call on Remote Hold]
+Kõne on kaugootel
+[Call on Local Hold]
+Kõne on kohalikul ootel
+[Call on Hold]
+Kõne on ootel
+[Call is Active]
+Aktiivne kõne
+[Menu]
+Menüü
+[Edit Account]
+Muuda kontot
+[Add Account...]
+Lisa konto...
+[Remove Account]
+Kõrvalda konto
+[Make Active]
+Muuda aktiiveks
+[Are you sure you want to remove?]
+Kas oled kindel, et soovid kõrvaldada?
+[Call Pickup]
+Kõnele vastamine
+[Speaker Level]
+Kõlari tase
+[Microphone Level]
+Mikrofoni tase
+[Mute Speaker]
+Vaigista kõlar
+[Mute Microphone]
+Vaigista mikrofon
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+Palun täida vähemalt * märgitud nõutavad väljad
+[Ask your SIP provider how to configure the account correctly.]
+Päri SIP-pakkujalt, kuidas õieti kontot konfigureerida.
+[Random Popup Position]
+Vastusekasti suvaline asukoht
+[Time]
+Aeg
+[Attended Transfer]
+Kaasnev edastus
+[Launch URL on incoming call]
+[Enable Local Account]
+Ava kohalik konto
+[Send Crash Report]
+Saada veateade
+[Account Name]
+Konto nimi
+[Invite to Conference]
+Kutsu konverentsile
+[Merge]
+Mesti
+[Separate]
+Eralda
+[Disconnect]
+Ühenda lahti
+[DTMF Method]
+DTMF meetod
+[Voicemail Number]
+Häälemaili number
+[Disable Session Timers]
+Keela seansi taimerid
+[Microphone Amplification]
+Mikrofoni võimendus
+[Software Level Adjustment]
+Muudatused tarkvara tasemel
+[Shortcuts]
+Otseteed
+[Enable]
+Võimalda
+[Label]
+Silt
+[Type]
+Tüüp
+[Bottom Position]
+Alumine asukoht
+[You need to restart application for the changes to take effect.]
+Muudatuste jõustamiseks pead sa programmi taaskäivitama.
+[Handle Media Buttons]
+Halda meedia-nuppe
+[Bring to Front on Incoming Call]
+Sissetuleva kõne puhul too ette
+[SIP account]
+[SIP password]
+[Help]
+Abi
+[Video Bitrate]
+Video bitikiirus
+[Control Button]
+Kontrollnupp
+[Do Not Disturb]
+Ära häiri
+[Source Port]
+Algne port
+[RTP Ports]
+RTP portid
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+Impordi
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+Vali uuesti
+[Backspace]
+Tagasi
+[Clear]
+Tühjenda
+[Use Space key to enable selected codec]
+Kasuta Space-klahvi valitud koodeki lubamiseks
+[Use Delele key to disable selected codec]
+Kasuta Delete-klahvi valitud koodeki keelamiseks
+[Make Inactive]
+[Conference]
+Konverents
+[]

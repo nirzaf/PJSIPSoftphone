@@ -1,0 +1,238 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Kliči
+[End Call]
+[Contacts]
+Stiki
+[Phone]
+[Account]
+Račun
+[Settings]
+Nastavitve
+[Visit Website]
+Poglej na website
+[Exit]
+Končaj
+[Ringing Sound]
+[Browse...]
+Prebrskaj....
+[Default]
+[Auto Answer]
+Avtomatski
+[Disable Local Account]
+[OK]
+[Save]
+Shrani
+[Cancel]
+Prekliči
+[SIP Server]
+SIP strežnik
+[SIP Proxy]
+SIP proxy
+[Username]
+Uporabnik
+[Domain]
+[Password]
+Geslo
+[Connecting...]
+[Online]
+[Local]
+[Message]
+Sporočilo
+[Edit]
+[Delete]
+Izbriši
+[Add]
+Dodaj
+[Bad Gateway]
+[Request Timeout]
+[Number]
+Številka
+[Name]
+Ime
+[Contact]
+Stik
+[Incoming Call]
+[Answer]
+Javi se
+[Decline]
+[Calling]
+[Connecting]
+[Connected]
+[Auto]
+Avtomatsko
+[Transport]
+[Incorrect Password]
+[Public Address]
+[Media Encryption]
+[Disabled]
+Onemogočeno
+[Optional]
+[Mandatory]
+[STUN Server]
+STUN strežnik
+[Presence Subscription]
+[Ringing]
+[Call Ended]
+[Declined]
+[No address found]
+[Request Terminated]
+[Away]
+Nedosegljiv
+[Publish Presence]
+[Session Progress]
+[Camera]
+Kamera
+[Video Call]
+Video klic
+[Answer with Video]
+Javi se z video
+[View Log File]
+Poglej log datoteko
+[Microphone]
+Mikrofon
+[Speaker]
+Zvočnik
+[Video Codec]
+Video kodek
+[Check for Updates]
+[Daily]
+Dnevno
+[Weekly]
+Tedensko
+[Monthly]
+Mesečno
+[Quarterly]
+[Never]
+Nikoli
+[Update Available]
+Posodoitve na voljo
+[Do you want to update now?]
+[Force Codec for Incoming]
+[Available Codecs]
+Dosegljiv
+[Enabled Codecs]
+[Invalid URI]
+[Offline]
+[Single Call Mode]
+[Local Video]
+[Call Transfer]
+[final]
+[Call transfered successfully, disconnecting call]
+[Hold]
+[Transfer]
+Preveži
+[Sound Events]
+[Bitrate]
+[Login]
+[Enable Log File]
+[Logs]
+Klici
+[Duration]
+[Info]
+[display password]
+pokaži geslo
+[From]
+[To]
+[Ring Device]
+[Service Unavailable]
+[Invalid Request URI]
+[Busy Here]
+[Trying]
+Poiskušam
+[Method Not Allowed]
+[Not Found]
+[Always on Top]
+Vedno na vrhu
+[Connect]
+[Last Call]
+[Close All]
+[Copy]
+Kopiraj
+[Select All]
+[Display Name]
+Vaše ime
+[Remember Details]
+[PIN]
+[No]
+Ne
+[All Calls]
+Vsi klici
+[SIP Header]
+[Different User]
+[Different Domain]
+[Different User or Domain]
+[Different Remote Domain]
+[Deny Incoming]
+[Allow IP Rewrite]
+[Directory of Users]
+[Call on Remote Hold]
+[Call on Local Hold]
+[Call on Hold]
+[Call is Active]
+[Menu]
+[Edit Account]
+[Add Account...]
+[Remove Account]
+[Make Active]
+[Are you sure you want to remove?]
+[Call Pickup]
+[Speaker Level]
+[Microphone Level]
+[Mute Speaker]
+[Mute Microphone]
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+[Ask your SIP provider how to configure the account correctly.]
+[Random Popup Position]
+[Time]
+[Attended Transfer]
+[Launch URL on incoming call]
+[Enable Local Account]
+[Send Crash Report]
+[Account Name]
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
+[DTMF Method]
+[Voicemail Number]
+[Disable Session Timers]
+[Microphone Amplification]
+[Software Level Adjustment]
+[Shortcuts]
+[Enable]
+[Label]
+[Type]
+[Bottom Position]
+[You need to restart application for the changes to take effect.]
+[Handle Media Buttons]
+[Bring to Front on Incoming Call]
+[SIP account]
+[SIP password]
+[Help]
+[Video Bitrate]
+[Control Button]
+[Do Not Disturb]
+[Source Port]
+[RTP Ports]
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+[Backspace]
+[Clear]
+[Use Space key to enable selected codec]
+[Use Delele key to disable selected codec]
+[Make Inactive]
+[Conference]
+[]

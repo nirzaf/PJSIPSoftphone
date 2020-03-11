@@ -1,0 +1,184 @@
+!insertmacro MUI_LANGUAGE "Afrikaans"
+!insertmacro MUI_LANGUAGE "Albanian"
+!insertmacro MUI_LANGUAGE "Arabic"
+!insertmacro MUI_LANGUAGE "Armenian"
+!insertmacro MUI_LANGUAGE "Basque"
+!insertmacro MUI_LANGUAGE "Belarusian"
+!insertmacro MUI_LANGUAGE "Bosnian"
+!insertmacro MUI_LANGUAGE "Breton"
+!insertmacro MUI_LANGUAGE "Bulgarian"
+!insertmacro MUI_LANGUAGE "Catalan"
+!insertmacro MUI_LANGUAGE "Croatian"
+!insertmacro MUI_LANGUAGE "Czech"
+!insertmacro MUI_LANGUAGE "Danish"
+!insertmacro MUI_LANGUAGE "DutchNetherlands"
+!insertmacro MUI_LANGUAGE "Esperanto"
+!insertmacro MUI_LANGUAGE "Estonian"
+!insertmacro MUI_LANGUAGE "Farsi"
+!insertmacro MUI_LANGUAGE "Finnish"
+!insertmacro MUI_LANGUAGE "French"
+!insertmacro MUI_LANGUAGE "Galician"
+!insertmacro MUI_LANGUAGE "Georgian"
+!insertmacro MUI_LANGUAGE "German"
+!insertmacro MUI_LANGUAGE "GermanSwitzerland"
+!insertmacro MUI_LANGUAGE "Greek"
+!insertmacro MUI_LANGUAGE "Hebrew"
+!insertmacro MUI_LANGUAGE "Hungarian"
+!insertmacro MUI_LANGUAGE "Icelandic"
+!insertmacro MUI_LANGUAGE "Indonesian"
+!insertmacro MUI_LANGUAGE "Irish"
+!insertmacro MUI_LANGUAGE "Italian"
+!insertmacro MUI_LANGUAGE "Japanese"
+!insertmacro MUI_LANGUAGE "Korean"
+!insertmacro MUI_LANGUAGE "Kurdish"
+!insertmacro MUI_LANGUAGE "Latvian"
+!insertmacro MUI_LANGUAGE "Lithuanian"
+!insertmacro MUI_LANGUAGE "Luxembourgish"
+!insertmacro MUI_LANGUAGE "Macedonian"
+!insertmacro MUI_LANGUAGE "Malay"
+!insertmacro MUI_LANGUAGE "Mongolian"
+!insertmacro MUI_LANGUAGE "Norwegian"
+!insertmacro MUI_LANGUAGE "NorwegianNynorsk"
+!insertmacro MUI_LANGUAGE "Polish"
+!insertmacro MUI_LANGUAGE "Portuguese"
+!insertmacro MUI_LANGUAGE "PortugueseBR"
+!insertmacro MUI_LANGUAGE "Romanian"
+!insertmacro MUI_LANGUAGE "Russian"
+!insertmacro MUI_LANGUAGE "Serbian"
+!insertmacro MUI_LANGUAGE "SerbianLatin"
+!insertmacro MUI_LANGUAGE "SimpChinese"
+!insertmacro MUI_LANGUAGE "Slovak"
+!insertmacro MUI_LANGUAGE "Slovenian"
+!insertmacro MUI_LANGUAGE "Spanish"
+!insertmacro MUI_LANGUAGE "SpanishInternational"
+!insertmacro MUI_LANGUAGE "Swedish"
+!insertmacro MUI_LANGUAGE "Thai"
+!insertmacro MUI_LANGUAGE "TradChinese"
+!insertmacro MUI_LANGUAGE "Turkish"
+!insertmacro MUI_LANGUAGE "Ukrainian"
+!insertmacro MUI_LANGUAGE "Uzbek"
+!insertmacro MUI_LANGUAGE "Vietnamese"
+!insertmacro MUI_LANGUAGE "Welsh"
+
+IntCmpU $LANGUAGE 1078 0 +2 +2
+File "${PREFIX}langpack_afrikaans.txt"
+IntCmpU $LANGUAGE 1052 0 +2 +2
+File "${PREFIX}langpack_albanian.txt"
+IntCmpU $LANGUAGE 1025 0 +2 +2
+File "${PREFIX}langpack_arabic.txt"
+IntCmpU $LANGUAGE 1067 0 +2 +2
+File "${PREFIX}langpack_armenian.txt"
+IntCmpU $LANGUAGE 1069 0 +2 +2
+File "${PREFIX}langpack_basque.txt"
+IntCmpU $LANGUAGE 1059 0 +2 +2
+File "${PREFIX}langpack_belarusian.txt"
+IntCmpU $LANGUAGE 5146 0 +2 +2
+File "${PREFIX}langpack_bosnian.txt"
+IntCmpU $LANGUAGE 1150 0 +2 +2
+File "${PREFIX}langpack_breton.txt"
+IntCmpU $LANGUAGE 1026 0 +2 +2
+File "${PREFIX}langpack_bulgarian.txt"
+IntCmpU $LANGUAGE 1027 0 +2 +2
+File "${PREFIX}langpack_catalan.txt"
+IntCmpU $LANGUAGE 1050 0 +2 +2
+File "${PREFIX}langpack_croatian.txt"
+IntCmpU $LANGUAGE 1029 0 +2 +2
+File "${PREFIX}langpack_czech.txt"
+IntCmpU $LANGUAGE 1030 0 +2 +2
+File "${PREFIX}langpack_danish.txt"
+IntCmpU $LANGUAGE 1043 0 +2 +2
+File "${PREFIX}langpack_dutchnetherlands.txt"
+IntCmpU $LANGUAGE 9998 0 +2 +2
+File "${PREFIX}langpack_esperanto.txt"
+IntCmpU $LANGUAGE 1061 0 +2 +2
+File "${PREFIX}langpack_estonian.txt"
+IntCmpU $LANGUAGE 1065 0 +2 +2
+File "${PREFIX}langpack_farsi.txt"
+IntCmpU $LANGUAGE 1035 0 +2 +2
+File "${PREFIX}langpack_finnish.txt"
+IntCmpU $LANGUAGE 1036 0 +2 +2
+File "${PREFIX}langpack_french.txt"
+IntCmpU $LANGUAGE 1110 0 +2 +2
+File "${PREFIX}langpack_galician.txt"
+IntCmpU $LANGUAGE 1079 0 +2 +2
+File "${PREFIX}langpack_georgian.txt"
+IntCmpU $LANGUAGE 1031 0 +2 +2
+File "${PREFIX}langpack_german.txt"
+IntCmpU $LANGUAGE 2055 0 +2 +2
+File "${PREFIX}langpack_germanswitzerland.txt"
+IntCmpU $LANGUAGE 1032 0 +2 +2
+File "${PREFIX}langpack_greek.txt"
+IntCmpU $LANGUAGE 1037 0 +2 +2
+File "${PREFIX}langpack_hebrew.txt"
+IntCmpU $LANGUAGE 1038 0 +2 +2
+File "${PREFIX}langpack_hungarian.txt"
+IntCmpU $LANGUAGE 15 0 +2 +2
+File "${PREFIX}langpack_icelandic.txt"
+IntCmpU $LANGUAGE 1057 0 +2 +2
+File "${PREFIX}langpack_indonesian.txt"
+IntCmpU $LANGUAGE 2108 0 +2 +2
+File "${PREFIX}langpack_irish.txt"
+IntCmpU $LANGUAGE 1040 0 +2 +2
+File "${PREFIX}langpack_italian.txt"
+IntCmpU $LANGUAGE 1041 0 +2 +2
+File "${PREFIX}langpack_japanese.txt"
+IntCmpU $LANGUAGE 1042 0 +2 +2
+File "${PREFIX}langpack_korean.txt"
+IntCmpU $LANGUAGE 9999 0 +2 +2
+File "${PREFIX}langpack_kurdish.txt"
+IntCmpU $LANGUAGE 1062 0 +2 +2
+File "${PREFIX}langpack_latvian.txt"
+IntCmpU $LANGUAGE 1063 0 +2 +2
+File "${PREFIX}langpack_lithuanian.txt"
+IntCmpU $LANGUAGE 4103 0 +2 +2
+File "${PREFIX}langpack_luxembourgish.txt"
+IntCmpU $LANGUAGE 1071 0 +2 +2
+File "${PREFIX}langpack_macedonian.txt"
+IntCmpU $LANGUAGE 1086 0 +2 +2
+File "${PREFIX}langpack_malay.txt"
+IntCmpU $LANGUAGE 1104 0 +2 +2
+File "${PREFIX}langpack_mongolian.txt"
+IntCmpU $LANGUAGE 1044 0 +2 +2
+File "${PREFIX}langpack_norwegian.txt"
+IntCmpU $LANGUAGE 2068 0 +2 +2
+File "${PREFIX}langpack_norwegiannynorsk.txt"
+IntCmpU $LANGUAGE 1045 0 +2 +2
+File "${PREFIX}langpack_polish.txt"
+IntCmpU $LANGUAGE 2070 0 +2 +2
+File "${PREFIX}langpack_portuguese.txt"
+IntCmpU $LANGUAGE 1046 0 +2 +2
+File "${PREFIX}langpack_portuguesebr.txt"
+IntCmpU $LANGUAGE 1048 0 +2 +2
+File "${PREFIX}langpack_romanian.txt"
+IntCmpU $LANGUAGE 1049 0 +2 +2
+File "${PREFIX}langpack_russian.txt"
+IntCmpU $LANGUAGE 3098 0 +2 +2
+File "${PREFIX}langpack_serbian.txt"
+IntCmpU $LANGUAGE 2074 0 +2 +2
+File "${PREFIX}langpack_serbianlatin.txt"
+IntCmpU $LANGUAGE 2052 0 +2 +2
+File "${PREFIX}langpack_simpchinese.txt"
+IntCmpU $LANGUAGE 1051 0 +2 +2
+File "${PREFIX}langpack_slovak.txt"
+IntCmpU $LANGUAGE 1060 0 +2 +2
+File "${PREFIX}langpack_slovenian.txt"
+IntCmpU $LANGUAGE 1034 0 +2 +2
+File "${PREFIX}langpack_spanish.txt"
+IntCmpU $LANGUAGE 3082 0 +2 +2
+File "${PREFIX}langpack_spanishinternational.txt"
+IntCmpU $LANGUAGE 1053 0 +2 +2
+File "${PREFIX}langpack_swedish.txt"
+IntCmpU $LANGUAGE 1054 0 +2 +2
+File "${PREFIX}langpack_thai.txt"
+IntCmpU $LANGUAGE 1028 0 +2 +2
+File "${PREFIX}langpack_tradchinese.txt"
+IntCmpU $LANGUAGE 1055 0 +2 +2
+File "${PREFIX}langpack_turkish.txt"
+IntCmpU $LANGUAGE 1058 0 +2 +2
+File "${PREFIX}langpack_ukrainian.txt"
+IntCmpU $LANGUAGE 1091 0 +2 +2
+File "${PREFIX}langpack_uzbek.txt"
+IntCmpU $LANGUAGE 1066 0 +2 +2
+File "${PREFIX}langpack_vietnamese.txt"
+IntCmpU $LANGUAGE 1160 0 +2 +2
+File "${PREFIX}langpack_welsh.txt"

@@ -1,0 +1,345 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+撥號
+[End Call]
+結束
+[Contacts]
+聯絡人
+[Phone]
+數字鍵
+[Account]
+帳號
+[Settings]
+設定
+[Visit Website]
+拜訪網站
+[Exit]
+離開
+[Ringing Sound]
+自訂鈴聲
+[Browse...]
+瀏覽
+[Default]
+預設值
+[Auto Answer]
+自動接聽
+[Disable Local Account]
+關閉本地端帳號
+[OK]
+確定
+[Save]
+儲存
+[Cancel]
+取消
+[SIP Server]
+SIP 主機
+[SIP Proxy]
+SIP 代理
+[Username]
+使用者
+[Domain]
+網域
+[Password]
+密碼
+[Connecting...]
+連線中...
+[Online]
+線上
+[Local]
+本地端
+[Message]
+訊息
+[Edit]
+編輯
+[Delete]
+刪除
+[Add]
+新增
+[Bad Gateway]
+閘道錯誤
+[Request Timeout]
+請求愈時
+[Number]
+號碼
+[Name]
+姓名
+[Contact]
+聯絡人
+[Incoming Call]
+來電
+[Answer]
+接聽
+[Decline]
+拒絕
+[Calling]
+撥號中
+[Connecting]
+連線中
+[Connected]
+已連線
+[Auto]
+自動
+[Transport]
+傳送
+[Incorrect Password]
+密碼不正確
+[Public Address]
+公眾位置
+[Media Encryption]
+媒體加密
+[Disabled]
+關閉
+[Optional]
+選擇性
+[Mandatory]
+強制性
+[STUN Server]
+STUN 主機
+[Presence Subscription]
+狀態訂閱
+[Ringing]
+響鈴中
+[Call Ended]
+掛斷
+[Declined]
+遭拒
+[No address found]
+查無地址
+[Request Terminated]
+請求終止
+[Away]
+暫離
+[Publish Presence]
+發布狀態
+[Session Progress]
+會議進度
+[Camera]
+攝影機
+[Video Call]
+視訊撥號
+[Answer with Video]
+接聽視訊
+[View Log File]
+檢視記錄檔
+[Microphone]
+麥克風
+[Speaker]
+喇叭
+[Video Codec]
+視訊編碼
+[Check for Updates]
+檢查軟體更新
+[Daily]
+每日
+[Weekly]
+每週
+[Monthly]
+每月
+[Quarterly]
+每季
+[Never]
+從不
+[Update Available]
+有可用更新
+[Do you want to update now?]
+您需要更新 嗎?
+[Force Codec for Incoming]
+強制設定來電編碼
+[Available Codecs]
+可用
+[Enabled Codecs]
+開啟
+[Invalid URI]
+無效的 URI
+[Offline]
+離線
+[Single Call Mode]
+單呼叫模式
+[Local Video]
+本地端視訊
+[Call Transfer]
+轉接撥號
+[final]
+完成
+[Call transfered successfully, disconnecting call]
+轉接撥號完成. 掛斷中
+[Hold]
+保留
+[Transfer]
+轉接
+[Sound Events]
+撥放 DTMF 聲音
+[Bitrate]
+速率
+[Login]
+登入帳號
+[Enable Log File]
+開啟檔案記錄
+[Logs]
+通話記錄
+[Duration]
+期限
+[Info]
+訊息
+[display password]
+顯示密碼
+[From]
+來自
+[To]
+至
+[Ring Device]
+響鈴設備
+[Service Unavailable]
+無法提供服務
+[Invalid Request URI]
+無效的 URI 請求
+[Busy Here]
+忙線中
+[Trying]
+嘗試中
+[Method Not Allowed]
+不被允許的方式
+[Not Found]
+找不到
+[Always on Top]
+保持視窗在上
+[Connect]
+聯絡
+[Last Call]
+最後一通
+[Close All]
+關閉全部
+[Copy]
+複製
+[Select All]
+選擇全部
+[Display Name]
+姓名
+[Remember Details]
+記憶細節
+[PIN]
+密碼
+[No]
+否
+[All Calls]
+所有通話
+[SIP Header]
+SIP表頭
+[Different User]
+不同的使用者
+[Different Domain]
+不同的網域
+[Different User or Domain]
+不同的使用者或網域
+[Different Remote Domain]
+不同的遠端網域
+[Deny Incoming]
+拒絕來電
+[Allow IP Rewrite]
+允許IP覆寫
+[Directory of Users]
+使用者目錄
+[Call on Remote Hold]
+通話保留中(遠端保留)
+[Call on Local Hold]
+通話保留中(本地保留)
+[Call on Hold]
+通話保留中
+[Call is Active]
+通話中
+[Menu]
+選單
+[Edit Account]
+編輯帳戶
+[Add Account...]
+新增帳戶...
+[Remove Account]
+除移帳戶
+[Make Active]
+啟用
+[Are you sure you want to remove?]
+你確定要移除?
+[Call Pickup]
+接聽中
+[Speaker Level]
+喇吧音量
+[Microphone Level]
+麥克風音量
+[Mute Speaker]
+喇叭靜音
+[Mute Microphone]
+麥克風靜音
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+請填寫至少必填字段標有*。
+[Ask your SIP provider how to configure the account correctly.]
+問問你的SIP提供商如何正確配置的帳戶。
+[Random Popup Position]
+來電箱的隨機位置
+[Time]
+時間
+[Attended Transfer]
+座席呼轉
+[Launch URL on incoming call]
+[Enable Local Account]
+啟用本地帳戶
+[Send Crash Report]
+發送崩潰報告
+[Account Name]
+帳號名
+[Invite to Conference]
+邀請參加會議
+[Merge]
+合併
+[Separate]
+分離
+[Disconnect]
+斷開
+[DTMF Method]
+DTMF方法
+[Voicemail Number]
+語音信箱號碼
+[Disable Session Timers]
+禁用會話計時器
+[Microphone Amplification]
+[Software Level Adjustment]
+[Shortcuts]
+快速鍵
+[Enable]
+啟用
+[Label]
+[Type]
+類型
+[Bottom Position]
+[You need to restart application for the changes to take effect.]
+[Handle Media Buttons]
+[Bring to Front on Incoming Call]
+[SIP account]
+[SIP password]
+[Help]
+說明
+[Video Bitrate]
+[Control Button]
+[Do Not Disturb]
+[Source Port]
+[RTP Ports]
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+[Backspace]
+[Clear]
+[Use Space key to enable selected codec]
+[Use Delele key to disable selected codec]
+[Make Inactive]
+[Conference]
+[]

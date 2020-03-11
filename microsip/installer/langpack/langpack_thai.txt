@@ -1,0 +1,300 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+เรียก
+[End Call]
+วางสาย
+[Contacts]
+ผู้ติดต่อ
+[Phone]
+ปุ่มโทร
+[Account]
+บัญชี
+[Settings]
+ตั้งค่า
+[Visit Website]
+เยี่ยมชมเว็บไซต์
+[Exit]
+ออก
+[Ringing Sound]
+เสียงเรียกเข้า
+[Browse...]
+เลือกไฟล์
+[Default]
+ค่าเริ่มต้น
+[Auto Answer]
+ตอบรับอัตโนมัติ
+[Disable Local Account]
+[OK]
+ตกลง
+[Save]
+บันทึก
+[Cancel]
+ยกเลิก
+[SIP Server]
+[SIP Proxy]
+[Username]
+ผู้ใช้
+[Domain]
+โดเมน
+[Password]
+รหัสผ่าน
+[Connecting...]
+กำลังต่อสาย..
+[Online]
+ออนไลน์
+[Local]
+ภายใน
+[Message]
+ข้อความ
+[Edit]
+แก้ไข
+[Delete]
+ลบ
+[Add]
+เพิ่ม
+[Bad Gateway]
+จุดเชื่อมต่อมีปัญหา
+[Request Timeout]
+[Number]
+หมายเลข
+[Name]
+ชื่อ
+[Contact]
+ติดต่อ
+[Incoming Call]
+สายเข้า
+[Answer]
+ตอบรับ
+[Decline]
+[Calling]
+กำลังเรียก
+[Connecting]
+กำลังต่อสาย
+[Connected]
+ยกเลิก
+[Auto]
+อัตโนมัติ
+[Transport]
+[Incorrect Password]
+รหัสผ่านไม่ถูกต้อง
+[Public Address]
+[Media Encryption]
+การเข้ารหัสมีเดีย
+[Disabled]
+[Optional]
+ตัวเลือก
+[Mandatory]
+บังคับ
+[STUN Server]
+[Presence Subscription]
+[Ringing]
+เรียกเข้า
+[Call Ended]
+วางสาย
+[Declined]
+[No address found]
+เจอที่อยู่
+[Request Terminated]
+[Away]
+ไม่อยู่
+[Publish Presence]
+[Session Progress]
+[Camera]
+กล้อง
+[Video Call]
+วิดีโอคอล
+[Answer with Video]
+ตอบรับด้วยวีดีโอ
+[View Log File]
+ดู log file
+[Microphone]
+ไมโครโฟน
+[Speaker]
+ลำโพง
+[Video Codec]
+รหัสสัญญาณภาพ
+[Check for Updates]
+ตรวจสอบ Updates
+[Daily]
+ทุกวัน
+[Weekly]
+ทุกสัปดาห์
+[Monthly]
+ทุกเดือน
+[Quarterly]
+ทุก 3 เดือน
+[Never]
+ไม่เคย
+[Update Available]
+[Do you want to update now?]
+คุณต้องการอัพเดท หรือไม่?
+[Force Codec for Incoming]
+[Available Codecs]
+ว่าง
+[Enabled Codecs]
+ใช้งาน
+[Invalid URI]
+[Offline]
+ออฟไลน์
+[Single Call Mode]
+โหมดใช้งานสายเดียว
+[Local Video]
+[Call Transfer]
+โอนสาย
+[final]
+สุดท้าย
+[Call transfered successfully, disconnecting call]
+โอนสายเรียบร้อย, วางสาย
+[Hold]
+พักสาย
+[Transfer]
+โอนสาย
+[Sound Events]
+[Bitrate]
+ความเร็ว
+[Login]
+เข้าระบบ
+[Enable Log File]
+เปิดล็อคไฟล์
+[Logs]
+เรียก
+[Duration]
+ระหว่าง
+[Info]
+เกี่ยวกับ
+[display password]
+โชว์รหัสผ่าน
+[From]
+จาก
+[To]
+ถึง
+[Ring Device]
+อุปกรณ์เสียง
+[Service Unavailable]
+[Invalid Request URI]
+[Busy Here]
+ไม่ว่าง
+[Trying]
+ทำอีกครั้ง
+[Method Not Allowed]
+[Not Found]
+ไม่เจอ
+[Always on Top]
+อยู่ข้างบนตลอดเวลา
+[Connect]
+ต่อสาย
+[Last Call]
+สายล่าสุด
+[Close All]
+ปิดทั้งหมด
+[Copy]
+สำเนา
+[Select All]
+เลือกทั้งหมด
+[Display Name]
+ชื่อคุณ
+[Remember Details]
+จำรายละเอียด
+[PIN]
+[No]
+ไม่
+[All Calls]
+เบอร์โทรทั้งหมด
+[SIP Header]
+[Different User]
+ผู้ใช้งานที่ต่างกัน
+[Different Domain]
+โดเมนที่ต่างกัน
+[Different User or Domain]
+ผู้ใช้งานหรือโดเมนที่ต่างกัน
+[Different Remote Domain]
+รีโมทโดเมนที่ต่างกัน
+[Deny Incoming]
+ปฏิเสธสายโทรเข้า
+[Allow IP Rewrite]
+เรียกใช้ IP เดิม
+[Directory of Users]
+ไดเรกทอรีของผู้ใช้
+[Call on Remote Hold]
+[Call on Local Hold]
+[Call on Hold]
+พักสาย
+[Call is Active]
+[Menu]
+เมนู
+[Edit Account]
+แก้ไขบัญชี
+[Add Account...]
+เพิ่มบัญชี
+[Remove Account]
+ลบบัญชีออก
+[Make Active]
+ใช้งาน
+[Are you sure you want to remove?]
+คุณแน่ใจว่าต้องการลบ?
+[Call Pickup]
+สายเรียกเข้า
+[Speaker Level]
+ระดับเสียงลำโพง
+[Microphone Level]
+ระดับเสียงไมโครโฟน
+[Mute Speaker]
+ปิดเสียงลำโพง
+[Mute Microphone]
+ปิดเสียงไมโครโฟน
+[Balance]
+[Custom INI Path]
+[Contact Us]
+ติดต่อเรา
+[Please fill out at least the required fields marked with *.]
+[Ask your SIP provider how to configure the account correctly.]
+[Random Popup Position]
+[Time]
+[Attended Transfer]
+[Launch URL on incoming call]
+[Enable Local Account]
+[Send Crash Report]
+[Account Name]
+[Invite to Conference]
+[Merge]
+[Separate]
+[Disconnect]
+[DTMF Method]
+[Voicemail Number]
+[Disable Session Timers]
+[Microphone Amplification]
+[Software Level Adjustment]
+[Shortcuts]
+[Enable]
+[Label]
+[Type]
+[Bottom Position]
+[You need to restart application for the changes to take effect.]
+[Handle Media Buttons]
+[Bring to Front on Incoming Call]
+[SIP account]
+[SIP password]
+[Help]
+[Video Bitrate]
+[Control Button]
+[Do Not Disturb]
+[Source Port]
+[RTP Ports]
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+[Backspace]
+[Clear]
+[Use Space key to enable selected codec]
+[Use Delele key to disable selected codec]
+[Make Inactive]
+[Conference]
+[]

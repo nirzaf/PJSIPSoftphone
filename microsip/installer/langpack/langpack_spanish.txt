@@ -1,0 +1,363 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Llamar
+[End Call]
+Colgar
+[Contacts]
+Contactos
+[Phone]
+Teclado
+[Account]
+Cuenta
+[Settings]
+Ajustes
+[Visit Website]
+Ir al sitio Web
+[Exit]
+Salir
+[Ringing Sound]
+Sonido de llamada
+[Browse...]
+Examinar...
+[Default]
+Predeterminado
+[Auto Answer]
+Autorespuesta
+[Disable Local Account]
+Desactivar cuenta local
+[OK]
+OK
+[Save]
+Guardar
+[Cancel]
+Cancelar
+[SIP Server]
+Servidor SIP
+[SIP Proxy]
+Proxy SIP
+[Username]
+Usuario
+[Domain]
+Dominio
+[Password]
+Contraseña
+[Connecting...]
+Conectando...
+[Online]
+Conectado
+[Local]
+Local
+[Message]
+Mensaje
+[Edit]
+Editar
+[Delete]
+Eliminar
+[Add]
+Añadir
+[Bad Gateway]
+Gateway incorrecto
+[Request Timeout]
+Solicitud expirada
+[Number]
+Numero
+[Name]
+Nombre
+[Contact]
+Contacto
+[Incoming Call]
+Llamada entrante
+[Answer]
+Responder
+[Decline]
+Rechazar
+[Calling]
+Llamando
+[Connecting]
+Conectando
+[Connected]
+Conectado
+[Auto]
+Automático
+[Transport]
+Transporte
+[Incorrect Password]
+Contraseña incorrecta
+[Public Address]
+Direccion publica
+[Media Encryption]
+Comunicacion cifrada
+[Disabled]
+Desactivado
+[Optional]
+Opcional
+[Mandatory]
+Obligatorio
+[STUN Server]
+Servidor STUN
+[Presence Subscription]
+Subscripcion de presencia
+[Ringing]
+Sonando
+[Call Ended]
+Llamada finalizada
+[Declined]
+Rechazado
+[No address found]
+Direccion no encontrada
+[Request Terminated]
+Solicitud interrumpida
+[Away]
+Ausente
+[Publish Presence]
+Publicar presencia
+[Session Progress]
+Session en progreso
+[Camera]
+Camara
+[Video Call]
+Videollamada
+[Answer with Video]
+Responder con video
+[View Log File]
+Ver archivo Log
+[Microphone]
+Microfono
+[Speaker]
+Altavoz
+[Video Codec]
+Codec de video
+[Check for Updates]
+Comprobar actualizaciones
+[Daily]
+Diariamente
+[Weekly]
+Semanalmente
+[Monthly]
+Mensualmente
+[Quarterly]
+Trimestralmente
+[Never]
+Nunca
+[Update Available]
+Actualizacion disponible
+[Do you want to update now?]
+¿Desea actualizar MicroSIP ahora?
+[Force Codec for Incoming]
+Forzar codec en llam. entrantes
+[Available Codecs]
+Codecs disponibles
+[Enabled Codecs]
+Codecs activados
+[Invalid URI]
+URI invalida
+[Offline]
+Desconectado
+[Single Call Mode]
+Modo de llamada simple
+[Local Video]
+Video local
+[Call Transfer]
+Transferir sin aviso
+[final]
+Fin
+[Call transfered successfully, disconnecting call]
+Llamada transferida con éxito, desconectando llamada
+[Hold]
+Retener
+[Transfer]
+Transferir
+[Sound Events]
+Eventos con Sonido
+[Bitrate]
+Tasa de Bits
+[Login]
+Ident. usu. autoriz.
+[Enable Log File]
+Activar archivo log
+[Logs]
+Llamadas
+[Duration]
+Duracion
+[Info]
+Informacion
+[display password]
+Mostrar contraseña
+[From]
+De
+[To]
+A
+[Ring Device]
+Dispositivo de llamada
+[Service Unavailable]
+Servicio no disponible
+[Invalid Request URI]
+Solicitud de URI invalida
+[Busy Here]
+Ocupado
+[Trying]
+Probando
+[Method Not Allowed]
+Metodo no permitido
+[Not Found]
+No encontrado
+[Always on Top]
+Siempre visible
+[Connect]
+Conectar
+[Last Call]
+Ultima llamada
+[Close All]
+Cerrar todo
+[Copy]
+Copiar
+[Select All]
+Seleccionar todo
+[Display Name]
+Nombre para mostrar
+[Remember Details]
+Recordar datos
+[PIN]
+[No]
+No
+[All Calls]
+Todas las llamadas
+[SIP Header]
+Encabezado SIP
+[Different User]
+Usuario diferente
+[Different Domain]
+Dominio Diferente
+[Different User or Domain]
+Usuario o dominio diferente
+[Different Remote Domain]
+Dominio remoto diferente
+[Deny Incoming]
+Denegar llam. entrante
+[Allow IP Rewrite]
+Permitir reescritura IP
+[Directory of Users]
+Directorio de usuarios
+[Call on Remote Hold]
+Llamada retenida en lado remoto
+[Call on Local Hold]
+Llamada retenida localmente
+[Call on Hold]
+Llamada retenida
+[Call is Active]
+La llamada esta activa
+[Menu]
+Menu
+[Edit Account]
+Editar cuenta
+[Add Account...]
+Añadir cuenta
+[Remove Account]
+Borrar cuenta
+[Make Active]
+Activar
+[Are you sure you want to remove?]
+¿Seguro que desea borrar?
+[Call Pickup]
+Capturar llamada
+[Speaker Level]
+Volumen del altavoz
+[Microphone Level]
+Volumen del microfono
+[Mute Speaker]
+Silenciar altavoz
+[Mute Microphone]
+Silenciar microfono
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+Por favor rellene al menos los campos obligatorios marcados con *.
+[Ask your SIP provider how to configure the account correctly.]
+Pregunte a su proveedor SIP cómo configurar la cuenta correctamente.
+[Random Popup Position]
+Pos. aleat. vent. contestacion
+[Time]
+Hora
+[Attended Transfer]
+Transferir con aviso
+[Launch URL on incoming call]
+[Enable Local Account]
+Activar cuenta local
+[Send Crash Report]
+Enviar informe de error
+[Account Name]
+Nombre de cuenta
+[Invite to Conference]
+Invitar a conferencia
+[Merge]
+Incorporar
+[Separate]
+Separarse
+[Disconnect]
+Desconectar
+[DTMF Method]
+Metodo DTMF
+[Voicemail Number]
+Num. buzon de voz
+[Disable Session Timers]
+Desactivar temporiz. de sesion
+[Microphone Amplification]
+Amplificar microfono
+[Software Level Adjustment]
+Ajuste de nivel software
+[Shortcuts]
+Atajos
+[Enable]
+Habilitar
+[Label]
+Etiqueta
+[Type]
+Tipo
+[Bottom Position]
+Posicion inferior
+[You need to restart application for the changes to take effect.]
+Es necesario reiniciar para que los cambios tengan efecto.
+[Handle Media Buttons]
+Manejar Botones Multimedia
+[Bring to Front on Incoming Call]
+Traer al frente en llam. entrante
+[SIP account]
+[SIP password]
+[Help]
+Ayuda
+[Video Bitrate]
+Tasa bits video
+[Control Button]
+Boton de control
+[Do Not Disturb]
+No molestar
+[Source Port]
+Puerto origen
+[RTP Ports]
+puertos RTP
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+Importar
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+Rellamada
+[Backspace]
+Retroceso
+[Clear]
+Limpiar
+[Use Space key to enable selected codec]
+Use la tecla Espacio para habilitar el códec seleccionado
+[Use Delele key to disable selected codec]
+Use la tecla Suprimir para deshabilitar el códec seleccionado
+[Make Inactive]
+[Conference]
+Conferencia
+[]

@@ -1,0 +1,363 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Volať
+[End Call]
+Koniec hovoru
+[Contacts]
+Kontakty
+[Phone]
+Klávesnica
+[Account]
+Konto
+[Settings]
+Nastavenia
+[Visit Website]
+Navštíviť webovú lokalitu
+[Exit]
+Zavrieť
+[Ringing Sound]
+Zvuk zvonenia
+[Browse...]
+Prechádzať ...
+[Default]
+Prednadstavené zariadenie
+[Auto Answer]
+Automatická odpoveď
+[Disable Local Account]
+Vypnúť lokálny účet
+[OK]
+Potvrdiť
+[Save]
+Uložiť
+[Cancel]
+Zrušiť
+[SIP Server]
+Server SIP
+[SIP Proxy]
+Proxy SIP
+[Username]
+Požívateľ
+[Domain]
+Doména
+[Password]
+Heslo
+[Connecting...]
+Pripája sa ...
+[Online]
+Pripojené
+[Local]
+Lokálny
+[Message]
+Odoslať správu
+[Edit]
+Upraviť
+[Delete]
+Vymazať
+[Add]
+Pridať
+[Bad Gateway]
+Nesprávna brána
+[Request Timeout]
+Časový limit vypršal
+[Number]
+Číslo
+[Name]
+Meno
+[Contact]
+Kontakt
+[Incoming Call]
+Prichádzajúci hovor
+[Answer]
+Zdvihnúť
+[Decline]
+Zložiť
+[Calling]
+Volanie
+[Connecting]
+Pripája sa
+[Connected]
+Pripojené
+[Auto]
+Automaticky
+[Transport]
+Prenos
+[Incorrect Password]
+Nesprávne heslo
+[Public Address]
+Verejná adresa
+[Media Encryption]
+Šifrovanie
+[Disabled]
+Vypnuté
+[Optional]
+Voliteľné
+[Mandatory]
+Povinné
+[STUN Server]
+Server STUN
+[Presence Subscription]
+Zobrazovať stav prítomnosti
+[Ringing]
+Zvonenie
+[Call Ended]
+Hovor skončený
+[Declined]
+Odmietnuté
+[No address found]
+Adresa nenájdená
+[Request Terminated]
+Požiadavka ukončená
+[Away]
+Neprítomný
+[Publish Presence]
+Zverejňovať stav prítomnosti
+[Session Progress]
+Výstavba spojenia
+[Camera]
+Kamera
+[Video Call]
+Videohovor
+[Answer with Video]
+Odpovedať videom
+[View Log File]
+Zobraziť súbor denníka
+[Microphone]
+Mikrofón
+[Speaker]
+Reproduktor
+[Video Codec]
+Videokodek
+[Check for Updates]
+Vyhľadať aktualizáciu
+[Daily]
+Denne
+[Weekly]
+Týždenne
+[Monthly]
+Mesačne
+[Quarterly]
+Štvrťročne
+[Never]
+Nikdy
+[Update Available]
+K dispozícii je aktualizácia
+[Do you want to update now?]
+Chcete aktualizovať?
+[Force Codec for Incoming]
+Vynútiť kodek pre príchodzí hovor
+[Available Codecs]
+Dostupné
+[Enabled Codecs]
+Použité kodeky
+[Invalid URI]
+Nesprávne URI
+[Offline]
+Odpojené
+[Single Call Mode]
+Režim jedného hovoru
+[Local Video]
+Lokálne video
+[Call Transfer]
+Prepojenie hovoru
+[final]
+posledný
+[Call transfered successfully, disconnecting call]
+Hovor bol úspešne presmerovaný, odpojenie hovoru
+[Hold]
+Podržať
+[Transfer]
+Prepnúť
+[Sound Events]
+Zvuky
+[Bitrate]
+Bitová rýchlosť
+[Login]
+Meno
+[Enable Log File]
+Zapnúť súbor denníka
+[Logs]
+História
+[Duration]
+Trvanie
+[Info]
+Stav
+[display password]
+zobraziť heslo
+[From]
+Od
+[To]
+Pre
+[Ring Device]
+Vyzváňacie zariadenie
+[Service Unavailable]
+Služba nedostupná
+[Invalid Request URI]
+Chybná požiadavka URI
+[Busy Here]
+Obsadený
+[Trying]
+Pokúša sa
+[Method Not Allowed]
+Metóda nie je povolená
+[Not Found]
+Nenájdené
+[Always on Top]
+Vždy navrchu
+[Connect]
+Pripojiť
+[Last Call]
+Posledný h.
+[Close All]
+Zavrieť
+[Copy]
+Kopírovať
+[Select All]
+Vybrať všetko
+[Display Name]
+Vaše meno
+[Remember Details]
+Zapamätať detaily
+[PIN]
+[No]
+Nie
+[All Calls]
+Všetky hovory
+[SIP Header]
+Hlavička SIP
+[Different User]
+Iný používateľ
+[Different Domain]
+Iná doména
+[Different User or Domain]
+Iný používateľ alebo doména
+[Different Remote Domain]
+Iná vzdialená doména
+[Deny Incoming]
+Odmietnuť hovor
+[Allow IP Rewrite]
+Povoliť prepis IP
+[Directory of Users]
+Zoznam používateľov
+[Call on Remote Hold]
+Hovor je vzdialene pridržaný
+[Call on Local Hold]
+Hovor je lokálne pridržaný
+[Call on Hold]
+Hovor je pridržaný
+[Call is Active]
+Hovor je aktívny
+[Menu]
+Menu
+[Edit Account]
+Upraviť konto
+[Add Account...]
+Pridať účet
+[Remove Account]
+Odstrániť účet
+[Make Active]
+Nastaviť ako aktívny
+[Are you sure you want to remove?]
+Ste si istý že chcete odstrániť ?
+[Call Pickup]
+Vyzdvihnúť hovor
+[Speaker Level]
+Hlasitosť reproduktora
+[Microphone Level]
+Hlasitosť mikrofónu
+[Mute Speaker]
+Vypnúť reproduktor
+[Mute Microphone]
+Vypnúť mikrofón
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+Prosím, vyplňte aspoň požadované polia označené *.
+[Ask your SIP provider how to configure the account correctly.]
+Opýtajte sa svojho poskytovateľa SIP, ako správne nakonfigurovať účet.
+[Random Popup Position]
+Náhodná pozícia okna
+[Time]
+Čas
+[Attended Transfer]
+Prepojenie s konzultáciou
+[Launch URL on incoming call]
+[Enable Local Account]
+Umožniť Lokálne Konto
+[Send Crash Report]
+Poslať Report o zlyhaní
+[Account Name]
+Názov Účtu
+[Invite to Conference]
+Pozvať na Konferenciu
+[Merge]
+Zlúčiť
+[Separate]
+Samostatné
+[Disconnect]
+Odpojte
+[DTMF Method]
+DTMF Metóda
+[Voicemail Number]
+Číslo schránky
+[Disable Session Timers]
+Zakázať časovač sedenia
+[Microphone Amplification]
+Zosilnenie mikrofónu
+[Software Level Adjustment]
+Nastavenie softvérovej úrovne
+[Shortcuts]
+Rýchle voľby
+[Enable]
+Povoliť
+[Label]
+Označenie
+[Type]
+Typ
+[Bottom Position]
+Spodná pozícia
+[You need to restart application for the changes to take effect.]
+Pre použitie zmien, reštartujte prosím aplikáciu
+[Handle Media Buttons]
+Použiť multimediálne tlačidlá
+[Bring to Front on Incoming Call]
+Pri hovore preniesť do popredia
+[SIP account]
+[SIP password]
+[Help]
+Pomoc
+[Video Bitrate]
+Kódovacia rýchlosť videa
+[Control Button]
+Ovládacie tlačidlo
+[Do Not Disturb]
+Nerušiť
+[Source Port]
+Zdrojový port
+[RTP Ports]
+Porty pre RTP
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+Import
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+Opakovať volanie
+[Backspace]
+Späť
+[Clear]
+Vyčistiť
+[Use Space key to enable selected codec]
+Použi medzerník pre zapnutie zvoleného kodeku
+[Use Delele key to disable selected codec]
+Použi klávesu DELETE pre vypnutie zvoleného kodeku
+[Make Inactive]
+[Conference]
+Konferencie
+[]

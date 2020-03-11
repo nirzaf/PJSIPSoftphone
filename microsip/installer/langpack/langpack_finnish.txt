@@ -1,0 +1,348 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Soita
+[End Call]
+Katkaise puhelu
+[Contacts]
+Yhteystiedot
+[Phone]
+Näppäimistö
+[Account]
+Käyttäjätili
+[Settings]
+Asetukset
+[Visit Website]
+Verkkosivusto
+[Exit]
+Lopeta
+[Ringing Sound]
+Soittoääni
+[Browse...]
+Selaa...
+[Default]
+Oletus
+[Auto Answer]
+Automaattivastaus
+[Disable Local Account]
+Ei paikallisia käyttäjätilejä
+[OK]
+OK
+[Save]
+Tallenna
+[Cancel]
+Peruuta
+[SIP Server]
+SIP-palvelin
+[SIP Proxy]
+SIP-välityspalvelin
+[Username]
+Käyttäjätunnus
+[Domain]
+Palvelin
+[Password]
+Salasana
+[Connecting...]
+Yhdistetään...
+[Online]
+Saatavilla
+[Local]
+Paikallinen
+[Message]
+Lähetä viesti
+[Edit]
+Muokkaa
+[Delete]
+Poista
+[Add]
+Lisää
+[Bad Gateway]
+Virheellinen yhdyskäytävä
+[Request Timeout]
+Pyyntö aikakatkaistu
+[Number]
+Numero
+[Name]
+Nimi
+[Contact]
+Yhteystieto
+[Incoming Call]
+Saapuva puhelu
+[Answer]
+Vastaa
+[Decline]
+Hylkää
+[Calling]
+Soitetaan
+[Connecting]
+Yhdistetään
+[Connected]
+Yhdistetty
+[Auto]
+Automaattinen
+[Transport]
+Siirtoprotokolla
+[Incorrect Password]
+Salasana väärin
+[Public Address]
+Julkinen osoite
+[Media Encryption]
+Salaus
+[Disabled]
+Ei käytössä
+[Optional]
+Valinnainen
+[Mandatory]
+Pakotettu
+[STUN Server]
+STUN-palvelin
+[Presence Subscription]
+Tilatiedon tilaus
+[Ringing]
+Soittaa
+[Call Ended]
+Puhelu loppui
+[Declined]
+Hylätty
+[No address found]
+Osoitetta ei löytynyt
+[Request Terminated]
+Pyyntö katkaistu
+[Away]
+Poissa
+[Publish Presence]
+Tilatiedon julkaisu
+[Session Progress]
+Istunnon tila
+[Camera]
+Kamera
+[Video Call]
+Videopuhelu
+[Answer with Video]
+Vastaa videon kanssa
+[View Log File]
+Näytä loki
+[Microphone]
+Mikrofoni
+[Speaker]
+Kaiutin
+[Video Codec]
+Videon pakkaus
+[Check for Updates]
+Tarkista päivitykset
+[Daily]
+Päivittäin
+[Weekly]
+Viikoittain
+[Monthly]
+Kuukauden välein
+[Quarterly]
+3 kuukauden välein
+[Never]
+Ei koskaan
+[Update Available]
+Päivitys saatavilla
+[Do you want to update now?]
+Haluatko päivittää ohjelman?
+[Force Codec for Incoming]
+Pakota pakkaus saapuviin
+[Available Codecs]
+Saatavilla
+[Enabled Codecs]
+Käytössä
+[Invalid URI]
+Virheellinen URI
+[Offline]
+Ei saatavilla
+[Single Call Mode]
+Yksinkertaistettu soittoikkuna
+[Local Video]
+Paikallinen video
+[Call Transfer]
+Puhelun siirto
+[final]
+lopullinen
+[Call transfered successfully, disconnecting call]
+Puhelun siirto onnistui, puhelua katkaistaan
+[Hold]
+Pidossa
+[Transfer]
+Siirto
+[Sound Events]
+Näppäinäänet
+[Bitrate]
+Bittitaajuus
+[Login]
+Käyttäjänimi
+[Enable Log File]
+Lokiin kirjaaminen käytössä
+[Logs]
+Puhelut
+[Duration]
+Kesto
+[Info]
+Tiedot
+[display password]
+näytä salasana
+[From]
+Keneltä
+[To]
+Kenelle
+[Ring Device]
+Soittoäänen toistolaite
+[Service Unavailable]
+Palvelu ei saatavilla
+[Invalid Request URI]
+Virheellinen URI-pyyntö
+[Busy Here]
+Varattu
+[Trying]
+Yritetään
+[Method Not Allowed]
+Toimintoa ei sallittu
+[Not Found]
+Ei löytynyt
+[Always on Top]
+Aina päälimmäisenä
+[Connect]
+Yhdistä
+[Last Call]
+Edellinen
+[Close All]
+Sulje kaikki
+[Copy]
+Kopioi
+[Select All]
+Valitse kaikki
+[Display Name]
+Näyttönimi
+[Remember Details]
+Muista yksityiskohdat
+[PIN]
+[No]
+Ei käytössä
+[All Calls]
+Kaikki puhelut
+[SIP Header]
+SIP-otsikkotunnisteen mukainen
+[Different User]
+Vieras käyttäjä
+[Different Domain]
+Vieras toimialue
+[Different User or Domain]
+Vieras käyttäjä tai toimialue
+[Different Remote Domain]
+Vieras etätoimialue
+[Deny Incoming]
+Estä saapuvat
+[Allow IP Rewrite]
+Salli IP ylikirjoitus
+[Directory of Users]
+Käyttäjähakemisto
+[Call on Remote Hold]
+Puhelu kauko pitoon
+[Call on Local Hold]
+Puhelu paikallisista pitoon
+[Call on Hold]
+Puhelu on pidossa
+[Call is Active]
+Puhelu on käynnissä
+[Menu]
+Valikko
+[Edit Account]
+Muokkaa käyttäjätiliä
+[Add Account...]
+Lisää tili...
+[Remove Account]
+Poista käyttäjätili
+[Make Active]
+Tee aktiiviseksi
+[Are you sure you want to remove?]
+Haluatko varmasti poistaa?
+[Call Pickup]
+Puhelun poimiminen
+[Speaker Level]
+Kaiuttimen voimakkuus
+[Microphone Level]
+Mikrofonin taso
+[Mute Speaker]
+Mykistä kaiutin
+[Mute Microphone]
+Mykistä mikrofoni
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+Täytäthän ainakin tähdellä (*) merkityt kentät.
+[Ask your SIP provider how to configure the account correctly.]
+Kysy tarvittaessa neuvoa SIP-palveluntarjoajaltasi.
+[Random Popup Position]
+Satunnainen vastausikkunan sijainti
+[Time]
+Aika
+[Attended Transfer]
+Soiton siirto
+[Launch URL on incoming call]
+[Enable Local Account]
+Käytä paikallista käyttäjätiliä
+[Send Crash Report]
+Lähetä vikaraportti
+[Account Name]
+Tili nimi
+[Invite to Conference]
+Kutsu neuvotteluun
+[Merge]
+Yhdistä
+[Separate]
+Erota
+[Disconnect]
+Katkaise
+[DTMF Method]
+DTMF Tyyppi
+[Voicemail Number]
+Puhepostin numero
+[Disable Session Timers]
+[Microphone Amplification]
+[Software Level Adjustment]
+[Shortcuts]
+Pikavalinnat
+[Enable]
+Ota käyttöön
+[Label]
+Otsikko
+[Type]
+[Bottom Position]
+Sijoita alas
+[You need to restart application for the changes to take effect.]
+Sovellus on käynnistettävä uudelleen asetusten käyttöönottamiseksi
+[Handle Media Buttons]
+[Bring to Front on Incoming Call]
+Tuo päällimmäiseksi puhelun saapuessa
+[SIP account]
+[SIP password]
+[Help]
+[Video Bitrate]
+[Control Button]
+[Do Not Disturb]
+Älä häiritse
+[Source Port]
+[RTP Ports]
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+Tuo
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+Valinnantoisto
+[Backspace]
+[Clear]
+[Use Space key to enable selected codec]
+[Use Delele key to disable selected codec]
+[Make Inactive]
+[Conference]
+[]

@@ -1,0 +1,351 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Ring
+[End Call]
+Avslutt
+[Contacts]
+Kontakter
+[Phone]
+Tastatur
+[Account]
+Konto
+[Settings]
+Innstillinger
+[Visit Website]
+Besøk websted
+[Exit]
+Avslutt
+[Ringing Sound]
+Ringelyd
+[Browse...]
+Bla gjennom...
+[Default]
+Standard
+[Auto Answer]
+Autosvar
+[Disable Local Account]
+Deaktiver lokal konto
+[OK]
+OK
+[Save]
+Lagre
+[Cancel]
+Avbryt
+[SIP Server]
+SIP tjener
+[SIP Proxy]
+SIP proxy
+[Username]
+Bruker
+[Domain]
+Domene
+[Password]
+Passord
+[Connecting...]
+Kobler til...
+[Online]
+Tilkoblet
+[Local]
+Lokal
+[Message]
+Melding
+[Edit]
+Rediger
+[Delete]
+Slett
+[Add]
+Legg til kontakt
+[Bad Gateway]
+Dårlig Gateway
+[Request Timeout]
+Forespørsel tidsavbrudt
+[Number]
+Nummer
+[Name]
+Navn
+[Contact]
+Kontakt
+[Incoming Call]
+Innkommende samtale
+[Answer]
+Svar
+[Decline]
+Avvis
+[Calling]
+Ringer
+[Connecting]
+Sammenkobler
+[Connected]
+Sammenkoblet
+[Auto]
+Auto
+[Transport]
+Transport
+[Incorrect Password]
+Galt passord
+[Public Address]
+Offentlig adresse
+[Media Encryption]
+Mediakryptering
+[Disabled]
+Deaktivert
+[Optional]
+Valgfritt
+[Mandatory]
+Obligatorisk
+[STUN Server]
+STUN tjener
+[Presence Subscription]
+Tilstedeværelsesabonnement
+[Ringing]
+Ringer
+[Call Ended]
+Samtale avsluttet
+[Declined]
+Avvist
+[No address found]
+Ingen adresse funnet
+[Request Terminated]
+Forespørsel avsluttet
+[Away]
+Borte
+[Publish Presence]
+Publiser tilstedeværelse
+[Session Progress]
+Sesjonsfremdrift
+[Camera]
+Kamera
+[Video Call]
+Videosamtale
+[Answer with Video]
+Svar med video
+[View Log File]
+Se loggfil
+[Microphone]
+Mikrofon
+[Speaker]
+Høytaler
+[Video Codec]
+Videokodeks
+[Check for Updates]
+Se etter oppdateringer
+[Daily]
+Daglig
+[Weekly]
+Ukentlig
+[Monthly]
+Månedlig
+[Quarterly]
+Kvartalsvis
+[Never]
+Aldri
+[Update Available]
+Oppdatering tilgjengelig
+[Do you want to update now?]
+Vil du oppdatere?
+[Force Codec for Incoming]
+Tving kodek for innkommende
+[Available Codecs]
+Tilgjengelig
+[Enabled Codecs]
+Aktivert
+[Invalid URI]
+Ugyldig URI
+[Offline]
+Frakoblet
+[Single Call Mode]
+Enkel samtalemodus
+[Local Video]
+Lokal video
+[Call Transfer]
+Samtaleoverføring
+[final]
+endelig
+[Call transfered successfully, disconnecting call]
+Vellykket overføring av samtale, kobler fra
+[Hold]
+Vent
+[Transfer]
+Overfør
+[Sound Events]
+DTMF lokal avspilling
+[Bitrate]
+Bitrate
+[Login]
+Identitet
+[Enable Log File]
+Aktiver logg-fil
+[Logs]
+Samtaler
+[Duration]
+Lengde
+[Info]
+Informasjon
+[display password]
+Vis passord
+[From]
+Fra
+[To]
+Til
+[Ring Device]
+Ringeenhet
+[Service Unavailable]
+Tjeneste utilgjengelig
+[Invalid Request URI]
+Ugyldig URI forespørsel
+[Busy Here]
+Opptatt her
+[Trying]
+Prøver
+[Method Not Allowed]
+Metode ikke tillatt
+[Not Found]
+Ikke funnet
+[Always on Top]
+Alltid øverst
+[Connect]
+Koble til
+[Last Call]
+Siste samtale
+[Close All]
+Lukk alle
+[Copy]
+Kopier
+[Select All]
+Velg alle
+[Display Name]
+Ditt navn
+[Remember Details]
+Husk detaljer
+[PIN]
+[No]
+Nei
+[All Calls]
+Alle samtaler
+[SIP Header]
+SIP header
+[Different User]
+Annen bruker
+[Different Domain]
+Annet domene
+[Different User or Domain]
+Annen bruker eller domene
+[Different Remote Domain]
+Annet eksternt domene
+[Deny Incoming]
+Blokkér innkommende
+[Allow IP Rewrite]
+Tillat IP omskriving
+[Directory of Users]
+Katalog med brukere
+[Call on Remote Hold]
+Samtale på ekstern vent
+[Call on Local Hold]
+Samtale på lokal vent
+[Call on Hold]
+Samtale er på vent
+[Call is Active]
+Samtale er aktiv
+[Menu]
+Meny
+[Edit Account]
+Rediger konto
+[Add Account...]
+Legg til konto...
+[Remove Account]
+Fjern konto
+[Make Active]
+Gjør aktiv
+[Are you sure you want to remove?]
+Er du sikker på at du vil fjerne?
+[Call Pickup]
+Hent samtale
+[Speaker Level]
+Høyttalernivå
+[Microphone Level]
+Mikrofonnivå
+[Mute Speaker]
+Demp høyttaler
+[Mute Microphone]
+Demp mikrofon
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+Vennligst fyll ut felter merket med *.
+[Ask your SIP provider how to configure the account correctly.]
+Be din SIP-leverandør om hjelp til konfigurering.
+[Random Popup Position]
+Tilfeldig plassering av dialog
+[Time]
+Tid
+[Attended Transfer]
+Overvåket overføring
+[Launch URL on incoming call]
+[Enable Local Account]
+Aktiver lokal konto
+[Send Crash Report]
+Send feilrapport
+[Account Name]
+Kontonavn
+[Invite to Conference]
+Inviter til komferanse
+[Merge]
+Sammenflett
+[Separate]
+Separer
+[Disconnect]
+Frakoble
+[DTMF Method]
+DTMF Metode
+[Voicemail Number]
+Talepostnummer
+[Disable Session Timers]
+Deaktiver Session Timers
+[Microphone Amplification]
+Mikrofonforsterkning
+[Software Level Adjustment]
+Nivåjustering av programmet
+[Shortcuts]
+Snarveier
+[Enable]
+Aktiver
+[Label]
+Merkelapp
+[Type]
+[Bottom Position]
+[You need to restart application for the changes to take effect.]
+Du må starte applikasjonen på nytt for at endringene tar effekt.
+[Handle Media Buttons]
+[Bring to Front on Incoming Call]
+[SIP account]
+[SIP password]
+[Help]
+Hjelp
+[Video Bitrate]
+[Control Button]
+Kontrollknapp
+[Do Not Disturb]
+Ikke Forstyrr
+[Source Port]
+[RTP Ports]
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+Importer
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+[Backspace]
+[Clear]
+[Use Space key to enable selected codec]
+[Use Delele key to disable selected codec]
+[Make Inactive]
+[Conference]
+Komferanse
+[]

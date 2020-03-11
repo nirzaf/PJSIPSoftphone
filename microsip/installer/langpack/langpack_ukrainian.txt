@@ -1,0 +1,365 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Виклик
+[End Call]
+Завершити
+[Contacts]
+Контакти
+[Phone]
+Кнопки
+[Account]
+Акаунт
+[Settings]
+Налаштування
+[Visit Website]
+Відвідати сайт
+[Exit]
+Вихід
+[Ringing Sound]
+Звук виклику
+[Browse...]
+Вибрати...
+[Default]
+За замовчуванням
+[Auto Answer]
+Авто відповідь
+[Disable Local Account]
+Вимкнути локальний акаунт
+[OK]
+ОК
+[Save]
+Зберегти
+[Cancel]
+Скасувати
+[SIP Server]
+SIP сервер
+[SIP Proxy]
+SIP проксі
+[Username]
+Користувач
+[Domain]
+Домен
+[Password]
+Пароль
+[Connecting...]
+Підключення...
+[Online]
+Онлайн
+[Local]
+Локальний
+[Message]
+Повідомлення
+[Edit]
+Змінити
+[Delete]
+Видалити
+[Add]
+Додати
+[Bad Gateway]
+Сервер не знайдений
+[Request Timeout]
+Таймаут запиту
+[Number]
+Номер
+[Name]
+І'мя
+[Contact]
+Контакт
+[Incoming Call]
+Вхідний виклик
+[Answer]
+Відповісти
+[Decline]
+Відхилити
+[Calling]
+Виклик
+[Connecting]
+З'єднання
+[Connected]
+З'єднаний
+[Auto]
+Авто
+[Transport]
+Транспорт
+[Incorrect Password]
+Неправильний пароль
+[Public Address]
+Публічна адреса
+[Media Encryption]
+Шифрування медіа
+[Disabled]
+Вимкнено
+[Optional]
+Необов'язково
+[Mandatory]
+Обов'язково
+[STUN Server]
+STUN сервер
+[Presence Subscription]
+Підписка на присутність
+[Ringing]
+Йде виклик
+[Call Ended]
+Дзвінок завершено
+[Declined]
+Виклик відхилено
+[No address found]
+Адресу не знайдено
+[Request Terminated]
+Виклик відмінено
+[Away]
+Відійшов
+[Publish Presence]
+Публікувати присутність
+[Session Progress]
+Сесія просувається
+[Camera]
+Камера
+[Video Call]
+Відеовиклик
+[Answer with Video]
+Відповісти з відео
+[View Log File]
+Перегляд лог файлу
+[Microphone]
+Мікрофон
+[Speaker]
+Динаміки
+[Video Codec]
+Відео кодек
+[Check for Updates]
+Перевіряти обновлення
+[Daily]
+Раз на день
+[Weekly]
+Раз на тиждень
+[Monthly]
+Раз на місяць
+[Quarterly]
+Щоквартально
+[Never]
+Ніколи
+[Update Available]
+Доступно оновлення
+[Do you want to update now?]
+Ви хочете оновити?
+[Force Codec for Incoming]
+Задавати кодек для вхідних
+[Available Codecs]
+Доступні
+[Enabled Codecs]
+Активні
+[Invalid URI]
+Неправильний номер
+[Offline]
+Офлайн
+[Single Call Mode]
+Режим одиночного виклику
+[Local Video]
+Локальне відео
+[Call Transfer]
+Передача виклику
+[final]
+останій
+[Call transfered successfully, disconnecting call]
+Виклик вдало перенаправлено, відключення
+[Hold]
+Утримання
+[Transfer]
+Перенаправлення
+[Sound Events]
+Звукові події
+[Bitrate]
+Бітрейт
+[Login]
+Лоґін
+[Enable Log File]
+Ввімкнути лог файл
+[Logs]
+Виклики
+[Duration]
+Тривалість
+[Info]
+Інфо
+[display password]
+показати пароль
+[From]
+Від
+[To]
+Кому
+[Ring Device]
+Пристрій для виклику
+[Service Unavailable]
+Сервіс недоступний
+[Invalid Request URI]
+Невірний номер
+[Busy Here]
+Зайнято
+[Trying]
+Спроба
+[Method Not Allowed]
+Не дозволено
+[Not Found]
+Не знайдено
+[Always on Top]
+Завжди зверху
+[Connect]
+Підключитися
+[Last Call]
+Останній виклик
+[Close All]
+Закрити всі
+[Copy]
+Копіювати
+[Select All]
+Вибрати все
+[Display Name]
+Ваше і'мя
+[Remember Details]
+Запам'ятати пароль
+[PIN]
+PIN
+[No]
+Ні
+[All Calls]
+Всі виклики
+[SIP Header]
+SIP заголовок
+[Different User]
+Інший користувач
+[Different Domain]
+Інший домен
+[Different User or Domain]
+Інший користувач або домен
+[Different Remote Domain]
+Інший віддалений домен
+[Deny Incoming]
+Заборонити вхідні
+[Allow IP Rewrite]
+Дозволити перезапис IP
+[Directory of Users]
+Каталог користувачів
+[Call on Remote Hold]
+Виклик на віддаленому утриманні
+[Call on Local Hold]
+Виклик на локальному утриманні
+[Call on Hold]
+Виклик на утриманні
+[Call is Active]
+Виклик активний
+[Menu]
+Меню
+[Edit Account]
+Змінити акаунт
+[Add Account...]
+Додати акаунт
+[Remove Account]
+Видалити акаунт
+[Make Active]
+Зробити активним
+[Are you sure you want to remove?]
+Ви дійстно бажаєте видалити?
+[Call Pickup]
+Перехоплення виклику
+[Speaker Level]
+Рівень динаміків
+[Microphone Level]
+Рівень мікрофону
+[Mute Speaker]
+Вимкнути динаміки
+[Mute Microphone]
+Вимкнути мікрофон
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+Будь ласка, заповніть принаймні усі обов'язкові поля, відмічені *.
+[Ask your SIP provider how to configure the account correctly.]
+Дізнайтеся у вашого SIP-провайдера як правильно налаштувати акаунт.
+[Random Popup Position]
+Випадкова позиція
+[Time]
+Час
+[Attended Transfer]
+Передача виклику з супроводом
+[Launch URL on incoming call]
+[Enable Local Account]
+Ввімкнути локальний акаунт
+[Send Crash Report]
+Відсилати звіт про падіння
+[Account Name]
+Ім'я акаунта
+[Invite to Conference]
+Запросити до конференції
+[Merge]
+Об'єднати
+[Separate]
+Відокремити
+[Disconnect]
+Роз'єднати
+[DTMF Method]
+DTMF метод
+[Voicemail Number]
+Голосова пошта
+[Disable Session Timers]
+Вимкнути таймери сесії
+[Microphone Amplification]
+Підсилення мікрофону
+[Software Level Adjustment]
+Програмне регулювання рівня
+[Shortcuts]
+Швидкі кнопки
+[Enable]
+Включити
+[Label]
+Мітка
+[Type]
+Тип
+[Bottom Position]
+Розміщення внизу
+[You need to restart application for the changes to take effect.]
+Перезапустіть додаток щоб зміни вступили в силу.
+[Handle Media Buttons]
+Керування мультимедійними кнопками
+[Bring to Front on Incoming Call]
+Активувати при вхідному виклику
+[SIP account]
+[SIP password]
+[Help]
+Довідка
+[Video Bitrate]
+Бітрейт відео
+[Control Button]
+Кнопка керування
+[Do Not Disturb]
+Не турбувати
+[Source Port]
+Порт джерела
+[RTP Ports]
+RTP Порти
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+Імпорт
+[Server]
+Сервер
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+Повторний виклик
+[Backspace]
+Повернути назад
+[Clear]
+Очистити
+[Use Space key to enable selected codec]
+Використовуйте клавішу пробіл щоб включити кодек
+[Use Delele key to disable selected codec]
+Використовуйте клавішу Delete щоб вимкнути кодек
+[Make Inactive]
+[Conference]
+Конференція
+[]

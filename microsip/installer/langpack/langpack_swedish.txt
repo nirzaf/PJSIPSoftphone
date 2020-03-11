@@ -1,0 +1,363 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Ring
+[End Call]
+Koppla ned
+[Contacts]
+Kontakter
+[Phone]
+Knappsats
+[Account]
+Konto
+[Settings]
+Inställningar
+[Visit Website]
+Besök hemsida
+[Exit]
+Avsluta
+[Ringing Sound]
+Ringsignal
+[Browse...]
+Bläddra
+[Default]
+Standard
+[Auto Answer]
+Svara automatiskt
+[Disable Local Account]
+Deaktivera lokalt konto
+[OK]
+Ok
+[Save]
+Spara
+[Cancel]
+Avbryt
+[SIP Server]
+SIP server
+[SIP Proxy]
+SIP proxy
+[Username]
+Användarnamn
+[Domain]
+Domän
+[Password]
+Lösenord
+[Connecting...]
+Ansluter...
+[Online]
+Närvarande
+[Local]
+Lokalt konto
+[Message]
+Meddelande
+[Edit]
+Redigera
+[Delete]
+Radera
+[Add]
+Lägg till
+[Bad Gateway]
+Kan ej slå upp SIP serverns adress
+[Request Timeout]
+Kommunikation med servern besvarades ej i tid
+[Number]
+Nummer
+[Name]
+Namn
+[Contact]
+Kontakt
+[Incoming Call]
+Inkommande samtal
+[Answer]
+Svara
+[Decline]
+Avvisa
+[Calling]
+Ringer upp
+[Connecting]
+Ansluter
+[Connected]
+Ansluten
+[Auto]
+Automatisk
+[Transport]
+Nätverksprotokoll
+[Incorrect Password]
+Ogiltigt lösenord
+[Public Address]
+Publik address
+[Media Encryption]
+Datakryptering
+[Disabled]
+Använd ej
+[Optional]
+Valfri
+[Mandatory]
+Användning obligatorisk
+[STUN Server]
+STUN server
+[Presence Subscription]
+Inhämta närvarostatus
+[Ringing]
+Det ringer
+[Call Ended]
+Samtalet avslutat
+[Declined]
+Nekad
+[No address found]
+Numret finns ej
+[Request Terminated]
+Uppringning avbröts
+[Away]
+Frånvarande
+[Publish Presence]
+Publicera närvaro
+[Session Progress]
+Session framsteg
+[Camera]
+Kamera
+[Video Call]
+Videosamtal
+[Answer with Video]
+Svara med video
+[View Log File]
+Visa logg
+[Microphone]
+Mikrofon
+[Speaker]
+Högtalare
+[Video Codec]
+Videokodningsformat
+[Check for Updates]
+Sök efter uppdateringar
+[Daily]
+Dagligen
+[Weekly]
+Veckovis
+[Monthly]
+Månadsvis
+[Quarterly]
+Kvartalsvis
+[Never]
+Aldrig
+[Update Available]
+Det finns en uppdatering
+[Do you want to update now?]
+Vill du uppdatera?
+[Force Codec for Incoming]
+Tvinga codec för inkommande
+[Available Codecs]
+Tillgängliga
+[Enabled Codecs]
+Aktiverade
+[Invalid URI]
+Ogiltig URI
+[Offline]
+Ej redo
+[Single Call Mode]
+Ensamtalsläge
+[Local Video]
+Lokal video
+[Call Transfer]
+Överför samtal
+[final]
+slutlig
+[Call transfered successfully, disconnecting call]
+Samtalet överfört, kopplar ur
+[Hold]
+Parkera
+[Transfer]
+Koppla över
+[Sound Events]
+Lokal tonsignalering
+[Bitrate]
+Bithastighet
+[Login]
+Logga in
+[Enable Log File]
+Aktivera loggning till fil
+[Logs]
+Samtal
+[Duration]
+Längd
+[Info]
+Information
+[display password]
+visa lösenord
+[From]
+Från
+[To]
+Till
+[Ring Device]
+Ringsignalering
+[Service Unavailable]
+Tjänsten otillgänglig
+[Invalid Request URI]
+Ogiltig förfrågan (URI)
+[Busy Here]
+Upptagen
+[Trying]
+Försöker
+[Method Not Allowed]
+Metod inte tillåten
+[Not Found]
+Hittades inte
+[Always on Top]
+Alltid överst
+[Connect]
+Anslut
+[Last Call]
+Senaste samtal
+[Close All]
+Stäng alla
+[Copy]
+Kopiera
+[Select All]
+Markera allt
+[Display Name]
+Ditt namn
+[Remember Details]
+Komihåg detaljer
+[PIN]
+[No]
+Nej
+[All Calls]
+Alla samtal
+[SIP Header]
+SIP huvud
+[Different User]
+Annan användare
+[Different Domain]
+Annan domän
+[Different User or Domain]
+Annan användare eller domän
+[Different Remote Domain]
+Annan fjärrdomän
+[Deny Incoming]
+Blockera inkommande
+[Allow IP Rewrite]
+Tillåt IP omskrivning
+[Directory of Users]
+Katalog över användare
+[Call on Remote Hold]
+Samtal fjärr-parkerat
+[Call on Local Hold]
+Samtal parkerat lokalt
+[Call on Hold]
+Samtal parkerat
+[Call is Active]
+Samtal aktivt
+[Menu]
+Meny
+[Edit Account]
+Redigera konto
+[Add Account...]
+Lägg till konto...
+[Remove Account]
+Ta bort konto
+[Make Active]
+Aktivera
+[Are you sure you want to remove?]
+Vill du verkligen ta bort?
+[Call Pickup]
+Svara
+[Speaker Level]
+Högtalarnivå
+[Microphone Level]
+Mikrofon nivå
+[Mute Speaker]
+Tysta högtalare
+[Mute Microphone]
+Tysta mikrofon
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+Fyll åtminstone i de obligatoriska fälten markerade med *.
+[Ask your SIP provider how to configure the account correctly.]
+Fråga din SIP-leverantör hur du konfigurerar kontot korrekt.
+[Random Popup Position]
+Slumpmässig position av svaret rutan
+[Time]
+Tid
+[Attended Transfer]
+Välj att övervaka överföring
+[Launch URL on incoming call]
+[Enable Local Account]
+Aktivera lokalt konto
+[Send Crash Report]
+Skicka kraschrapport
+[Account Name]
+Kontonamn
+[Invite to Conference]
+Bjud in till konferens
+[Merge]
+Sammanfoga
+[Separate]
+Separera
+[Disconnect]
+Koppla från
+[DTMF Method]
+DTMF metod
+[Voicemail Number]
+Nummer till röstbrevlåda
+[Disable Session Timers]
+Deaktivera sessionstimern
+[Microphone Amplification]
+Mikrofonförstärkning
+[Software Level Adjustment]
+Mjukvarubaserad nivåjustering
+[Shortcuts]
+Snabbknappar
+[Enable]
+Aktivera
+[Label]
+Etikett, "tag"
+[Type]
+Typ
+[Bottom Position]
+Placera längst ned
+[You need to restart application for the changes to take effect.]
+Programmet behöver avslutas och startas igen för att ändringar ska bli tillgänliga.
+[Handle Media Buttons]
+Godkänn knapptryck från "multimediatangentbord"
+[Bring to Front on Incoming Call]
+Placera överst vid inkommande samtal
+[SIP account]
+[SIP password]
+[Help]
+Hjälp
+[Video Bitrate]
+Video bitrate
+[Control Button]
+Kontrol knapp
+[Do Not Disturb]
+Stör Ej
+[Source Port]
+Käll port
+[RTP Ports]
+RTP portar
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+Importera
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+Återuppringning
+[Backspace]
+backsteg
+[Clear]
+Radera
+[Use Space key to enable selected codec]
+Använd mellanslag för att aktivera vald codec
+[Use Delele key to disable selected codec]
+Använd mellanslag för att avaktivera vald codec
+[Make Inactive]
+[Conference]
+Konferens
+[]

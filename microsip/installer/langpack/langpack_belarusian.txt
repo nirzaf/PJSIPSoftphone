@@ -1,0 +1,363 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Выклік
+[End Call]
+Завяршыць выклік
+[Contacts]
+Кантакты
+[Phone]
+Набор нумара
+[Account]
+Уліковы запіс
+[Settings]
+Налады
+[Visit Website]
+Наведаць сайт
+[Exit]
+Выйсці
+[Ringing Sound]
+Гук выкліку
+[Browse...]
+Агляд...
+[Default]
+Па змаўчанні
+[Auto Answer]
+Адказваць адразу
+[Disable Local Account]
+Адключыць лакальны рахунак
+[OK]
+ОК
+[Save]
+Захаваць
+[Cancel]
+Адмена
+[SIP Server]
+SIP-сервер
+[SIP Proxy]
+SIP-проксі
+[Username]
+Карыстальнік
+[Domain]
+Дамен
+[Password]
+Пароль
+[Connecting...]
+Злучэнне...
+[Online]
+У сеціве
+[Local]
+Лакальны
+[Message]
+Паведамленне
+[Edit]
+Змяніць
+[Delete]
+Выдаліць
+[Add]
+Дадаць
+[Bad Gateway]
+Сервер не знойдзены
+[Request Timeout]
+Таймаўт запыту
+[Number]
+Нумар
+[Name]
+Імя
+[Contact]
+Кантакт
+[Incoming Call]
+Уваходны выклік
+[Answer]
+Адказаць
+[Decline]
+Адхіліць
+[Calling]
+Набор нумара
+[Connecting]
+Злучэнне
+[Connected]
+Злучаны
+[Auto]
+Аўтаматычна
+[Transport]
+Транспарт
+[Incorrect Password]
+Няправільны пароль
+[Public Address]
+Публічны адрас
+[Media Encryption]
+Шыфраванне медыя
+[Disabled]
+Адключана
+[Optional]
+Неабавязкова
+[Mandatory]
+Абавязкова
+[STUN Server]
+STUN-сервер
+[Presence Subscription]
+Падпіска на прысутнасць
+[Ringing]
+Ідзе выклік
+[Call Ended]
+Выклік завершаны
+[Declined]
+Выклік адхілены
+[No address found]
+Адрас не знойдзены
+[Request Terminated]
+Выклік скасаваны
+[Away]
+Няма на месцы
+[Publish Presence]
+Публікаваць прысутнасць
+[Session Progress]
+Ход выканання сесіі
+[Camera]
+Камера
+[Video Call]
+Відэавыклік
+[Answer with Video]
+Адказаць з відэа
+[View Log File]
+Прагляд журнала
+[Microphone]
+Мікрафон
+[Speaker]
+Дынамікі
+[Video Codec]
+Кодэк відэа
+[Check for Updates]
+Правяраць абнаўленні
+[Daily]
+Штодзень
+[Weekly]
+Штотыдзень
+[Monthly]
+Штомесяц
+[Quarterly]
+Раз на квартал
+[Never]
+Ніколі
+[Update Available]
+Даступна абнаўленне
+[Do you want to update now?]
+Вы сапраўды жадаеце абнавіць праграму?
+[Force Codec for Incoming]
+Задаць кодэк для ўваходных выклікаў
+[Available Codecs]
+Даступныя кодэкі
+[Enabled Codecs]
+Актыўныя кодэкі
+[Invalid URI]
+Няправільны URI-адрас
+[Offline]
+Па-за сецівам
+[Single Call Mode]
+Рэжым адзіночнага выкліку
+[Local Video]
+Лакальнае відэа
+[Call Transfer]
+Перанакіраванне выкліку
+[final]
+апошні
+[Call transfered successfully, disconnecting call]
+Выклік паспяхова перанакіраваны. Завяршэнне злучэння...
+[Hold]
+Утрыманне
+[Transfer]
+Перанакіраванне
+[Sound Events]
+Агучваць падзеі
+[Bitrate]
+Бітрэйт
+[Login]
+Лагін
+[Enable Log File]
+Рабіць запіс у журнал
+[Logs]
+Журнал выклікаў
+[Duration]
+Працягласць
+[Info]
+Звесткі
+[display password]
+паказаць пароль
+[From]
+Ад
+[To]
+Каму
+[Ring Device]
+Прылада для выкліку
+[Service Unavailable]
+Сэрвіс недаступны
+[Invalid Request URI]
+Няправільны нумар
+[Busy Here]
+Занята
+[Trying]
+Спроба
+[Method Not Allowed]
+Забаронена
+[Not Found]
+Не знойдзена
+[Always on Top]
+Заўсёды зверху
+[Connect]
+Падлучыць
+[Last Call]
+Апошні выклік
+[Close All]
+Закрыць усе
+[Copy]
+Скапіяваць
+[Select All]
+Выбраць усе
+[Display Name]
+Адлюстроўваць імя
+[Remember Details]
+Памятаць дэталі
+[PIN]
+[No]
+Не
+[All Calls]
+Усе выклікі
+[SIP Header]
+SIP-загаловак
+[Different User]
+Іншы карыстальнік
+[Different Domain]
+Іншы дамен
+[Different User or Domain]
+Іншы карыстальнік або дамен
+[Different Remote Domain]
+Іншы аддалены дамен
+[Deny Incoming]
+Забараніць уваходныя
+[Allow IP Rewrite]
+Дазволіць перазапіс IP-адрасоў
+[Directory of Users]
+Каталог карыстальнікаў
+[Call on Remote Hold]
+Выклік на аддаленым утрыманні
+[Call on Local Hold]
+Выклік на лакальным утрыманні
+[Call on Hold]
+Выклік на ўтрыманні
+[Call is Active]
+Выклік актыўны
+[Menu]
+Меню
+[Edit Account]
+Змяніць уліковы запіс
+[Add Account...]
+Дадаць уліковы запіс...
+[Remove Account]
+Выдаліць уліковы запіс
+[Make Active]
+Зрабіць актыўным
+[Are you sure you want to remove?]
+Вы сапраўды жадаеце выдаліць?
+[Call Pickup]
+Перахоп выкліку
+[Speaker Level]
+Узровень дынамікаў
+[Microphone Level]
+Узровень мікрафона
+[Mute Speaker]
+Адключыць дынамікі
+[Mute Microphone]
+Адключыць мікрафон
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+Калі ласка, прынамсі запоўніце ўсе абавязковыя палі пазначаныя *.
+[Ask your SIP provider how to configure the account correctly.]
+Спытайце вашага SIP-правайдара, як правільна наладзіць уліковы запіс.
+[Random Popup Position]
+Адвольная пазіцыя успл. акна
+[Time]
+Час
+[Attended Transfer]
+Перавод выкліку з суправаджэннем
+[Launch URL on incoming call]
+[Enable Local Account]
+Укл. лакальны ўліковы запіс
+[Send Crash Report]
+Адпр. журнал з памылкамі
+[Account Name]
+Назва ўліковага запісу
+[Invite to Conference]
+Запрасіць у канферэнцыю
+[Merge]
+Аб'яднаць
+[Separate]
+Раздзяліць
+[Disconnect]
+Адучыць
+[DTMF Method]
+DTMF-метад
+[Voicemail Number]
+Галасавая пошта
+[Disable Session Timers]
+Адключыць таймеры сесіі
+[Microphone Amplification]
+Узмацненне мікрафона
+[Software Level Adjustment]
+Праграмнае рэгуляванне ўзроўню
+[Shortcuts]
+Хуткія клавішы
+[Enable]
+Уключыць
+[Label]
+Пазнака
+[Type]
+Тып
+[Bottom Position]
+Размяшчэнне ўнізе
+[You need to restart application for the changes to take effect.]
+Перазапусціце праграму, каб убачыць зробленыя змяненні.
+[Handle Media Buttons]
+Кіраванне мультымедыйнымі клавішамі
+[Bring to Front on Incoming Call]
+Усплыв. акно пры ўваходным выкліку
+[SIP account]
+[SIP password]
+[Help]
+Даведка
+[Video Bitrate]
+Бітрэйт відэа
+[Control Button]
+Клавішы кіравання
+[Do Not Disturb]
+Не турбаваць
+[Source Port]
+Выходны порт
+[RTP Ports]
+RTP-порты
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+Імпарт
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+Паўтарыць выклік
+[Backspace]
+Вярнуць назад
+[Clear]
+Ачысціць
+[Use Space key to enable selected codec]
+Выкарыстоўвайце прабел, каб уключыць кодэк
+[Use Delele key to disable selected codec]
+Выкарыстоўвайце клавішу Delete, каб выключыць кодэк
+[Make Inactive]
+[Conference]
+Канферэнцыя
+[]

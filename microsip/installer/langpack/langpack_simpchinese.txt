@@ -1,0 +1,363 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+呼叫
+[End Call]
+结束
+[Contacts]
+联系人
+[Phone]
+拨号盘
+[Account]
+帐号
+[Settings]
+设置
+[Visit Website]
+访问网站
+[Exit]
+退出
+[Ringing Sound]
+响铃声音
+[Browse...]
+浏览
+[Default]
+默认
+[Auto Answer]
+自动应答
+[Disable Local Account]
+禁用本地帐号
+[OK]
+确认
+[Save]
+保存
+[Cancel]
+取消
+[SIP Server]
+SIP 服务器
+[SIP Proxy]
+SIP 代理
+[Username]
+用户
+[Domain]
+域名
+[Password]
+密码
+[Connecting...]
+连接中
+[Online]
+在线
+[Local]
+本地
+[Message]
+信息
+[Edit]
+编辑
+[Delete]
+删除
+[Add]
+增加
+[Bad Gateway]
+错误网关
+[Request Timeout]
+请求超时
+[Number]
+数字
+[Name]
+名称
+[Contact]
+联系人
+[Incoming Call]
+电话呼入
+[Answer]
+应答
+[Decline]
+拒绝
+[Calling]
+拨号中
+[Connecting]
+连接中
+[Connected]
+已连接
+[Auto]
+自动
+[Transport]
+透传
+[Incorrect Password]
+密码错误
+[Public Address]
+公共地址
+[Media Encryption]
+加密媒体
+[Disabled]
+禁用
+[Optional]
+可选
+[Mandatory]
+受委托
+[STUN Server]
+STUN 服务器
+[Presence Subscription]
+在线订阅
+[Ringing]
+响铃中
+[Call Ended]
+呼叫结束
+[Declined]
+拒绝
+[No address found]
+找不到地址
+[Request Terminated]
+请求中断
+[Away]
+离开
+[Publish Presence]
+发布状态
+[Session Progress]
+会话进度
+[Camera]
+摄像头
+[Video Call]
+视频呼叫
+[Answer with Video]
+视频应答
+[View Log File]
+查看日志文件
+[Microphone]
+麦克风
+[Speaker]
+扬声器
+[Video Codec]
+视频编码
+[Check for Updates]
+检查更新
+[Daily]
+每天
+[Weekly]
+每周
+[Monthly]
+每月
+[Quarterly]
+每季度
+[Never]
+从不
+[Update Available]
+有更新可用
+[Do you want to update now?]
+是否现在升级?
+[Force Codec for Incoming]
+强制呼入的编码
+[Available Codecs]
+可用编码
+[Enabled Codecs]
+启用编码
+[Invalid URI]
+非法 URI
+[Offline]
+离线
+[Single Call Mode]
+单呼叫模式
+[Local Video]
+本地视频
+[Call Transfer]
+呼叫转移
+[final]
+最后
+[Call transfered successfully, disconnecting call]
+呼叫转移成功，断开当前呼叫
+[Hold]
+保持
+[Transfer]
+转移
+[Sound Events]
+声音事件
+[Bitrate]
+速率
+[Login]
+登录名
+[Enable Log File]
+启用日志文件
+[Logs]
+呼叫记录
+[Duration]
+持续时间
+[Info]
+信息
+[display password]
+显示密码
+[From]
+来自
+[To]
+到
+[Ring Device]
+响铃设备
+[Service Unavailable]
+服务不可用
+[Invalid Request URI]
+无效的 URI 请求
+[Busy Here]
+忙碌
+[Trying]
+尝试
+[Method Not Allowed]
+不允许的方式
+[Not Found]
+没有找到
+[Always on Top]
+总在最前面
+[Connect]
+连接
+[Last Call]
+最后通话
+[Close All]
+关闭所有
+[Copy]
+复制
+[Select All]
+选择所有
+[Display Name]
+显示名称
+[Remember Details]
+记住密码
+[PIN]
+[No]
+否
+[All Calls]
+所有呼叫
+[SIP Header]
+SIP 报头
+[Different User]
+不同用户
+[Different Domain]
+不同域
+[Different User or Domain]
+不同的用户或组
+[Different Remote Domain]
+不同的远程域
+[Deny Incoming]
+拒绝来电
+[Allow IP Rewrite]
+允许 IP 重写
+[Directory of Users]
+用户目录
+[Call on Remote Hold]
+保持远程呼叫
+[Call on Local Hold]
+保持本地呼叫
+[Call on Hold]
+保持在线
+[Call is Active]
+呼叫已激活
+[Menu]
+菜单
+[Edit Account]
+编辑账户
+[Add Account...]
+添加账户...
+[Remove Account]
+移除账户
+[Make Active]
+激活
+[Are you sure you want to remove?]
+确定要移除吗？
+[Call Pickup]
+接入
+[Speaker Level]
+扬声器音量大小
+[Microphone Level]
+麦克风音量大小
+[Mute Speaker]
+扬声器静音
+[Mute Microphone]
+麦克风静音
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+标有*的字段为必填项。
+[Ask your SIP provider how to configure the account correctly.]
+请询问你的 SIP 供应商如何正确设置账号
+[Random Popup Position]
+随机位置
+[Time]
+时间
+[Attended Transfer]
+座席呼转
+[Launch URL on incoming call]
+[Enable Local Account]
+开启本地账号
+[Send Crash Report]
+发送崩溃报告
+[Account Name]
+账号名
+[Invite to Conference]
+邀请参加会议
+[Merge]
+合并
+[Separate]
+分离
+[Disconnect]
+断开
+[DTMF Method]
+DTMF传递方法
+[Voicemail Number]
+语音信箱号码
+[Disable Session Timers]
+禁用会话计时器
+[Microphone Amplification]
+放大麦克风音量
+[Software Level Adjustment]
+软件水平调整
+[Shortcuts]
+捷径
+[Enable]
+开启
+[Label]
+标签
+[Type]
+类型
+[Bottom Position]
+底部位置
+[You need to restart application for the changes to take effect.]
+您需要重新启动应用以便更新生效
+[Handle Media Buttons]
+多媒体控制按钮
+[Bring to Front on Incoming Call]
+来电时显示在最前面
+[SIP account]
+[SIP password]
+[Help]
+帮助
+[Video Bitrate]
+视频码速率
+[Control Button]
+控制按钮
+[Do Not Disturb]
+请勿打扰
+[Source Port]
+源端口
+[RTP Ports]
+RTP端口
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+导入
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+重播
+[Backspace]
+后退
+[Clear]
+清除
+[Use Space key to enable selected codec]
+用空格键启用选中的编码
+[Use Delele key to disable selected codec]
+用删除键禁用选中的编码
+[Make Inactive]
+[Conference]
+会议
+[]

@@ -1,0 +1,353 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Hívás
+[End Call]
+Befejezés
+[Contacts]
+Névjegyek
+[Phone]
+Tárcsázó
+[Account]
+Fiók
+[Settings]
+Beállítások
+[Visit Website]
+Honlap
+[Exit]
+Kilépés
+[Ringing Sound]
+Csengőhang
+[Browse...]
+Tallózás...
+[Default]
+Alaphelyzet
+[Auto Answer]
+Automatikus válasz
+[Disable Local Account]
+Helyi fiók kikapcsolása
+[OK]
+Rendben
+[Save]
+Mentés
+[Cancel]
+Mégse
+[SIP Server]
+SIP szerver
+[SIP Proxy]
+SIP proxy
+[Username]
+Felhasználónév
+[Domain]
+Domain
+[Password]
+Jelszó
+[Connecting...]
+Kapcsolódás...
+[Online]
+Online
+[Local]
+Helyi
+[Message]
+Üzenet
+[Edit]
+Szerkesztés
+[Delete]
+Törlés
+[Add]
+Hozzáadás
+[Bad Gateway]
+Hibás átjáró
+[Request Timeout]
+Kérés időtúllépése
+[Number]
+Telefonszám
+[Name]
+Név
+[Contact]
+Névjegy
+[Incoming Call]
+Bejövő hívás
+[Answer]
+Válasz
+[Decline]
+Elutasít
+[Calling]
+Hívás
+[Connecting]
+Kapcsolódás
+[Connected]
+Kapcsolódva
+[Auto]
+Automatikus
+[Transport]
+Átvitel
+[Incorrect Password]
+Hibás jelszó
+[Public Address]
+Nyilvános cím
+[Media Encryption]
+Média titkosítás
+[Disabled]
+Kikapcsolva
+[Optional]
+Opcionális
+[Mandatory]
+Kötelező
+[STUN Server]
+STUN szerver
+[Presence Subscription]
+Elérhetőség jelzése
+[Ringing]
+Csengés
+[Call Ended]
+Hívás vége
+[Declined]
+Elutasítva
+[No address found]
+Cím nem található
+[Request Terminated]
+Kérés lezárva
+[Away]
+Vendég
+[Publish Presence]
+Jelenlét közzététel
+[Session Progress]
+Haladás
+[Camera]
+Kamera
+[Video Call]
+Video hívás
+[Answer with Video]
+Válasz videoval
+[View Log File]
+Naplófájl nézés
+[Microphone]
+Mikrofon
+[Speaker]
+Hangszóró
+[Video Codec]
+Video kodek
+[Check for Updates]
+Frissítések ellenőrzése
+[Daily]
+Naponta
+[Weekly]
+Hetente
+[Monthly]
+Havonta
+[Quarterly]
+Negyedévenként
+[Never]
+Soha
+[Update Available]
+Frissítés érhető el
+[Do you want to update now?]
+Szeretné frissíteni a programot?
+[Force Codec for Incoming]
+Kodek kényszerítése a bejövő hívásokra
+[Available Codecs]
+Elérhető
+[Enabled Codecs]
+Engedélyezve
+[Invalid URI]
+Érvénytelen URI
+[Offline]
+Kapcsolat nélkül
+[Single Call Mode]
+Egy hívás mód
+[Local Video]
+Helyi video
+[Call Transfer]
+Hívás átadása
+[final]
+Utolsó
+[Call transfered successfully, disconnecting call]
+Hívás megtörtént, hívás bontása
+[Hold]
+Tartás
+[Transfer]
+Átvitel
+[Sound Events]
+Hang események
+[Bitrate]
+Bitráta
+[Login]
+Bejelentkezés
+[Enable Log File]
+Naplózás engedélyezés
+[Logs]
+Hívások
+[Duration]
+Időtartam
+[Info]
+Információ
+[display password]
+Jelszó megjelenítése
+[From]
+Küldő
+[To]
+Címzett
+[Ring Device]
+Csengetés
+[Service Unavailable]
+Szolgáltatás nem elérhető
+[Invalid Request URI]
+Érvénytelen kérés
+[Busy Here]
+Foglalt
+[Trying]
+Próbálkozás
+[Method Not Allowed]
+Nem engedélyezett metódus
+[Not Found]
+Nem található
+[Always on Top]
+Mindig felül
+[Connect]
+Kapcsolódás
+[Last Call]
+Utolsó hívás
+[Close All]
+Mindent bezár
+[Copy]
+Másolás
+[Select All]
+Mindent kijelöl
+[Display Name]
+Az Ön neve
+[Remember Details]
+Adatok megjegyzése
+[PIN]
+[No]
+Nem
+[All Calls]
+Összes hívás
+[SIP Header]
+SIP fejléc
+[Different User]
+Más felhasználó
+[Different Domain]
+Másik domain
+[Different User or Domain]
+Más felhasználó vagy domain
+[Different Remote Domain]
+Másik távoli domain
+[Deny Incoming]
+Bejövő tiltása
+[Allow IP Rewrite]
+IP átírányítás engedélyezése
+[Directory of Users]
+Felhasználók listája
+[Call on Remote Hold]
+Hívás távoli tartásban
+[Call on Local Hold]
+Hívás tartásban helyileg
+[Call on Hold]
+Hívás tartásban
+[Call is Active]
+Hívás aktív
+[Menu]
+Menü
+[Edit Account]
+Fiók szerkesztése
+[Add Account...]
+Fiók hozzáadása...
+[Remove Account]
+Fiók eltávolítása
+[Make Active]
+Legyen aktív
+[Are you sure you want to remove?]
+Biztos, hogy el akarja távolítani?
+[Call Pickup]
+Hívás fogadása
+[Speaker Level]
+Hangszóró hangerő
+[Microphone Level]
+Mikrofon szint
+[Mute Speaker]
+Hangszóró némítása
+[Mute Microphone]
+Mikrofon némítása
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+Kérjük, töltse ki legalább a kötelező, *-gal jelölt mezőket.
+[Ask your SIP provider how to configure the account correctly.]
+Kérdezze meg a SIP-szolgáltatót, hogyan kell beállítani a fiókot helyesen.
+[Random Popup Position]
+Véletlenszerű pozíció
+[Time]
+Idő
+[Attended Transfer]
+Hívásátkapcsolás
+[Launch URL on incoming call]
+[Enable Local Account]
+Helyi fiók engedélyezése
+[Send Crash Report]
+Összeomlási jelentés küldése
+[Account Name]
+Fióknév
+[Invite to Conference]
+Meghívás konferenciába
+[Merge]
+Összevon
+[Separate]
+Szétválaszt
+[Disconnect]
+Szétkapcsolás
+[DTMF Method]
+DTMF metódus
+[Voicemail Number]
+Hangposta száma
+[Disable Session Timers]
+Session időzítők kikapcsolása
+[Microphone Amplification]
+Mikrofon erősítés
+[Software Level Adjustment]
+Szoftveres Szint Beállítás
+[Shortcuts]
+Parancsikonok
+[Enable]
+Engedélyezés
+[Label]
+Címke
+[Type]
+Típus
+[Bottom Position]
+Alulra poziciónálva
+[You need to restart application for the changes to take effect.]
+Újra kell indítania az alkalmazást a változtatások életbeléptetéséhez.
+[Handle Media Buttons]
+Média gombok kezelése
+[Bring to Front on Incoming Call]
+Bejövő hívás esetén ablak előre helyezése
+[SIP account]
+[SIP password]
+[Help]
+Segítség
+[Video Bitrate]
+Videó Bitráta
+[Control Button]
+[Do Not Disturb]
+Ne Zavarjanak
+[Source Port]
+[RTP Ports]
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+[Backspace]
+[Clear]
+[Use Space key to enable selected codec]
+[Use Delele key to disable selected codec]
+[Make Inactive]
+[Conference]
+[]

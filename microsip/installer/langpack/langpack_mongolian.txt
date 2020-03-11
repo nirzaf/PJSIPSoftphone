@@ -1,0 +1,361 @@
+﻿Language Pack
+RTL: 0
+
+; utf8
+
+[Call]
+Залгах
+[End Call]
+Дуудлагыг дуусгах
+[Contacts]
+Утасны дэвтэр
+[Phone]
+Товчлуур
+[Account]
+Хэрэглэгчийн мэдээлэл
+[Settings]
+Тохиргоо
+[Visit Website]
+Вэбсайт руу орох
+[Exit]
+Гарах
+[Ringing Sound]
+Дуудах ая
+[Browse...]
+Файл сонгох...
+[Default]
+Үндсэн
+[Auto Answer]
+Автоматаар хариулах
+[Disable Local Account]
+Дотоод эрхийг хаах
+[OK]
+ОК
+[Save]
+Хадгалах
+[Cancel]
+Цуцлах
+[SIP Server]
+SIP сервер
+[SIP Proxy]
+SIP прокси
+[Username]
+Нэвтрэх нэр
+[Domain]
+Домэйн
+[Password]
+Нууц үг
+[Connecting...]
+Холбогдож байна...
+[Online]
+Холбогдсон
+[Local]
+Дотоод
+[Message]
+Зурвас
+[Edit]
+Өөрчлөх
+[Delete]
+Устгах
+[Add]
+Нэмэх
+[Bad Gateway]
+Буруу гарц тохируулсан
+[Request Timeout]
+Хүсэлт амжилтгүй
+[Number]
+Дугаар
+[Name]
+Нэр
+[Contact]
+Контакт
+[Incoming Call]
+Дуудлага ирлээ
+[Answer]
+Хариулах
+[Decline]
+Таслах
+[Calling]
+Дуудаж байна
+[Connecting]
+Холбогдож байна
+[Connected]
+Холбогдсон
+[Auto]
+Автомат
+[Transport]
+Транспорт
+[Incorrect Password]
+Нууц үг буруу байна
+[Public Address]
+Интернет хаяг
+[Media Encryption]
+Ярианы нууцлал
+[Disabled]
+Идэвхигүй
+[Optional]
+Заавал шаардлагагүй
+[Mandatory]
+Заавал оруулна
+[STUN Server]
+STUN сервер
+[Presence Subscription]
+[Ringing]
+Дуудаж байна
+[Call Ended]
+Дуудлага дууслаа
+[Declined]
+Тасалсан
+[No address found]
+Хаяг олдсонгүй
+[Request Terminated]
+Хүсэлт цуцлагдсан
+[Away]
+Эзгүй
+[Publish Presence]
+Төлвийг харуулах
+[Session Progress]
+Дуудлагын явц
+[Camera]
+Камер
+[Video Call]
+Видео дуудлага
+[Answer with Video]
+Хариулах /Дүрстэй/
+[View Log File]
+Лог файлыг харах
+[Microphone]
+Микрофон
+[Speaker]
+Аудио
+[Video Codec]
+Видео кодек
+[Check for Updates]
+Шинэ хувилбарыг шалгах
+[Daily]
+Өдөр бүр
+[Weekly]
+7 хоног бүр
+[Monthly]
+Сар бүр
+[Quarterly]
+Улирал бүр
+[Never]
+Үгүй
+[Update Available]
+Шинэ хувилбар гарсан
+[Do you want to update now?]
+Програмыг одоо шинэчлэх үү?
+[Force Codec for Incoming]
+[Available Codecs]
+Боломжтой кодек
+[Enabled Codecs]
+Идэвхижүүлсэн кодек
+[Invalid URI]
+URI буруу
+[Offline]
+Холбогдоогүй
+[Single Call Mode]
+Хялбаршуулсан дуудлагын горим
+[Local Video]
+Дотоод видео
+[Call Transfer]
+Дуудлага шилжүүлэх
+[final]
+эцсийн
+[Call transfered successfully, disconnecting call]
+Дуудлагыг шилжүүллээ. Холболтыг тасалж байна
+[Hold]
+Хүлээлгэх
+[Transfer]
+Шилжүүлэх
+[Sound Events]
+Дуут дохио өгөх
+[Bitrate]
+Bitrate
+[Login]
+Нэвтрэх
+[Enable Log File]
+Лог файлыг идэвхижүүлэх
+[Logs]
+Бүртгэл
+[Duration]
+Хугацаа
+[Info]
+Мэдээлэл
+[display password]
+Нууц үгийг харуулах
+[From]
+Залгагч
+[To]
+Хүлээн авагч
+[Ring Device]
+Дохио өгөх төхөөрөмж
+[Service Unavailable]
+Үйлчилгээ тасарсан
+[Invalid Request URI]
+Request URI буруу
+[Busy Here]
+Завгүй
+[Trying]
+Түр хүлээнэ үү
+[Method Not Allowed]
+Зөвшөөрөгдөөгүй арга
+[Not Found]
+Олдсонгүй
+[Always on Top]
+Үргэлж дэлгэцэнд харуулна
+[Connect]
+Холбогдох
+[Last Call]
+Сүүлийн дуудлага
+[Close All]
+Бүгдийг хаах
+[Copy]
+Хуулах
+[Select All]
+Бүгдийг сонгох
+[Display Name]
+Харагдах нэр
+[Remember Details]
+Мэдээллийг санах
+[PIN]
+[No]
+Үгүй
+[All Calls]
+Бүх дуудлага
+[SIP Header]
+SIP Header
+[Different User]
+Өөр хэрэглэгч
+[Different Domain]
+Өөр домэйн
+[Different User or Domain]
+Өөр хэрэглэгч/домэйн
+[Different Remote Domain]
+Өөр remote домэйн
+[Deny Incoming]
+Ирэх дуудлагыг хаах
+[Allow IP Rewrite]
+IP rewrite идэвхижүүлэх
+[Directory of Users]
+Хэрэглэгчийн жагсаалт
+[Call on Remote Hold]
+Дуудлагыг remote хүлээлгэсэн
+[Call on Local Hold]
+Дуудлагыг дотоодод хүлээлгэсэн
+[Call on Hold]
+Дуудлага хүлээгдсэн
+[Call is Active]
+Дуудлага хийгдэж байна
+[Menu]
+Цэс
+[Edit Account]
+Мэдээллийг өөрчлөх
+[Add Account...]
+Хэрэглэгч нэмэх...
+[Remove Account]
+Хаягийг устгах
+[Make Active]
+Идэвхижүүлэх
+[Are you sure you want to remove?]
+Та устгахдаа итгэлтэй байна уу?
+[Call Pickup]
+Дуудлага авах
+[Speaker Level]
+Аудионы түвшин
+[Microphone Level]
+Микрофоны түвшин
+[Mute Speaker]
+Аудиог хаах
+[Mute Microphone]
+Микрофоныг хаах
+[Balance]
+[Custom INI Path]
+[Contact Us]
+[Please fill out at least the required fields marked with *.]
+* тэмдгээр тэмдэглэгдсэн хэсгүүдийг заавал бөглөнө үү.
+[Ask your SIP provider how to configure the account correctly.]
+Та үйлчилгээ үзүүлэгчээс лавлана уу
+[Random Popup Position]
+Хаана ч нээгдэх боломжтой
+[Time]
+Хугацаа
+[Attended Transfer]
+Оролцоотой шилжүүлэг
+[Launch URL on incoming call]
+[Enable Local Account]
+Дотоод хаягийг зөвшөөрөх
+[Send Crash Report]
+Алдааны мэдээллийг илгээх
+[Account Name]
+Нэр
+[Invite to Conference]
+Телефон хуралд урих
+[Merge]
+Нэгтгэх
+[Separate]
+Салгах
+[Disconnect]
+Салгах
+[DTMF Method]
+DTMF төрөл
+[Voicemail Number]
+Дуут шуудангийн дугаар
+[Disable Session Timers]
+Дуудлагын хугацааг хаах
+[Microphone Amplification]
+Микрофоны чадал
+[Software Level Adjustment]
+Програмын түвшингийн тохируулга
+[Shortcuts]
+Товчнууд
+[Enable]
+Идэвхижүүлэх
+[Label]
+Шошго
+[Type]
+Төрөл
+[Bottom Position]
+Доод байрлал
+[You need to restart application for the changes to take effect.]
+Тохиргоог идэвхижүүлэхэд програмаас гараад дахин ажиллуулна уу.
+[Handle Media Buttons]
+Төхөөрөмжийн товчлууруудыг ажиллуулах
+[Bring to Front on Incoming Call]
+Дуудлага ирэхэд урд харуулах
+[SIP account]
+[SIP password]
+[Help]
+Тусламж
+[Video Bitrate]
+Видеоны bitrate
+[Control Button]
+Удирдлагын товчлуур
+[Do Not Disturb]
+Завгүй
+[Source Port]
+Source порт
+[RTP Ports]
+RTP портууд
+[Unregister the account when the operator is Away]
+[Ask for the sip USER and SECRET everytime]
+[Import]
+Импорт
+[Server]
+[Attendant Transfer]
+[Blind Transfer]
+[Redial]
+Эргэж залгах
+[Backspace]
+Буцаах
+[Clear]
+Цэвэрлэх
+[Use Space key to enable selected codec]
+Space товчоор сонгосон кодекыг нэмэх
+[Use Delele key to disable selected codec]
+Delete товчоор сонгосон кодекыг хасах
+[Make Inactive]
+[Conference]
+Хурал
+[]
